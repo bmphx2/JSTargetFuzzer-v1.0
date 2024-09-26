@@ -1,3 +1,12 @@
+# JSTargetFuzzer
+
+JSTargetFuzzer-v1.0 is an approach utilizing a novel code-coverage fuzzing guidance using Fuzzilli as base software.
+
+## Targets
+
+JSTargetFuzzer utilizes the JavaScript engine's instrumentation to target security-relevant address space and redirect the fuzzing campaings towards it.
+Instrumentation examples are found in ./Targets/*
+
 # Fuzzilli
 
 A (coverage-)guided fuzzer for dynamic language interpreters based on a custom intermediate language ("FuzzIL") which can be mutated and translated to JavaScript.
