@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "*.json": "json",
+        "*.py": "python",
+        "cstring": "cpp",
+        "libcoverage.h": "c",
+        "cstdint": "c",
+        "new": "cpp",
+        "stdbool.h": "c",
+        "chrono": "c",
+        "algorithm": "c",
+        "format": "c",
+        "mman.h": "c",
+        "time.h": "c",
+        "unistd.h": "c"
+    },
+    "cmake.configureOnOpen": false
+}

@@ -1,0 +1,10 @@
+echo 0 | sudo tee /proc/sys/kernel/randomize_va_space
+sudo sysctl -w 'kernel.core_pattern=|/bin/false'
+export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games:/home/kali/PhD/depot_tools/:/home/kali/swift/usr/bin/
+
+git add .
+git commit -m "uploading files"
+git push -f origin main
+
+swift-run FuzzilliCli --profile=chakra /home/kali/PhD/JSEs/ChakraCore/FuzzBuild/Debug/ch
+./build.sh --target-path=FuzzBuild --debug --static -j=8
