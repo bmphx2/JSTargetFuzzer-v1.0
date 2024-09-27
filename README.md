@@ -6,11 +6,11 @@ JSTargetFuzzer-v1.0 is an approach utilizing a novel code-coverage fuzzing guida
 
 * System configuration:
 
-** Intel i9 14900F (24 cores)
-** Kali Linux 2024.1
+  * Intel i9 14900F (24 cores)
+  * Kali Linux 2024.1
 
 * Third-Party Software:
-** swift-5.6.2-RELEASE-ubuntu20.04
+  * swift-5.6.2-RELEASE-ubuntu20.04
 
 ## Targets
 
