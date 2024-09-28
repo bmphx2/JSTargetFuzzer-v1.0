@@ -11,7 +11,8 @@ JSTargetFuzzer-v1.0 is an approach utilizing a novel code-coverage fuzzing guida
 * Third-Party Software:
   * Install Swift version 5.6.3 (swift-5.6.2-RELEASE-ubuntu20.04)
   * Extract the tarball file and add to the $PATH:
-  * `export $PATH=$PATH:/home/user/swift-5.6.2/`
+  * ```bash
+    export $PATH=$PATH:/home/user/swift-5.6.2/
 
 * Instructions to install JSTargetFuzzer
   * In the terminal, run the following commands to clone the repository
@@ -20,7 +21,8 @@ JSTargetFuzzer-v1.0 is an approach utilizing a novel code-coverage fuzzing guida
   
 ## Usage
 If everything is working properly, you can run JSTargetFuzzer using the command-line:
-```swift-run FuzzilliCli --help``` 
+* ```bash
+   swift-run FuzzilliCli --help
 
 ### Targets & Instrumentation
 
