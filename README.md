@@ -15,15 +15,13 @@ JSTargetFuzzer-v1.0 is an approach utilizing a novel code-coverage fuzzing guida
 
 * Instructions to install JSTargetFuzzer
   * In the terminal, run the following commands to clone the repository
-  * `git clone https://anonymous.4open.science/r/JSTargetFuzzer/`
+  * ```git clone https://anonymous.4open.science/r/JSTargetFuzzer/```
   
 ## Usage
 If everything is working properly, you can run JSTargetFuzzer using the command-line:
-`swift-run FuzzilliCli --help` 
+```swift-run FuzzilliCli --help``` 
 
-
-
-## Targets
+### Targets & Instrumentation
 
 JSTargetFuzzer utilizes the JavaScript engine's instrumentation to target security-relevant address space and redirect the fuzzing campaings towards it.
 Instrumentation examples are found in ./Targets/*
