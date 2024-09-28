@@ -48,5 +48,14 @@ streamlit run app.py
 ```
 
 ### RQ2
-All the programs for RQ2 are saved in TXT files within ./programs/files/ folder during the execution, for analysis utilize `streamlit` too.
+All the programs for RQ2 are saved in TXT files within ./programs/files/ folder during the execution, for the program analysis utilize `streamlit` client.
 Programs with weight 1 are saved with _weight1 suffix and with weight 1000 are saved with _weight1000.
+
+### RQ3
+The JavaScript engine files responsible for the crashes are saved in a directory determined by the command-line, for example
+```bash
+swift-run FuzzilliCli --profile=duktape /home/kali/PhD/JSEs/duktape/build/duk-fuzzilli --storagePath=./crashes-duktape/
+```
+Then the directory ./crashes-duktape/crashes will store the files responsible for crashes during the fuzzing campaign.
+
+
