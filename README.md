@@ -31,7 +31,7 @@ Instrumentation examples are found in ./Targets/*
 
 ## Experimental Package
 
-# RQ1
+### RQ1
 All the statistics for RQ1 are saved in CSV files within ./programs/data/ folder during the execution, for analysis utilize the `streamlit` client.
 * Install StreamLit
 ```bash
@@ -47,6 +47,6 @@ streamlit run app.py
   Network URL: http://172.27.114.46:8501
 ```
 
-# RQ2
+### RQ2
 All the programs for RQ2 are saved in TXT files within ./programs/files/ folder during the execution, for analysis utilize `streamlit` too.
 Programs with weight 1 are saved with _weight1 suffix and with weight 1000 are saved with _weight1000.
