@@ -29,3 +29,24 @@ If everything is working properly, you can run JSTargetFuzzer using the command-
 JSTargetFuzzer utilizes the JavaScript engine's instrumentation to target security-relevant address space and redirect the fuzzing campaings towards it.
 Instrumentation examples are found in ./Targets/*
 
+## Experimental Package
+
+# RQ1
+All the statistics for RQ1 are saved in CSV files within ./programs/data/ folder during the execution, for analysis utilize the `streamlit` client.
+* Install StreamLit
+```bash
+pip install streamlit
+```
+* Run Streamlit from the folder ./cli/. A front-end interface will be available for the evaluation.
+```bash
+streamlit run app.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.27.114.46:8501
+```
+
+# RQ2
+All the programs for RQ2 are saved in TXT files within ./programs/files/ folder during the execution, for analysis utilize `streamlit` too.
+Programs with weight 1 are saved with _weight1 suffix and with weight 1000 are saved with _weight1000.
