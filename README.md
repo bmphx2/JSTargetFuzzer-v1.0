@@ -59,5 +59,5 @@ The JavaScript engine files responsible for the crashes are saved in a directory
 swift-run FuzzilliCli --profile=duktape /home/kali/PhD/JSEs/duktape/build/duk-fuzzilli --storagePath=./crashes-duktape/
 ```
 Then the directory ./crashes-duktape/crashes will store the files responsible for crashes during the fuzzing campaign.
-
+The crashes found during our experiment is located in ./crashes/
 
