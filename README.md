@@ -27,7 +27,7 @@ If everything is working properly, you can run JSTargetFuzzer using the command-
 ### Targets & Instrumentation
 
 JSTargetFuzzer utilizes the JavaScript engine's instrumentation to target security-relevant address space and redirect the fuzzing campaings towards it.
-Instrumentation examples are found in ./Targets/*
+Instrumentation examples are found in ./TargetsJST/*
 
 ## Experimental Package
 
