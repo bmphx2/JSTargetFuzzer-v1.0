@@ -27,12 +27,12 @@ If everything is working properly, you can run JSTargetFuzzer using the command-
 ### Targets & Instrumentation
 
 JSTargetFuzzer utilizes the JavaScript engine's instrumentation to target security-relevant address space and redirect the fuzzing campaings towards it.
-Instrumentation examples are found in ./TargetsJST/*
+Instrumentation examples are found in [TargetsJST](TargetsJST/) folder.
 
 ## Experimental Package
 
 ### RQ1
-The results for RQ1 are saved in CSV files within ./programs/data/ folder, for analysis utilize the `streamlit` client.
+The results for RQ1 are saved in CSV files within [Statistics Files](programs/data/) folder, for analysis utilize the `streamlit` client.
 * Install StreamLit
 ```bash
 pip install streamlit
@@ -51,7 +51,8 @@ All the statistics during fuzzing campaigns are saved in the same folder.
 ### RQ2
 All the programs for RQ2 are saved in TXT files within ./programs/files/ folder during the execution, for the program analysis utilize `streamlit` client.
 Programs with weight 1 are saved with _weight1 suffix and with weight 1000 are saved with _weight1000.
-The programs analyzed during the experiment are compressed in ZIP files and saved in ./analyzed_programs folder.
+The programs analyzed during the experiment are compressed in ZIP files and saved in [Analyzed Programs](analyzed_programs/) folder.
+
 
 ### RQ3
 The crashes found during our experiment is located in ./crashes/. Both JS files responsible for the JerryScript and Duktape crashes are stored in the folder.
