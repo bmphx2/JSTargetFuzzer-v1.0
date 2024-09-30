@@ -55,7 +55,7 @@ The programs analyzed during the experiment are compressed in ZIP files and save
 
 
 ### RQ3
-The crashes found during our experiment is located in ./crashes/. Both JS files responsible for the JerryScript and Duktape crashes are stored in the folder.
+The crashes found during our experiment is located in the [Crashes](crashes/) folder. Both JS files responsible for the JerryScript and Duktape crashes are stored in the folder.
 
 The JavaScript files that caused  the crashes are saved in a directory determined by the command-line, for example
 ```bash
