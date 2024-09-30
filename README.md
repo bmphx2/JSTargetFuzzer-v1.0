@@ -54,10 +54,13 @@ Programs with weight 1 are saved with _weight1 suffix and with weight 1000 are s
 The programs analyzed during the experiment are compressed in ZIP files and saved in ./analyzed_programs folder.
 
 ### RQ3
-The JavaScript engine files responsible for the crashes are saved in a directory determined by the command-line, for example
+The crashes found during our experiment is located in ./crashes/. Both JS files responsible for the JerryScript and Duktape crashes are stored in the folder.
+
+The JavaScript files that caused  the crashes are saved in a directory determined by the command-line, for example
 ```bash
 swift-run FuzzilliCli --profile=duktape /home/kali/PhD/JSEs/duktape/build/duk-fuzzilli --storagePath=./crashes-duktape/
 ```
 Then the directory ./crashes-duktape/crashes will store the files responsible for crashes during the fuzzing campaign.
-The crashes found during our experiment is located in ./crashes/
+
+
 
