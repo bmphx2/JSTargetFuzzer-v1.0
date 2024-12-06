@@ -1,0 +1,68 @@
+const v0 = [];
+function f1() {
+    return v0;
+}
+[-3.0,2.220446049250313e-16];
+[Infinity,-2.220446049250313e-16,657.727782565554,-5.0,0.5607181180942554,0.1324958570140714];
+[-3.0,1000.0,1.0];
+[-Infinity,604936.5028529051,-1000000.0,-2.0,-0.0,-168100.3563879024,0.7074949882384003,1.3217778293729898e+308];
+[0.8109751800514163,0.015941625996953146,-2.2250738585072014e-308,-253.84111870765196,6.956396521946819e+306,-1000000000.0,Infinity,-7.134136054205806];
+[-1000000.0,-2.220446049250313e-16,1000000.0];
+new Float32Array(3701);
+const v16 = new Int32Array();
+const v18 = new BigUint64Array();
+function F20(a22, a23, a24) {
+    if (!new.target) { throw 'must be called with new'; }
+    const o25 = {
+    };
+    const v27 = new Proxy(v18, o25);
+    v27.g = Int8Array;
+}
+const v28 = new F20(F20, F20, v18);
+new F20(Int8Array, v28, v18);
+const v30 = new Int32Array();
+function F31(a33) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.f = v30;
+    this.e = v16;
+}
+new Int32Array(6);
+new Float32Array(0);
+[0.0786374398551769,-5.3778139259732765,0.8180450482073809,1.0,1000000.0,5.0,-1000000000.0];
+let o41 = {
+    set a(a40) {
+    },
+};
+for (let v42 = 0; v42 < 5; v42++) {
+    o41.a;
+}
+let v44 = [-6.568975937209441,1.0,-Infinity];
+const o49 = {
+    valueOf() {
+        const v46 = this[this];
+        6 instanceof v46;
+        try { new v46(); } catch (e) {}
+        return -14;
+    },
+};
+[0.6730197545704021,2.220446049250313e-16,5.387745681974783,-7.304740854736329,89425.84876466752,1000000000.0,-1.785661314585028e+308];
+const v51 = [13,9,-12559,-8,-4294967297];
+let v52 = [65535,-1139741600];
+new Uint8Array(v51);
+let v55 = -41990;
+const v56 = v52++;
+let v57 = --v55;
+function f58() {
+    const v59 = new f1();
+    Object.defineProperty(v16, "byteOffset", { writable: true, value: v59 });
+    v44 = v51;
+    o41 **= o41;
+    const o62 = {
+        "maxByteLength": 650,
+    };
+    const v64 = new SharedArrayBuffer(512, o62);
+    new BigInt64Array(v64);
+    return f58;
+}
+([-8.370930286710454,7.183159495332482,2.2250738585072014e-308,-1000000000000.0,-255.6362008927648,-315.07126899047114,-1.4473359933311645e+308,0.776153163138491,787700.9653515914]).flatMap(TypeError);
+--v57 * (v56 << v55);

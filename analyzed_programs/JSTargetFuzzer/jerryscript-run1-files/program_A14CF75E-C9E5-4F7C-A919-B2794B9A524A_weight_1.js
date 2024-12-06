@@ -1,0 +1,15 @@
+const v0 = [];
+const v3 = new Uint8ClampedArray(660);
+const v6 = new Float64Array(64);
+const v9 = new Int32Array(52);
+let v17 = [-1521134849,1024,-16633,19233,7,-9181,-128,-9007199254740991,0];
+const v20 = new Float32Array(Float32Array, Float32Array);
+v20 * 81;
+Math.pow(268435440, Int32Array);
+v3.byteLength &= 64;
+660 >= v17;
+v9[3197775269] ^= 52;
+v0.__proto__ = v6;
+v6[3192075242];
+-2.0 != v17;
+--v17;

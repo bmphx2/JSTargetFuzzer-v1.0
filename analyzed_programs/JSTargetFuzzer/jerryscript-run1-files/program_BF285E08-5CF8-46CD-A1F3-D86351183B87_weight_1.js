@@ -1,0 +1,15 @@
+let v0 = 2113;
+const v2 = new Uint8ClampedArray(v0);
+new Uint8Array(128);
+Object.defineProperty(v2, "buffer", { enumerable: true, value: v0 });
+[187.83785933299328,-4.3328189711838274e+307];
+[998663.4210328597,-961.9556638542434,1e-15,-0.255824908728977];
+[414719.6218165194,4.477053207556361,389988.60294368886,567.1266863625406,0.026851367680709615,-2.0,-4.0,-950806.6144707537,-1.2824899204112918e+308];
+const v10 = --v0;
+new Uint16Array(6);
+const v16 = new Uint8ClampedArray(6, v10, 128);
+const o17 = {
+};
+new Proxy(v16, o17);
+const t13 = (5).constructor;
+t13(-9007199254740990n);

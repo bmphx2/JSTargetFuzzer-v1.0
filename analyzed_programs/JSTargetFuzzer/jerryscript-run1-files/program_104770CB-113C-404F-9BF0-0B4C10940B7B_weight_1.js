@@ -1,0 +1,13 @@
+new BigInt64Array(3624);
+new Uint8ClampedArray(1453);
+new Int8Array(1000);
+536870889 === Uint8Array;
+new Uint8ClampedArray(3253);
+const v16 = new WeakMap();
+v16.get(Int8Array);
+new BigInt64Array(4096);
+-1 < -4294967297n;
+new Int16Array(255);
+const v29 = [6,6,6,6];
+v29[5] = 6;
+v29[4];

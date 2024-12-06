@@ -1,0 +1,14 @@
+const v1 = new WeakSet();
+new WeakMap();
+v1 ^ 6;
+Math.acosh(1024);
+const v16 = 54889 * 2.220446049250313e-16;
+2.220446049250313e-16 || WeakMap;
+const v18 = -6.0903155760931345 | v16;
+const v19 = Math.log2(v16);
+-6.0903155760931345 >>> ~WeakMap;
+Math.min(-4096 << -697.315918664335);
+(-4096) ** v18;
+Math.hypot(v19);
+v19 >> -4096;
+("find").slice(45103);

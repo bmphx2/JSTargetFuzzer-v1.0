@@ -1,0 +1,10 @@
+new Int32Array(3);
+new Int32Array(8);
+new Uint8ClampedArray(14);
+const v9 = /[a-b-c]+/gmsi;
+/4\x01/vmd;
+/xyz{93}/uyid;
+new Float64Array(586);
+new Uint8ClampedArray(65);
+new Uint8Array(1);
+v9.valueOf = 65;

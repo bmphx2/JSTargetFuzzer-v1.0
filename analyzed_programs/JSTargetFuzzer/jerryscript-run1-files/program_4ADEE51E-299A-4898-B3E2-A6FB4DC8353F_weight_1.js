@@ -1,0 +1,10 @@
+const v1 = new WeakSet();
+const v4 = new BigInt64Array(255);
+const v7 = v4.byteOffset;
+v1.valueOf = v7;
+v1.valueOf = v1;
+v1[7] = v7;
+WeakSet << 255;
+new Uint8Array(256);
+new BigInt64Array(367);
+([2.220446049250313e-16,-3.6563428319836785e+307,-344.87920900417566,-1000.0])["keys"]();

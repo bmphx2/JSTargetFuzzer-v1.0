@@ -1,0 +1,2 @@
+TypeError();
+/[^a\sc]/isum;

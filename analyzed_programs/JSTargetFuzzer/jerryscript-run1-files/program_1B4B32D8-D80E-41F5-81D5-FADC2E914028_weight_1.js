@@ -1,0 +1,10 @@
+new Date();
+new BigInt64Array(7);
+new Float32Array(128);
+const v10 = new Uint32Array(128);
+[128,v10,v10,BigInt64Array,Date];
+[Date,Date];
+[Uint32Array,BigInt64Array];
+const v15 = RegExp.bind();
+v15();
+new v15(v15);

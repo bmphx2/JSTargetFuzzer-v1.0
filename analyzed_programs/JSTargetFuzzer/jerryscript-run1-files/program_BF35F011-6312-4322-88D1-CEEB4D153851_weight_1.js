@@ -1,0 +1,16 @@
+const v2 = new Int32Array(2338);
+v2.f = 2338;
+const v5 = new Int32Array(2338, 3, 3);
+const v7 = v5 == v5 ? v5 : v5;
+0n > 268435441n;
+let v11 = v7.__proto__;
+new Float32Array(3);
+new Uint16Array(9);
+const v16 = [5,282,46983,2147483648,-973433140,-4294967296,0];
+const v17 = [-16931,7,43332,128,-19578,7675525,1073741824,-5];
+const v18 = [-53871,-532778802,-9,536870912,-29545,1867998287,2,-1073741824];
+v16[Int32Array] ^= 9;
+v11 = v18;
+v17.length = 0;
+v7[Int32Array];
+Function(undefined, "MAX_SAFE_INTEGER");

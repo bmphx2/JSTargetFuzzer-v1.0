@@ -1,0 +1,12 @@
+[];
+const v6 = new Float32Array(3750);
+Reflect.apply(("e").endsWith, v6);
+const v18 = new Set();
+v18.entries() != 0;
+new Uint32Array(3849);
+new Float32Array(8);
+new Uint16Array(2654);
+let v35 = -5;
+let v36 = ++v35;
+Math.tanh(Math);
++(++v36);

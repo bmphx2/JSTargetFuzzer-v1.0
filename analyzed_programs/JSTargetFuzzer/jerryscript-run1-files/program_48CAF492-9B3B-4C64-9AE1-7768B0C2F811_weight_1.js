@@ -1,0 +1,44 @@
+function f0() {
+    const o31 = {
+        ..."D",
+        valueOf(a5, a6) {
+            const v8 = f0.iterator;
+            const o17 = {
+                [v8]() {
+                    let v10 = 1024;
+                    const o16 = {
+                        next() {
+                            v10--;
+                            const v14 = 0 == 0;
+                            const o15 = {
+                                "done": v14,
+                                "value": v10,
+                            };
+                            return o15;
+                        },
+                    };
+                    return a5;
+                },
+            };
+            return this;
+        },
+        get c() {
+            try { f0(); } catch (e) {}
+            return f0;
+        },
+        set d(a21) {
+            this.__proto__;
+            BigInt64Array(3);
+            BigInt64Array(5);
+            Uint32Array(4046);
+        },
+    };
+    return o31;
+}
+f0();
+f0();
+f0();
+/n5[\xf0\x9f\x92\xa9-\xf4\x8f\xbf\xbf]/y;
+/(ab|cde)+/gyu;
+new WeakSet();
+([1073741823,1073741824,1073741825,13]).reverse();

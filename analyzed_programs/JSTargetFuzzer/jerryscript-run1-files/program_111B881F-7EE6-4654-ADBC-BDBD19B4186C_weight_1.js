@@ -1,0 +1,14 @@
+new Float32Array(4096);
+new Float64Array(4096);
+let v7 = Int32Array;
+const v8 = new v7(2664);
+new BigInt64Array(3);
+new Int16Array(3288);
+new Uint32Array(4);
+1073741823 in v8;
+let v30 = 14;
+Math.tan(-v30);
+--v30;
+--v7;
+Array(246).concat();
+"12" + 3;

@@ -1,0 +1,10 @@
+new Float32Array(1446);
+new Float32Array(255);
+new Object(3);
+let v10 = 2110820557n;
+v10 /= 11n;
+new Int8Array(156);
+Object.defineProperty(RegExp.bind(), "f", { configurable: true, get: RegExp });
+([-6,-1753580390,23989,-256,2013761253,-1,-69]).concat();
+let v22 = -2147483648n;
+v22 &= -2147483649n;

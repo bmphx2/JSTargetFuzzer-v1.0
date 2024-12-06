@@ -1,0 +1,22 @@
+new Uint32Array(Uint32Array);
+const v5 = new Float64Array(5);
+const v8 = new Uint32Array(16);
+const v9 = [v5,v8,Float64Array];
+[v8,4,v9,[Float64Array,v9,v8,v8,4]];
+[-1000000000.0,1000.0,-4.568355590722741,-0.0,-2.777931557670934,-Infinity];
+[-1000.0,-3.0,-6.823678652119256,1000000.0,0.5045353521177669,0.0,1000000.0];
+[750.8201915063885,9.26319408652272e+307,5.0,-1000000.0,-1e-15,278.2070843807405];
+const v19 = new WeakMap();
+new BigUint64Array(3);
+new Uint32Array(2);
+const v35 = new Uint16Array(255);
+try { new BigUint64Array(...v35, BigUint64Array, ...undefined, "bigint", ...v19); } catch (e) {}
+[-6,-1024,5];
+[-2147483647,268435456,-15,-2147483648,-9223372036854775807,105026840];
+[-485646260,536870889,287975270,128,679329586,268435441,-4294967295,-68651252,1];
+Math.acos(3);
+Math.acos(-8);
+Math.log10(-8);
+Math.trunc(-8);
+-8 - -8;
+Math.cos(-8);

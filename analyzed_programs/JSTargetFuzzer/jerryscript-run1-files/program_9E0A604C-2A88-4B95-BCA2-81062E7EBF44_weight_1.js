@@ -1,0 +1,30 @@
+let v0 = -4.0;
+const v6 = [0.22630065471475247,-3.0,-947.8838011909608,NaN,907326.6388771085,2.220446049250313e-16,-2.0644605052728737];
+const v7 = [-1000000000.0,-1000000.0,0.8277732313670604,-1000.0,1.7214012365359324];
+const v8 = [7.321269528637573e+307,0.23187393810643242];
+const v9 = [v8,v0,-3.0,1000000.0,-5.0];
+const v10 = [0.0];
+const v11 = [0.0,v10,0.0,1000000.0,-3.0];
+[-5.0,v11];
+[v9,v7,v8,v10,506290.19040066353];
+[v0,v11];
+const v17 = new Uint32Array(181);
+let v19 = BigUint64Array;
+let v20 = new v19(1);
+let v21 = 253;
+[v21,,v19,v20] = v17;
+try { v19["abs"](181, v21, v19); } catch (e) {}
+new Uint16Array(v21);
+new Uint16Array(v6, v21, 638046528);
+typeof Uint32Array === "undefined";
+--v0;
+for (let i39 = 0;
+    i39 < 2;
+    (() => {
+        i39++;
+        try { BigInt64Array(BigInt64Array, BigInt64Array, BigInt64Array); } catch (e) {}
+    })()) {
+    const v47 = new Function("x");
+    v47.name;
+}
+Function();

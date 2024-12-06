@@ -1,0 +1,11 @@
+[0.5740282428977004,3.93999390147938e+307,-1000000.0];
+let v1 = [-4.29794344297838,1000000000000.0,2.0,2.220446049250313e-16];
+const v2 = [Infinity,0.7991783628761511,983.8692183698997];
+v1 += v1;
+const t4 = "-51813";
+t4.__proto__ = v2;
+new Map();
+new Float64Array(0);
+new Uint8ClampedArray(7);
+new Uint32Array(107);
+new EvalError(EvalError);

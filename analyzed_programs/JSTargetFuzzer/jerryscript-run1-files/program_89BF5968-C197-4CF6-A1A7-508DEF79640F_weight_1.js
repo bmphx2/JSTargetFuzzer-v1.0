@@ -1,0 +1,18 @@
+const v8 = new Int8Array(4096);
+const v9 = v8.__proto__;
+v8[3] ^= 9007199254740991;
+[v9,-43066n];
+new Int8Array(4096);
+new Uint32Array(2069);
+new Uint8Array(3);
+const v21 = Array();
+try {
+} finally {
+}
+const v24 = new Float64Array(5);
+v24.lastIndexOf(3);
+const v27 = [Array];
+Reflect.apply(v21.forEach, Array, v27);
+new Uint32Array(3480);
+new Float32Array(128);
+([2.220446049250313e-16,-3.6563428319836785e+307,-344.87920900417566,-1000.0])["keys"]();

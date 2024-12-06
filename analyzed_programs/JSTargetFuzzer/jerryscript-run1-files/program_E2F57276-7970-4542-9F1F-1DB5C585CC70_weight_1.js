@@ -1,0 +1,24 @@
+new WeakSet();
+new Int32Array(2);
+const v7 = new Uint32Array(16);
+const v9 = new BigUint64Array(BigUint64Array);
+new BigInt64Array(v9);
+new Float32Array(5);
+[-1.5136527278179625e+308,50486.63674317044];
+[-1.9096062684665442e+307,-2.2250738585072014e-308,-5.0714086607850355,-1.7013870710077787e+308,1000.0,-5.093261292660172];
+[-683166.1987762568,205.02200398564992,-2.2250738585072014e-308,0.3026721452418767,169.11474126545227,0.25783418532588187,5.0,0.6273288208576346];
+new Uint16Array(v7);
+new Int32Array(5);
+new Int16Array(10);
+const v31 = [[4,536870889,536870889],-4096];
+[v31,536870889];
+new BigInt64Array(0);
+new Float32Array(4);
+new BigUint64Array(129);
+let v42 = 10;
+for (; v42--;) {
+    const t19 = 16;
+    t19[252] = v31;
+    -4096 << Float32Array;
+}
+try { (4).values(); } catch (e) {}

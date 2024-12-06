@@ -1,0 +1,17 @@
+new Uint8ClampedArray(4096);
+let v4 = Float64Array;
+const v5 = new v4(1747);
+const v8 = new Uint8Array(1288);
+const v11 = new Array(8);
+const v14 = new BigInt64Array(89);
+let v17 = new Uint8Array(1024);
+let v19 = Int8Array;
+let v20 = new v19(64);
+[v20,v19,v17] = v8;
+v4 ||= v17;
+const v22 = v11.__proto__;
+v4[Symbol.isConcatSpreadable] = v8;
+var e = v17;
+[Uint8ClampedArray,64];
+[a,v22,v22];
+[v5,4096,v14,8];

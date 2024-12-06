@@ -1,0 +1,22 @@
+[];
+let v1 = 3020;
+new Uint32Array(v1);
+const v6 = new Int8Array(1024);
+let v9 = new Float64Array(v1);
+[-44146,132308787,536870912,15304,-4294967295,1000,6,-9007199254740991,-52018,1073741824];
+v1 >>= 1;
+let [,v12] = v6;
+var d = 1;
+let v13 = v6 in v9;
+[2023,-39924];
+let v15 = [1];
+({"buffer":v9,"byteLength":v13,"length":v13,...v15} = v6);
+let v17 = -1775907320;
+1 ** v17;
+const v20 = +v1;
+const v21 = v17 ^ -17112;
+--v17;
+Math.log(v21);
+try { BigInt(); } catch (e) {}
+const v29 = new Float64Array(v20);
+v29 << v29;

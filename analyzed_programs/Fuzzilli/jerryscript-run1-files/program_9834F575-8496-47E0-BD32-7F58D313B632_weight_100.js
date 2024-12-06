@@ -1,0 +1,10 @@
+new Int16Array(9);
+new Uint32Array(221);
+new Float64Array(3);
+const v14 = new BigUint64Array(2921);
+new Uint8ClampedArray(99);
+new BigUint64Array(1000);
+v14 || Float64Array;
+new Int8Array(2);
+new Int16Array(9);
+new Int8Array(2220);

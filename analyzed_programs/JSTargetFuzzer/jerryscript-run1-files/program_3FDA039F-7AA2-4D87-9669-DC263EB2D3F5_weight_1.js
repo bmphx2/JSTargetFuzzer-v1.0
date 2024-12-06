@@ -1,0 +1,21 @@
+new Uint32Array(0);
+new Int32Array(81);
+const v11 = new BigInt64Array(2);
+function f15() {
+}
+new Uint8Array(0);
+let v28 = RegExp("2147483647");
+[...v28] = v11;
+6n < 47005n;
+const t8 = "2147483647";
+t8[v11] = v28;
+0.0 !== Int32Array;
+const v31 = [-8,4294967295,148900462];
+RegExp === Uint32Array ? RegExp : Uint32Array;
+let v37 = RegExp.bind("2147483647", v31);
+const v39 = new Int32Array(127);
+v37 /= v39;
+new WeakSet();
+v31.__proto__ in v39;
+new BigInt64Array(2);
+([5]).reverse();

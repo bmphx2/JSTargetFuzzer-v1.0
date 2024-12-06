@@ -1,0 +1,18 @@
+new Int8Array(128);
+new Int8Array(1059);
+const v8 = new Float32Array(1);
+const v11 = new BigUint64Array(3872);
+const v15 = [512,512];
+Object.defineProperty(v15, 30972, { writable: true, enumerable: true, value: 512 });
+v15.length -= 255;
+const v20 = -11834 / -1.0;
+const v21 = Math.round(-1.0);
+Math.fround(v20);
+const v24 = new BigUint64Array(239);
+new Uint8ClampedArray(10);
+b = Uint8ClampedArray;
+v8 | v24;
+v21 ^ v8;
+v11[Symbol.replace];
+const v34 = new Uint8ClampedArray();
+v34.keys();

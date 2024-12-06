@@ -1,0 +1,11 @@
+["Hux9",false,"m","function","m"];
+const v5 = ["Hux9"];
+["Hux9",false,"Hux9"];
+new Set();
+["m",v5,v5,false,"m"];
+["Hux9","Hux9","Hux9","function"];
+["function",false,Set];
+new Int8Array(7);
+new Float32Array(129);
+new Uint8ClampedArray(2, 129, 2);
+47553950n ^ 36564n;

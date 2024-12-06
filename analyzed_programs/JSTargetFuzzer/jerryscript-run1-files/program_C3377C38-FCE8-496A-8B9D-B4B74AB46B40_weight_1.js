@@ -1,0 +1,13 @@
+const v1 = new WeakMap();
+const v2 = [WeakMap,v1,v1,WeakMap,v1];
+const v3 = [v1,WeakMap,WeakMap];
+const v4 = [v3,WeakMap,v3,WeakMap];
+const v5 = [WeakMap,WeakMap,v3,v4,v4,v2];
+const v6 = [v3];
+new BigInt64Array(255);
+new Float32Array(7);
+new Int8Array(3503);
+[v4,v2,WeakMap,v6,v6];
+const v23 = [374384097,374384097,374384097];
+[v5,[v23,12316,v5,v5],v23,374384097,v3];
+new Date(0, 0);

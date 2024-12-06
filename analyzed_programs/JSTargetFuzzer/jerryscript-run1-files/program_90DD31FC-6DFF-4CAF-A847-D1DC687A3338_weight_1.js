@@ -1,0 +1,97 @@
+function F6(a8, a9, a10, a11) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.h = 6n;
+    this.g = -24288568n;
+}
+const v12 = new F6(-24288568n, 65536, -24288568n, -9223372036854775808n);
+new F6(-24288568n, 65536, 6n, -24288568n);
+const v14 = new F6(-9223372036854775808n, 65536, 6n, -24288568n);
+function f15(a16, a17, a18, a19) {
+    const o27 = {
+        "h": v14,
+        get c() {
+            let [v21,,v22,...v23] = F6;
+            return 9007199254740990;
+        },
+        "a": 65536,
+        ...v14,
+        [a16]: v12,
+        "c": v12,
+    };
+    return o27;
+}
+f15(-9223372036854775808n, -24288568n, -9223372036854775808n, -9223372036854775808n);
+f15(6n, -24288568n, -24288568n, -9223372036854775808n);
+f15(-24288568n, 6n, 6n, 6n);
+new Float32Array(16);
+new BigUint64Array(129, v14, BigUint64Array, 65536);
+new Float32Array(837);
+class C46 {
+    constructor(a48) {
+        const v50 = [];
+        const v51 = ("SevCf").trimStart;
+        Reflect.apply(v51, this, v50);
+        -2.220446049250313e-16 & v51;
+    }
+    static o(a55, a56) {
+        new Uint8Array(8);
+        new Uint16Array(181);
+        new Int32Array(367);
+        return Uint16Array;
+    }
+}
+const v66 = new C46(-20593);
+const v67 = new C46(-2.220446049250313e-16);
+const v68 = new C46(v66);
+const v70 = new Set();
+function f71() {
+    return "SevCf";
+}
+class C72 extends f71 {
+    65537;
+    constructor(a74, a75) {
+        super();
+        switch (a74) {
+            default:
+                --a74;
+                var d = v68;
+                break;
+        }
+        v70 % this;
+        const v79 = Symbol.iterator;
+        const o88 = {
+            [v79]() {
+                const o87 = {
+                    next() {
+                        let v82 = this;
+                        v82--;
+                        const v85 = 10 == 0;
+                        const o86 = {
+                            "done": v85,
+                            "value": 10,
+                        };
+                        return o86;
+                    },
+                };
+                return o87;
+            },
+        };
+    }
+}
+const v89 = new C72(Float32Array, v68);
+let v90 = new C72(v66, 268435440);
+const v91 = new C72(C46, v90);
+v67 | v67;
+v67[v91];
+if (v70 == v89) {
+    let v99 = 436817333;
+    const v100 = v99--;
+    const v101 = ~C72;
+    Math.clz32(v99);
+    --v90;
+    Math.sin(v101);
+    v101 ^ v100;
+    !5;
+} else {
+    C72.valueOf = Set;
+}

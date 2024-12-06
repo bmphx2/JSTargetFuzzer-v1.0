@@ -1,0 +1,10 @@
+const v3 = new Int16Array(2875);
+new Int8Array(66);
+const v9 = new Float64Array(225);
+Math.trunc(Float64Array);
+Math.sin(Infinity);
+14n / 14n;
+v9.byteLength;
+v9.__proto__;
+const v21 = new Int16Array(v3);
+v21.byteOffset = 66;

@@ -1,0 +1,70 @@
+[-65535,54797,-20868];
+[1024,65537,-20773,-1073741824,-1,1728789101,4,-2000991655];
+[4294967296,57149,44273,536870889,-536870912,-10];
+function f9() {
+    return 13;
+}
+NaN[0.8547456207752734] >>= 41447;
+let v14 = -41990;
+let v15 = --v14;
+--v15;
+const v19 = new Array(255);
+function F20(a22, a23) {
+    if (!new.target) { throw 'must be called with new'; }
+}
+new F20();
+function F25() {
+    if (!new.target) { throw 'must be called with new'; }
+}
+const v27 = new F25();
+for (let i = 0; i < 5; i++) {
+    Object.defineProperty(v27, 220, { writable: true, enumerable: true, value: -256 });
+}
+class C32 {
+    constructor(a34, a35, a36) {
+        for (let i38 = -153469.3697832625; i38 < 2; i38++) {
+        }
+    }
+}
+new C32(0.8547456207752734, v19, 0.8547456207752734);
+const v49 = new C32(NaN, 255, NaN);
+new C32(-153469.3697832625, v49, -153469.3697832625);
+new Uint8Array(8);
+v27[4096] = v27;
+const v58 = new Set([5.0]);
+v58.values();
+new Uint8Array(324);
+new Uint8ClampedArray(13);
+const v66 = new Uint8Array(2);
+let v68 = Float32Array;
+const v69 = new v68(127);
+new Int32Array(243);
+new WeakSet();
+new Float64Array(127);
+const t43 = Symbol.match;
+t43[65535] >>= 41447;
+new F25();
+v66.__proto__;
+v66[Symbol.iterator];
+-v14;
+Math.atan2(v14, 257);
+Math.ceil(257);
+v14 * 2147483649;
++(-243);
+const v98 = new Int16Array(Int16Array, Int16Array);
+function f99(a100, a101, a102, a103) {
+    'use strict';
+    a101[1996966583] = v98;
+    return a103;
+}
+new BigInt64Array(3886);
+new Uint32Array(0);
+v68 += v68;
+let v110;
+try { v110 = WeakSet(v69); } catch (e) {}
+const v112 = [v110];
+Reflect.apply(v69.sort, v69, v112);
+try { v68.flat(); } catch (e) {}
+[498897049];
+[-57150070,-2147483647,-11,-19440739,257,-65536,5,-1371366486,-5,-4294967296];
+[-9007199254740990,-530113451,4,-14,-45856,2];

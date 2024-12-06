@@ -1,0 +1,17 @@
+let v3 = "cause";
+let v5 = "OKX";
+let v11 = new BigUint64Array(163);
+v11.valueOf = BigUint64Array;
+[v3,...v11] = "f";
+[4294967295,2612,25530,4294967297];
+[-65537,-3,1535204634];
+[-10,5,14,1073741823];
+new BigUint64Array(255);
+new BigUint64Array(12);
+const v21 = typeof BigUint64Array;
+v21 === "symbol";
+v5 = v21;
+("65537")[-1];
+const v25 = [-9007199254740991,54726,1717830925,31978,16,4294967297,-28128,-15,-806491297,127];
+Object.defineProperty(v25, 256, { writable: true, configurable: true, enumerable: true, value: [0.6476119767844933,-2.0] });
+v25.copyWithin(6);

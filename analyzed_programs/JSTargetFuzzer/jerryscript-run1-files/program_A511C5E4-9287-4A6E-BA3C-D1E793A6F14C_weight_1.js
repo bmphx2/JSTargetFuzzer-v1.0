@@ -1,0 +1,12 @@
+const v2 = new BigInt64Array(128);
+const v5 = new Float64Array(1);
+const v10 = new Float64Array(2863, v5, Int32Array);
+v10[9] = "2147483647";
+new Int32Array(4096);
+const v13 = [-1,536870889,-4294967297,-2147483649,-268435456,548481093,8];
+const v14 = [9,13963,-65535,9007199254740990,2147483647,53706,7,4294967297];
+const v16 = [Int32Array,v13,[536870912,2147483648,-34202,65536,-514,1073741823],v2,v2];
+[128,v16,Float64Array];
+[v16];
+const v20 = new Int32Array(Int32Array, Int32Array, v14, 4096);
+v20 > "451";

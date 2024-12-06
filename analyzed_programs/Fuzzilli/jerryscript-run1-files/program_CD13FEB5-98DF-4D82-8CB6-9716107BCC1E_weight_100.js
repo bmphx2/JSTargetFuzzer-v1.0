@@ -1,0 +1,11 @@
+new Float64Array(1000);
+new Int8Array(228);
+new Uint8ClampedArray(1000);
+new Uint32Array(4);
+const v14 = new Uint32Array(4096);
+new Int16Array(732);
+v14["lastIndexOf"]("lastIndexOf", 228);
+Math.sinh(Uint8ClampedArray);
+Math.cos(732);
+65536 * Uint8ClampedArray;
+65536 || 732;

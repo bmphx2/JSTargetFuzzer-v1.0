@@ -1,0 +1,76 @@
+let v4 = 4294967295;
+class C6 {
+    constructor(a8, a9, a10) {
+        this[16] = -65535;
+        try { new this(this, -9223372036854775808n, a10, -1026019214n, v4); } catch (e) {}
+    }
+    h = -9223372036854775808n;
+    get d() {
+        let v13 = 0;
+        do {
+            v4 = v13;
+            Math.acosh(v13);
+            Math.acosh(v13);
+            const v19 = +v13;
+            Math.cosh(-3);
+            Math.acosh(-(-3));
+            1000.0 & v19;
+            v13++;
+        } while (v13 < 9)
+        return -502341340;
+    }
+}
+const v27 = new C6(-502341340, -65535, -65535);
+new C6(-502341340, -65535, -502341340);
+new C6(-65535, -65535, -502341340);
+const v34 = new Date();
+let v35 = [v34];
+let v37 = 127880841;
+Math.atan2(v37, v37);
+let v39 = --v35;
+const v40 = v37++;
+let v41 = ++v39;
+!Date;
+--v41;
+const v44 = [v34,Date];
+const v45 = [v35];
+function F46(a48, a49) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.e = Date;
+    function F51(a53) {
+        if (!new.target) { throw 'must be called with new'; }
+        a53.h = a53;
+        a49.length %= 3355;
+    }
+    new F51(a49);
+}
+const v55 = new F46(v44, v45);
+[-1802732008n,v41,[v55],F46];
+[-9223372036854775808n];
+v27[14] **= v37;
+Object.defineProperty(v27, "d", { configurable: true, value: v4 });
+new F46(v35, v55);
+new F46(v44, F46);
+new Uint8Array(82);
+new BigInt64Array(1507);
+new Uint16Array(1272);
+let v70 = 0;
+do {
+    v44["reverse"](..."reverse", ..."reverse", ..."reverse", Uint8Array, v40, v41);
+    v70++;
+} while (v70 < 8)
+const v80 = [[4,536870889,536870889],-4096];
+let v81 = [v80,536870889];
+new BigInt64Array(0);
+new Float32Array(4);
+Date(1272);
+v81 ^= v45;
+new BigUint64Array(129);
+let v95 = 10;
+const v98 = new Float32Array(198);
+new Int32Array(v98);
+for (; v95--;) {
+    v80[252] = v80;
+    -4096 << Float32Array;
+}
+try { v81.values(); } catch (e) {}

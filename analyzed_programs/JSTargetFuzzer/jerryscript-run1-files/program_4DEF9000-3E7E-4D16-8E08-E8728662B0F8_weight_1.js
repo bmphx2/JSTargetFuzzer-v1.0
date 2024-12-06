@@ -1,0 +1,51 @@
+let v0 = "symbol";
+v0[268435440];
+const v7 = -4 % -4;
+const v8 = +-4;
+const v9 = v0--;
+v7 ^ v7;
+v8 * v9;
+Math.abs(-4);
+Math.log1p(v8);
+function f17() {
+    return v0;
+}
+const v28 = new Date();
+let v29 = [v28];
+let v31 = 127880841;
+Math.atan2(v31, v31);
+let v33 = --v29;
+const v34 = v31++;
+let v35 = ++v33;
+!Date;
+--v35;
+const v38 = [v28,Date];
+const v39 = [v29];
+function F40(a42, a43) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.e = v31;
+}
+const v44 = new F40(v38, v39);
+new F40(v29, v44);
+new F40(v38, F40);
+new Uint8Array(82);
+new BigInt64Array(1507);
+new Uint16Array(1272);
+let v56 = 0;
+do {
+    v38["reverse"](..."reverse", ..."reverse", ..."reverse", Uint8Array, v34, v35);
+    v56++;
+} while (v56 < 8)
+const v66 = [[4,536870889,536870889],-4096];
+let v67 = [v66,536870889];
+new BigInt64Array(0);
+new Float32Array(4);
+Date(1272);
+v67 ^= v39;
+new BigUint64Array(129);
+let v81 = 10;
+for (; v81--;) {
+    v66[252] = v66;
+    -4096 << Float32Array;
+}
+try { v67.values(); } catch (e) {}

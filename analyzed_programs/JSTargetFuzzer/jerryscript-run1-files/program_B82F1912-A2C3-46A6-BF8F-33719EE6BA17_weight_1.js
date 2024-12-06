@@ -1,0 +1,18 @@
+let v0 = 5;
+new Uint16Array(v0);
+const v5 = new Int8Array(1687);
+const v8 = v5[10];
+new Int8Array(v5);
+const v16 = new Uint32Array(64);
+new Int16Array(1000);
+const v22 = new Int8Array(1);
+const v24 = Math.imul(v8, Math);
+new Int8Array(v22, 1687, 1000);
+v0 = 930912475;
+v22.byteOffset >>= -49846;
+const v27 = Symbol.unscopables;
+/(a(?=b))/gsm;
+/.xS.O?/ysu;
+/[foo(?<=bar)baz]/gis;
+v16[v27];
+typeof v24;

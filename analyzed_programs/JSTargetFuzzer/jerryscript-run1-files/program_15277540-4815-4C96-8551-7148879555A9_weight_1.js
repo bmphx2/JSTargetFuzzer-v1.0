@@ -1,0 +1,32 @@
+const v3 = [620.3534695805083,31.923524324069376,-1e-15,0.5788901703237364,Infinity];
+const v4 = [2.0,1000.0,-2.220446049250313e-16,-5.0,0.3917189377358198,5.788961696392205,797123.2195982919,234855.3308191083,-1000.0,0.8553589643184092];
+const v5 = [NaN,-2.2250738585072014e-308,2.2250738585072014e-308,-1e-15];
+function f6() {
+    return v5;
+}
+let v7 = 4294967296n;
+v7 **= 1000n;
+let v10 = Uint8ClampedArray;
+new v10(256);
+const v14 = new Int32Array(4096);
+new f6();
+v5.length = 9;
+const v22 = new Float32Array(6);
+const v26 = v5["toLocaleString"]("toLocaleString", "toLocaleString");
+Object.defineProperty(v3, v26, { configurable: true, enumerable: true, value: 6 });
+const v27 = v10 + "toLocaleString";
+let {"d":v28,"length":v29,...v30} = v4;
+v14[536870912] = 5 - 4294967297;
+v10 &= v10;
+v30[4] = v4;
+-7004 << 256;
+[-1.3058616810143384,5.517029152508229,1000000.0,-3.0,-4.125114941493669e+307];
+[0.22772618062905847,6.672470183972997,0.9816001408274821,-613.8064049098473,1.7976931348623157e+308,-4.0,-3.0,8.549110970235038,-1.2126777981585448];
+const v35 = [-1.36069741051732e+308,889670.4666329639,2.220446049250313e-16,0.7549909134367443];
+v5.c = v26;
+v22[-7004] = v30;
+v22[5];
+Object.defineProperty(v35, 9, { configurable: true, enumerable: true, value: v27 });
+new Uint8ClampedArray(4096);
+new BigInt64Array(9);
+new Uint8ClampedArray(2354);

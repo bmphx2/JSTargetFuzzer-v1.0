@@ -1,0 +1,13 @@
+const v5 = new Float64Array(3);
+const v8 = new BigUint64Array();
+const v10 = new Uint32Array();
+const t3 = [-6,-1753580390,23989,-256,2013761253,-1,-69];
+t3[v10] = v8;
+new Uint16Array(127);
+new Float32Array(8);
+const v17 = [8];
+[v17,"toString"];
+[v17,v5,v17];
+const v21 = Date.__proto__;
+("reverse").matchAll(v21);
+v21();

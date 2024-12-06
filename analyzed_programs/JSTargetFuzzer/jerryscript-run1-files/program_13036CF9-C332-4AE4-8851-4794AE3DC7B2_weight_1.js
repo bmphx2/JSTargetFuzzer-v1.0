@@ -1,0 +1,36 @@
+const v1 = new Set();
+new Uint32Array(11);
+new Int16Array(8);
+new Int8Array(128);
+let v16 = 6.444740448334379;
+const v17 = -2147483647 % -2147483647;
+const v18 = -v1;
+v16++;
+~v17;
+new Int32Array(127);
+new BigInt64Array(128);
+const v32 = new Int32Array(2);
+const v38 = new Uint8Array(512);
+new Int16Array(447);
+const v44 = new Uint32Array(2438);
+function f48() {
+}
+new Uint32Array(3161);
+const v55 = new Float32Array(255);
+new Float64Array(64);
+v38.description <<= 2006448021;
+const v65 = [2.220446049250313e-16,-1.7976931348623157e+308,-3.4833326659982795,-1000000000000.0,0.0,2.220446049250313e-16,-4.191721618721404,1.4104645033139904e+308];
+const v66 = v65.copyWithin(v65, v65);
+("1073741824").match(v66);
+const v71 = new Uint8Array(0);
+const v75 = [-8,4294967295,148900462];
+let v76 = RegExp.bind("2147483647", v75);
+new Int16Array(v17, 536870889, -9.720861708692185, 255, Int32Array, ...v44);
+[v55,v75,[8,v32,v55],"m"];
+[512,127,v71];
+v66 ^ v18;
+const v83 = new Int32Array(127);
+v76 /= v83;
+new WeakSet();
+new BigInt64Array(2);
+([5]).reverse();

@@ -1,0 +1,10 @@
+const v2 = new Float64Array(16);
+const v5 = new BigUint64Array(512, 16);
+const v8 = new Uint16Array(1, v2);
+const v9 = [v8,512];
+const v10 = [v8,BigUint64Array];
+const v11 = [v10,1];
+const v12 = [v11,v11,v10,v10,v9];
+[Uint16Array,v12,v12,[Float64Array,Uint16Array,v5]];
+let v15 = BigInt64Array;
+v15 <<= v15;

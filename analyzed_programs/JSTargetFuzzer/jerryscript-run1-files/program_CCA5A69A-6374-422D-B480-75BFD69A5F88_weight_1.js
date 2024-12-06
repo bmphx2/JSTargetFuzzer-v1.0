@@ -1,0 +1,31 @@
+const v6 = -473.81518600133734 - "reduceRight";
+const t0 = "p";
+t0[5] = "reduceRight";
+let v7;
+try {
+const t0 = "reduceRight";
+v7 = new t0();
+} catch (e) {}
+--v7;
+const t8 = "reduceRight";
+t8["substring"] ^= v6;
+let v11 = new Int8Array(2781);
+new BigUint64Array(919);
+new Uint8ClampedArray(Uint8ClampedArray);
+new Float64Array(4096);
+new Uint32Array(1935);
+new Uint8ClampedArray(1531);
+const v27 = [13,9,-12559,-8,-4294967297];
+[3,-28987,536870889,1073741825,15];
+let v29 = [65535,-1139741600];
+const v32 = new Uint8Array(54);
+new Float32Array(256);
+new Float64Array(1024);
+new Uint8Array(v27, 256, 1531);
+let v41 = -41990;
+const v43 = v29++;
+let v44 = --v11;
+const v45 = --v44;
+v41--;
+v43 << v41;
+v45 * v32;

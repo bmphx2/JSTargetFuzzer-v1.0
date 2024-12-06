@@ -1,0 +1,13 @@
+let v7 = 365638091n;
+let v10 = 7;
+const v11 = v10++;
+Math.imul(-1, v10);
++v11;
+Math.floor(268435456);
+new Float64Array(590);
+const v21 = new Int8Array(3021);
+new Int8Array(9);
+v7 = -42524n;
+b = v10;
+v21[Float64Array];
+Reflect.apply(([2.0,0.4010053167269092,3.0,0.0066823109481619625,798.2865441532322,Infinity,2.0]).slice, "-900241040");

@@ -1,0 +1,16 @@
+new Float64Array(5);
+let v3 = 7;
+let v4 = 9007199254740991n;
+v4--;
+const v6 = v3++;
+v6[2] = v6;
+let v10 = 39655n;
+v10 <<= v10;
+const v13 = new Uint32Array(v3);
+let v15 = 0n;
+v15 **= 1000n;
+const v19 = new Uint16Array(255);
+v19[4] = v13["indexOf"]("indexOf", 255);
+new Int8Array(5);
+/O^/isum;
+/(\xed\xb0\x80ia\D[^123]a{?)/gyism;

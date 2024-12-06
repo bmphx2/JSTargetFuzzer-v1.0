@@ -1,0 +1,14 @@
+/w\p{Nd}/vi;
+/((?: foo ))/uymid;
+const v3 = /^xxx$/ugmsd;
+let v6 = -65536;
+/[\cz]*/vm;
+/g6fSa[a]a{1,2}?/vsi;
+/a\W/vymid;
+v3[-55482] <<= v6;
+const v16 = -11 + v6;
+v6-- + false;
+~v16;
+new BigInt64Array(2);
+new Uint16Array(1);
+new Int16Array(255);

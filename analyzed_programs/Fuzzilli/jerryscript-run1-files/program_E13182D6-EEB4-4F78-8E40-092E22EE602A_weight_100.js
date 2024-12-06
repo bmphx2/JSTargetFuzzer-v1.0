@@ -1,0 +1,14 @@
+const v3 = 2 && 2899;
+const t1 = v3.__proto__;
+t1[-16] = v3;
+let v6 = -536870912;
+const v8 = [2899,2899];
+const v9 = [-16,v8,v8];
+[v9,v9,v9,2899];
+new Int8Array(8);
+const v16 = [2899,BigInt64Array,v6,Int8Array];
+[[-16],2899,4096,v16,2];
+v6 = -16;
+new BigInt64Array(4096);
+new Uint32Array(2);
+["number","number",["number","number","number"],"number"];

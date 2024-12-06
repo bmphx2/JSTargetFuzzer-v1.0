@@ -1,0 +1,11 @@
+new Uint8ClampedArray(15);
+new Uint8ClampedArray(2);
+new Int16Array(157);
+[-6.947103640170333,-1.5645419559360503e+308,1000.0,1000000.0];
+[4.0];
+[0.12281903765990854];
+let v15 = 8n;
+const v17 = new Uint8ClampedArray(Uint8ClampedArray, Uint8ClampedArray);
+const v18 = new Uint8ClampedArray();
+v17.set(v18);
+v15 %= 268435441n;

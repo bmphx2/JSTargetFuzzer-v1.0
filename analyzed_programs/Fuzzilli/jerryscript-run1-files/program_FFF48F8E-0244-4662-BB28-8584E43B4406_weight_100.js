@@ -1,0 +1,11 @@
+let v0 = -1022140989;
+new Uint8Array(12);
+new Int16Array(128);
+new Float32Array(127);
+let v17 = -5.0;
+Math.log(v0);
+Math.exp(-1024n);
+const v20 = -9007199254740991n || v17;
+Math.sin(-1024n);
+v17 && v20;
+v17 = --v0;

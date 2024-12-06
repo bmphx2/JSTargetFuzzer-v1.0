@@ -1,0 +1,32 @@
+const v6 = [-6];
+[-536870912,10000,-8653,-50837,-9007199254740990,-9223372036854775808,976888735];
+const v8 = [16];
+const v11 = new BigInt64Array(115);
+v6[-522047.7631140343] <<= 115;
+("tWj")[4230157689];
+const v17 = 1024 && (v8 / v8);
+Math.expm1(1024);
+new Float32Array(1000);
+new BigUint64Array(13);
+v8.length;
+v11.byteOffset = 1024;
+const v30 = -v17;
+const v31 = 298206050 << 298206050;
+v30 << v30;
+const v33 = Math.cos(v17);
+~0.0;
+const v35 = Math.acos(v31);
+Math.hypot(v30);
+const v37 = new Float32Array();
+v37.reverse();
+function f39(a40, a41) {
+    new Uint32Array(9);
+    typeof BigInt64Array === "undefined";
+    const t23 = "yf";
+    t23.length = v35;
+    9 / a41;
+    new Uint8Array(5);
+    new Uint8ClampedArray(3);
+    return Uint32Array;
+}
+f39("b", v33);

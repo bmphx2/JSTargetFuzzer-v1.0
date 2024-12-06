@@ -1,0 +1,11 @@
+const v5 = ([-16,4]).slice(45103);
+const v8 = new BigInt64Array(2863);
+v8[9] = v5;
+const v9 = [64136,9007199254740992];
+[64136,-9];
+[64136,9007199254740992,v9,v9,64136];
+new BigInt64Array(256);
+new BigInt64Array(235);
+new Float64Array(3418);
+let v21 = 63703n;
+v21 <<= -9223372036854775807n;

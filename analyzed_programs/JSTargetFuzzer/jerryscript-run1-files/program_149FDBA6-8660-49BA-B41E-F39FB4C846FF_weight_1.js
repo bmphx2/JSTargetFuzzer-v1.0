@@ -1,0 +1,71 @@
+function F3(a5) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.e = a5;
+    this.f = a5;
+}
+const v6 = new F3(1971353607);
+const v7 = new F3(1971353607);
+new F3(1971353607);
+function F9(a11, a12) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.d = 1971353607;
+    this.e = a11;
+}
+const v13 = new F9(v6, v7);
+const v14 = new F9(v13, v7);
+new F9(v14, v7);
+const v18 = new Float32Array(3701);
+const v21 = new Int32Array();
+let v22 = new Int32Array();
+function F23(a25) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.f = v22;
+    this.e = v21;
+}
+const v26 = new Int32Array(6);
+const v29 = Symbol.toPrimitive;
+const o36 = {
+    [v29]() {
+        function F31(a33, a34, a35) {
+            if (!new.target) { throw 'must be called with new'; }
+            this.c = "1073741824";
+        }
+        return "1073741824";
+    },
+};
+const v39 = new Float32Array(0);
+[-Infinity];
+const o54 = {
+    set a(a42) {
+        const v43 = [this];
+        [[v22,v43],v7,a42,v43,v39];
+        let v47 = -128;
+        const v48 = v47--;
+        const v49 = +v43;
+        Math.pow(v47, v48);
+        Math.imul(v49, v49);
+        Math.imul(v48, v47);
+        v47 && v43;
+    },
+};
+for (let v55 = 0; v55 < 5; v55++) {
+    o54.a;
+}
+let v57 = [-6.568975937209441,1.0,-Infinity];
+v57 -= v57;
+v22 = v21;
+try { v13(); } catch (e) {}
+Float32Array >>> v18;
+typeof v26 === "boolean";
+[0.6730197545704021,2.220446049250313e-16,5.387745681974783,-7.304740854736329,89425.84876466752,1000000000.0,-1.785661314585028e+308];
+const v64 = [13,9,-12559,-8,-4294967297];
+let v65 = [65535,-1139741600];
+new Uint8Array(v64);
+let v68 = -41990;
+const v69 = v65++;
+let v70 = --v68;
+function f71() {
+    return f71;
+}
+([-8.370930286710454,7.183159495332482,2.2250738585072014e-308,-1000000000000.0,-255.6362008927648,-315.07126899047114,-1.4473359933311645e+308,0.776153163138491,787700.9653515914]).flatMap(TypeError);
+--v70 * (v69 << v68);

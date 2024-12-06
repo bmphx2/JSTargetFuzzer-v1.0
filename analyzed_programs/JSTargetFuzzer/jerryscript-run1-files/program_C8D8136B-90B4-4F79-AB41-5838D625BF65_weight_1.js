@@ -1,0 +1,10 @@
+new Uint32Array(6);
+new Uint8Array(13);
+new BigInt64Array(5);
+new BigInt64Array(128);
+const v14 = new BigUint64Array(1107);
+new Float32Array(64);
+v14.buffer &= 64;
+new Float64Array(14);
+new Float32Array(257);
+new BigUint64Array(127);

@@ -1,0 +1,21 @@
+new Float64Array(1024);
+[-1e-15,-1.3163726389181015e+308,2.1766060677849326e+307,-1000000000000.0,-0.0,0.0,-804.3926297621829];
+[5.0,0.4697135500977554,-6.213018306769705e+307,3.0,-1.0,1.0,-7.622884643719043,-1000.0];
+[2.2250738585072014e-308,2.2250738585072014e-308,2.220446049250313e-16,-918.9517397982067,1.7976931348623157e+308];
+new Int32Array(2001);
+new Int8Array(2527);
+function f19() {
+}
+const o21 = {
+    ..."getOwnPropertySymbols",
+};
+const t11 = [16309,4,-2];
+Object.defineProperty(o21, 5, { writable: true, configurable: true, enumerable: true, value: delete t11[65535] });
+5 <= 5;
+const v36 = ("symbol")[5];
+v36 < v36;
+v36[257] = "symbol";
+f19(..."10", ..."unscopables", ..."symbol", "W");
+new Uint8ClampedArray(9);
+new Int8Array(2);
+new Float32Array(15);

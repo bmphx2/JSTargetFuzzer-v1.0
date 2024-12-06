@@ -1,0 +1,18 @@
+const v0 = [152.7447252745369,2.0,-1e-15,6.8021578799359474,1e-15,0.0];
+const v1 = [654.1961268528173,-1000000000.0,1000.0,Infinity,-1e-15,9.683783601806404e+307,1.268843768174191e+308];
+const v2 = [-109.32196250792606,3.0,-1.7976931348623157e+308,-1000000000.0];
+[v2];
+const v4 = [v2,v2,v0,v1];
+const v5 = [v0,v4,v4,v4,v2];
+const v8 = new BigInt64Array(6);
+const v11 = new Int8Array(255);
+const v14 = new Uint8Array(1);
+const v16 = [BigInt64Array,6];
+Reflect.apply(v11.lastIndexOf, v0, v16);
+v0.length;
+v5[255];
+v8[v2];
+Reflect[v14] = v8 >>> v11;
+/\p{gc=Nd}\xed\xa0\x80V(ab)*/uymi;
+/\1111+/ysd;
+/\P{sc=Greek}/vygi;

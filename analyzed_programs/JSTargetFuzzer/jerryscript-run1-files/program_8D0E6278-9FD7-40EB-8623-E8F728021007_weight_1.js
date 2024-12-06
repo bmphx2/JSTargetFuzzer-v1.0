@@ -1,0 +1,11 @@
+new Uint8ClampedArray(7);
+new BigInt64Array(1122);
+new Float64Array(1122);
+new Uint16Array(4096);
+new Uint8Array(3969);
+new BigInt64Array(3959);
+const v20 = new BigInt64Array(2863);
+v20[9] = "2147483647";
+const t8 = [808556844,2147483648,536870888,4294967297,2020106338,257,-65050,4707,8,4];
+t8.length = 3969;
+Symbol();

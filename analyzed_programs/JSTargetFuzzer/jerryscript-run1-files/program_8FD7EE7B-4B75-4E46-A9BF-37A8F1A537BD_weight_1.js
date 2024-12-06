@@ -1,0 +1,16 @@
+new BigUint64Array(512);
+new Float64Array(2727);
+const v8 = new Uint16Array(5);
+512 | v8;
+new Int32Array(4096);
+new Int16Array(1000);
+new Float32Array(4096);
+new Int32Array(128);
+new Int16Array(9);
+new Int32Array(85);
+new Uint32Array(1024);
+new Uint8ClampedArray(512);
+new Uint8Array(1024);
+const v37 = [];
+v37[252] = v37;
+v37.shift();

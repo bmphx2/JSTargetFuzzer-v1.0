@@ -1,0 +1,12 @@
+const v2 = new Int8Array(1355);
+Int8Array >>> Int8Array;
+const v5 = v2[1355];
+const v10 = new Uint8ClampedArray(20);
+const v15 = new BigInt64Array(1576);
+v15.lastIndexOf(224945336n);
+new Float32Array(1355);
+new Map();
+1397992509 != 1355;
+v10 ^ v5;
+typeof (3 > 1);
+let [,...v39] = ("lx").charAt(128);

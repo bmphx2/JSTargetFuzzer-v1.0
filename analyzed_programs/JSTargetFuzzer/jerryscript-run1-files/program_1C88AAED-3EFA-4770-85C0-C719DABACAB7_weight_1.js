@@ -1,0 +1,21 @@
+new Uint32Array(1000);
+const v5 = new Float32Array(3);
+const v8 = new Float64Array(3248);
+const v9 = /TB/gism;
+/5(?:a?)*/gysum;
+[3248,[[/(?=)/m,v9,3248,v8,Float32Array]],v5];
+[8,0,4294967297,-33048,6,1000,983207413];
+const v19 = [8];
+[-13,-465622521,22703];
+const v24 = new Float64Array();
+v24 != "-199008413";
+let v27 = "toString";
+-2.2250738585072014e-308 ^ 674250.9577052628;
+const v32 = (a33, a34) => {
+    a33.length;
+    v27 = "number";
+    return 570009.5976097113;
+};
+570009.5976097113 / "function";
+"number" ^ 0.4059163013705742;
+v19["forEach"](v32, "forEach");

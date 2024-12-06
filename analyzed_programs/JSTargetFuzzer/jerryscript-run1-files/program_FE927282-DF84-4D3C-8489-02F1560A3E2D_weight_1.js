@@ -1,0 +1,10 @@
+new Uint32Array(255);
+const v5 = new Float32Array(9);
+new Int16Array(Int16Array);
+~-1e-15;
+v5.byteOffset >>>= 2837;
+[Int16Array,v5,this];
+[255];
+[255];
+-Infinity;
+([[]]).every(parseFloat);

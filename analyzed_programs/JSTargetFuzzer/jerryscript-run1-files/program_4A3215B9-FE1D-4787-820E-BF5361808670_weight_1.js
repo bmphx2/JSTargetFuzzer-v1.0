@@ -1,0 +1,15 @@
+const v2 = new Uint8Array(10);
+let v3 = 5;
+new Int32Array(v3);
+new Float64Array(738);
+v3 = 9007199254740992;
+let v12 = 16;
+const v13 = ~v12;
+v12 >> 9007199254740992;
+v12 || v13;
+const v16 = ++v12;
+Math.floor(722733330);
+-v16;
+v2.__proto__;
+const v30 = new Int8Array(12);
+v30.byteLength *= 985;

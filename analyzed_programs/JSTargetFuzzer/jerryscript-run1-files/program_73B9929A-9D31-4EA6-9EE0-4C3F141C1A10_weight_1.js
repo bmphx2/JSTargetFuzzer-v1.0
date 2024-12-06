@@ -1,0 +1,10 @@
+[255,-128,-1,536870888,-9007199254740990,536870889,-1324202694,-16,268435440,3];
+[4294967295,-63525,268435441];
+[15,3,-128];
+new Set();
+new Uint8Array(513);
+new BigInt64Array(3420);
+new Int16Array(512);
+const v22 = new Uint16Array(1);
+v22.toLocaleString();
+("description")["repeat"]();

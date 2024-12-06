@@ -1,0 +1,12 @@
+const v0 = [4294967297,128,9007199254740991,-2147483648];
+[9223372036854775807,-5];
+[-40360,10000,1000,16,-1073741824,9,1845041942,4];
+let v6 = 5;
+new Float32Array(v6);
+new Uint32Array(10);
+new Float32Array(50);
+const v17 = Math.acos();
+const v18 = v17 || "bigint";
+v18.valueOf("bigint", Math, "bigint", v17, v18);
+v0[Uint32Array];
+v6 = 10;

@@ -1,0 +1,14 @@
+new Uint8Array(1);
+const v8 = new Uint8Array(3915);
+let v13 = 944177611 % 944177611;
+Math.floor(-1000000.0);
+-(v13-- ^ v13);
+Math.tan(3915 && v13);
+const v21 = new BigInt64Array(8);
+new BigUint64Array(5);
+new Float64Array(3966);
+new Int16Array(1024);
+[v21,1];
+[v8];
+[257n];
+Object.defineProperty([-5,-7,4096,33791,4294967297,-15,2,-128,-256,4294967296], "a", { enumerable: true, value: this });

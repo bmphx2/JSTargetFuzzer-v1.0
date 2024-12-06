@@ -1,0 +1,100 @@
+function f4(a5, a6, a7) {
+    return a7;
+}
+const v8 = [-5,-7,4096,33791,4294967297,-15,2,-128,-256,4294967296];
+let v9 = this;
+Object.defineProperty(v8, "a", { enumerable: true, value: v9 });
+const v14 = new Uint32Array(2736);
+new Float32Array(1024);
+Array(1024).includes(-1130072863);
+const o23 = {
+    set g(a22) {
+        switch (a22) {
+        }
+    },
+};
+new Uint8ClampedArray(149);
+const v29 = new Float32Array(3701);
+const v32 = new Int32Array();
+const v33 = new Int32Array();
+function F34(a36) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.f = v33;
+    this.e = v32;
+}
+new Int32Array(6);
+const v40 = new Float32Array(0);
+const v41 = [-Infinity];
+const o44 = {
+    set a(a43) {
+    },
+};
+for (let v45 = 0; v45 < 5; v45++) {
+    o44.a;
+}
+class C47 {
+    static n(a49) {
+        C47 *= -1478895337n;
+    }
+    static set a(a52) {
+        v9 = this;
+        super.e = 0;
+        [this];
+        [this,v14,v41,this,v29];
+        [Uint8ClampedArray];
+    }
+}
+[-6.568975937209441,1.0,-Infinity];
+[0.6730197545704021,2.220446049250313e-16,5.387745681974783,-7.304740854736329,89425.84876466752,1000000000.0,-1.785661314585028e+308];
+const v58 = [13,9,-12559,-8,-4294967297];
+let v59 = [65535,-1139741600];
+const v61 = new Uint8Array(v58);
+let v62 = -41990;
+const v63 = v59++;
+let v64 = --v62;
+function f65() {
+    return f65;
+}
+for (let i68 = 0, i69 = 10; i68 < i69; i68++, i69--) {
+    const o77 = {
+        "apply": Array,
+        "deleteProperty": f4,
+        "get": f65,
+        "has": Array,
+        "isExtensible": Array,
+        "preventExtensions": Array,
+        "set": f65,
+        "setPrototypeOf": f65,
+    };
+    new Proxy(v61, o77);
+}
+new Uint8ClampedArray(Uint8ClampedArray, Uint8ClampedArray, Uint8ClampedArray);
+Symbol.toPrimitive;
+("b").split("1000");
+const v89 = Symbol.toPrimitive;
+const o116 = {
+    [v89]() {
+        const v92 = ("SevCf").trimStart;
+        let v93;
+        try { v93 = v92(); } catch (e) {}
+        function F95(a97, a98) {
+            if (!new.target) { throw 'must be called with new'; }
+            Promise["all"]();
+        }
+        const v101 = new F95(F95, Promise);
+        function F102(a104, a105, a106) {
+            if (!new.target) { throw 'must be called with new'; }
+            Date["1000"](6);
+            [null];
+            this.c = "1073741824";
+            C47[Promise] = f4;
+            ++v62;
+            [a105];
+            [v93,this,v62];
+            [v101,C47,v40];
+        }
+        return "1073741824";
+    },
+};
+([-8.370930286710454,7.183159495332482,2.2250738585072014e-308,-1000000000000.0,-255.6362008927648,-315.07126899047114,-1.4473359933311645e+308,0.776153163138491,787700.9653515914]).flatMap(TypeError);
+--v64 * (v63 << v62);

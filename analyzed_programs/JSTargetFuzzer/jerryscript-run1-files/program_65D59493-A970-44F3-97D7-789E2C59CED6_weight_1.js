@@ -1,0 +1,92 @@
+class C3 {
+    constructor(a5) {
+        delete Reflect[4];
+    }
+    /*
+    constructor(a9) {
+        new Float64Array(2273);
+    }
+    */
+    static p(a14) {
+        this[Symbol.species];
+        return 46456;
+    }
+    static 1073741824 = 1073741824;
+    /*
+    constructor(a19, a20) {
+        a20[7] = a19;
+        const v24 = a19 || a20;
+        const v25 = !268435456;
+        Math.random();
+        268435456 & v24;
+        a19 && 5.0;
+        +v25;
+        !268435456;
+        a19[65537] /= a20;
+        let v33 = 4294967296;
+        v33--;
+        39631 << C3;
+        v33 | C3;
+        const v37 = -C3;
+        C3 || C3;
+        Math.ceil(v37);
+        Math.max(C3);
+    }
+    */
+    static n(a42) {
+        const v43 = this ** 46456;
+        super.e = 1073741824;
+        this.b = v43;
+        return -128;
+    }
+}
+const v44 = new C3();
+let v45 = new C3();
+const v46 = new C3();
+const v47 = [];
+const v49 = v47["concat"]();
+const v51 = new Map();
+function F52(a54, a55, a56, a57) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.g = v45;
+}
+new F52(-128, v46, v44, 46456);
+const v59 = new F52(46456, v45, C3, -128);
+function f61() {
+    return v46;
+}
+v45 = v47;
+C3.g = -128;
+const v65 = ("symbol")["slice"](1023, 9);
+const v66 = new F52(1073741824, 1073741824, v46, -128);
+new Boolean(256);
+const v73 = [1073741824];
+v73[8] += 1073741824;
+v49 != v73;
+new Date();
+[1000000000.0,3.0,0.48333869039314203,-3.0,-42.27685596507831,1.0,-2.220446049250313e-16,2.2250738585072014e-308];
+[-2.2250738585072014e-308,4.6851711673422e+307,0.8409694899017219,0.03020226738329934,938.2490746289682,4.0,607098.3930723551,-0.5930668077125656];
+[1e-15,9.323130580524804,-2.0,-1.0];
+new Float64Array(10);
+function f84(a85, a86, a87, a88) {
+    'use strict';
+    let v90 = 268435439;
+    Math.tan(a85);
+    v90--;
+    return Math.trunc(Infinity);
+}
+const v96 = new Int16Array(14);
+const v99 = new Int16Array(257);
+257 in v99;
+const v101 = v96.buffer;
+const o102 = {
+    "c": v101,
+    "h": Int16Array,
+    __proto__: v59,
+    ...v66,
+    "g": C3,
+    [v51]: v51,
+    253: v65,
+    ...v99,
+};
+Date();

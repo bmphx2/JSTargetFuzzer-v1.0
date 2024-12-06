@@ -1,0 +1,20 @@
+const v0 = [-2.0,2.220446049250313e-16,2.2250738585072014e-308];
+const v1 = [0.7230617508719303,-0.0,-1e-15];
+const v2 = [-1000000000000.0];
+const v6 = [v0,v1,4096n,-9007199254740992n,v1];
+const v7 = [v6,v1];
+const v8 = [-9007199254740992n,v6];
+Date(v1);
+v6 in v0;
+const v15 = new Date();
+const v16 = [v15,Date,v8,v0,4096n];
+new Uint8Array(1616);
+try { BigInt(); } catch (e) {}
+new Uint8ClampedArray(1785);
+new Uint32Array(6);
+const v28 = [v15,v16,4096n];
+[v2,-9007199254740992n,v28,v0];
+const v30 = [v28,v2,Date,v7];
+[Date,v30,v30,v30,4096n];
+[v2];
+Promise.reject(Promise)["then"]();

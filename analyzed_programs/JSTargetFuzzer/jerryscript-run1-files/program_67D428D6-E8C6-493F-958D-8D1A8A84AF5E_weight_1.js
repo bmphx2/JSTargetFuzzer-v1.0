@@ -1,0 +1,23 @@
+let v4 = "boolean";
+const v7 = Symbol.match;
+v4[v7] = 1.0;
+const v11 = v4.length;
+try { v7.substring(Symbol, Infinity, "o", v11, Infinity); } catch (e) {}
+const t5 = "o";
+t5.c = v7;
+const v13 = ("isInteger")["o"];
+new Uint16Array(128);
+const v20 = [268435441,,];
+`string${Uint16Array}2147483647${v20}isSafeInteger`;
+const v24 = new Float32Array(1);
+++v4;
+Object.defineProperty(v24, "d", { value: Float32Array });
+("isInteger" && v20) % 8.330117237285283;
+const v31 = v13 ** -2;
+Math.fround(v24);
+const v33 = !v24;
+v33 >> (-2 >>> v31);
+new Uint16Array(6);
+const v39 = [];
+const v40 = [2,-1149901742,1030320580,6];
+v40["unshift"]([v40,v40,v40], v39);

@@ -1,0 +1,10 @@
+const v5 = new BigInt64Array(48);
+const v8 = new Float64Array(256, 256, Float64Array, v5);
+new BigInt64Array(9, 48);
+v8[Float64Array];
+new Uint8ClampedArray(2341);
+new Int8Array(256);
+new Int32Array(512);
+let v26 = 4294967296n;
+v26 || (v26 | 1);
+--v26;

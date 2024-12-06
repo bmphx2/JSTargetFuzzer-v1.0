@@ -1,0 +1,22 @@
+new Uint16Array(247);
+const v8 = new Uint16Array(112);
+const v11 = new Float64Array(135);
+const v12 = [112,844.296788629393,v11,v11];
+[Uint16Array,v8,844.296788629393];
+[Uint16Array,444.75502981296677,v12];
+[8,0,4294967297,-33048,6,1000,983207413];
+const v19 = [8];
+[-13,-465622521,22703];
+let v23 = "toString";
+~"symbol";
+Math.min("skw4");
+Math.atanh(-1022322015);
+-2.2250738585072014e-308 ^ 674250.9577052628;
+const v37 = (a38, a39) => {
+    v37.length;
+    v23 = "number";
+    return 570009.5976097113;
+};
+570009.5976097113 / "function";
+"number" ^ 0.4059163013705742;
+v19["forEach"](v37, "forEach");

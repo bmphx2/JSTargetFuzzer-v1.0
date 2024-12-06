@@ -1,0 +1,10 @@
+/\u0060\x0f/vygsi;
+/nu\x01?/uymd;
+/b7B?/vgms;
+new Date();
+const v12 = new WeakMap();
+const v16 = 4294967296n * -1;
+-1 + v16;
+Math.cosh(-1);
++v16;
+v12[Symbol.isConcatSpreadable] = 65535n;

@@ -1,0 +1,12 @@
+const v0 = [];
+const v1 = /[a\fb\nc\rd\te\vf(?!(a))\1]/vy;
+/[C]/vyms;
+/foD/vgmd;
+let v13 = -12;
+const v17 = new Map();
+v17[268435439] = v17;
++v0;
+Math.cos(-699354494);
+const v23 = ++v13;
+-v1;
+v23 * v0;

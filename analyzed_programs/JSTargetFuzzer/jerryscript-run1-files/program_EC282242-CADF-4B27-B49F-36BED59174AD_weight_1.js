@@ -1,0 +1,10 @@
+[];
+new Uint32Array(3);
+new BigUint64Array(1261);
+const v12 = new Uint16Array(1000);
+const v15 = new BigInt64Array(196);
+const v18 = new Int16Array(249);
+const v21 = new Uint32Array(150);
+[v15,Uint16Array,v15,v15,[249,"3",[v21,BigUint64Array,150],v18,v12]];
+new Int16Array("-60529", 3, 1261);
+v21.length = 249;

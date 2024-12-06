@@ -1,0 +1,72 @@
+[-1e-15,-997.6991330395543,0.0,-558.2755156614476,0.8345862382530045,365740.3854867115,-4.0];
+[-Infinity,5.0,3.095281937663451];
+[-1.7976931348623157e+308,-956.3491321624184,0.3953512022829566,Infinity,-1000.0,1000000000.0,0.07341964148310487,-1.145800891395151];
+new Uint16Array(1000);
+new Int16Array(3);
+new Uint32Array(16);
+const v17 = new Int8Array(512);
+new Int8Array(1000);
+const v25 = new BigInt64Array(5);
+const v28 = new Int16Array(1998);
+new Float32Array();
+Symbol.iterator;
+const o33 = {
+};
+const v36 = [464457.4452524914,-751.3316998019881,1000000.0,-1e-15,5.0];
+const v37 = [1000000.0,1.2694373884119616e+308,-Infinity,0.7652992022490531,5.0,-8.644737118571141,1000000.0,0.9075298547528431,-2.220446049250313e-16];
+const v38 = [2.0];
+const v39 = [54783,-268435456,46487,11,-1059659455,16,65537];
+[1024];
+const v41 = [-4294967295,288477491,127,-9,852620098,-5,-12,-2147483648];
+new WeakSet([[v41,v41,v41,v41,v41],v41]);
+const v46 = [-9223372036854775807,-112563030,128,1073741825,-10,4,-27957,-1,4];
+class C47 {
+    static 9;
+}
+const v48 = new C47();
+new C47();
+new C47();
+let v51 = 41365n;
+const v53 = ("T")[0];
+let v55 = 1;
+new Uint32Array();
+[Array];
+const o60 = {
+};
+const v62 = new Int8Array(1000);
+const v64 = new Int8Array(3618);
+new Int8Array();
+Math.pow();
+~1998;
+Math.floor();
+v55--;
+delete v28[v38];
+v62[2500866454];
+Math.sin(v25);
+Math.ceil();
+4096 - Int8Array;
+v37.length <<= -62483;
+v46[-62483] = v39;
+("number").replace("T", "number");
+new BigUint64Array(9);
+new Uint32Array(128);
+const t52 = "T";
+t52.length &= 5;
+const v87 = v51--;
+async function f88(a89, a90) {
+    'use strict';
+    v64.valueOf = a89;
+    delete v48[512];
+    await Math;
+    return "bigint";
+}
+f88(v53, 0.0);
+v25 && -700.0252305292438;
+-v87;
+new BigUint64Array();
+Array.isArray(1808021206);
+58354n | -2147483649n;
+o33.c;
+let {"b":v105,"g":v106,"length":v107,} = v36;
+Math.log(268435441);
+v17 / 4;

@@ -1,0 +1,35 @@
+function f3() {
+    return -1321577474;
+}
+function F4(a6) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.g = 53240;
+}
+new F4(65537);
+new F4(F4);
+const v9 = new F4(53240);
+try { v9.getUTCSeconds(65537); } catch (e) {}
+v9[Symbol.species] = 65537;
+class C23 {
+    a = 10;
+    static n(a25, a26, a27, a28) {
+        for (let i31 = 1646, i32 = 10;
+            i31 < i32;
+            (() => {
+                let v38 = 2.000601260111571e+307;
+                Math.sqrt(65536);
+                const v40 = v38++;
+                Math.sign(65536);
+                Math.acosh(65536);
+                Math.log2(65536);
+                +65536;
+                Math.hypot(v40);
+                function F46(a48, a49) {
+                    if (!new.target) { throw 'must be called with new'; }
+                    this.c = a27;
+                }
+                i31++;
+            })()) {
+        }
+    }
+}

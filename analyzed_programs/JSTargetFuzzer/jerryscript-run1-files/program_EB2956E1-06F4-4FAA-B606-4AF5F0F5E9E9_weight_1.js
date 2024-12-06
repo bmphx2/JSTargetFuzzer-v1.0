@@ -1,0 +1,10 @@
+const v2 = new Uint32Array(1000);
+const v5 = new BigInt64Array(256);
+const v8 = new Float64Array(199);
+[v2];
+const v10 = [v8];
+[1000,v10,v10,Uint32Array,1000];
+Math.clz32(2);
++BigInt64Array;
+2 % v5;
+v8[Symbol.unscopables] = Uint32Array;

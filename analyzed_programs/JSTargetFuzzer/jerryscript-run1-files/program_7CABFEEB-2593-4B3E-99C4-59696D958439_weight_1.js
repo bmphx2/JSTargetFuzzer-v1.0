@@ -1,0 +1,18 @@
+let v1 = -1453589622;
+const v4 = new WeakMap();
+!v4;
+const v12 = Math.max(v1);
+v1++;
+v1++;
+Math.tanh(-8);
+v4.length = 2;
+v12.h = v4;
+const v20 = new Uint8ClampedArray(1993);
+new Int32Array(6);
+new BigUint64Array(256);
+v20.byteLength /= 2;
+typeof v4.length === "object";
+new Int16Array(4);
+new Uint8ClampedArray(127);
+new BigUint64Array(193);
+/ab\b\d\bcd*/yisu;

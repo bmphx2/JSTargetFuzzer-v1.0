@@ -1,0 +1,29 @@
+function F0() {
+    if (!new.target) { throw 'must be called with new'; }
+    this.e = 14;
+    (-9007199254740990)["toString"](-9007199254740990);
+    this.b = 14;
+}
+new F0();
+new F0();
+new F0();
+new Int16Array(2633);
+new Uint8Array(3);
+new Uint16Array(4);
+const v25 = [3.0];
+[-9.980181287646149];
+[v25];
+const v30 = new Int32Array(131);
+const v33 = new BigInt64Array(2);
+new Float64Array(3658);
+v30 & true;
+const t18 = "d";
+t18[4] >>= 3.0;
+Float64Array & -9.980181287646149;
+v33[Symbol.replace];
+let v46 = 18731;
+const v49 = 3.0 % 4294967295;
+const v50 = ++v46;
+Math.imul(v46, v46);
+v49 - 4294967295;
+v50 >>> v49;

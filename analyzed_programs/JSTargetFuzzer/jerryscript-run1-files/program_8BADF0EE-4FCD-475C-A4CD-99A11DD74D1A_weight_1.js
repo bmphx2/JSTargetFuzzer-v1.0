@@ -1,0 +1,27 @@
+new WeakSet();
+new WeakSet();
+[10,8];
+[9007199254740990,-6,256,65535,-8,-9223372036854775808,8,48361,1991566529,536870912];
+[0,47342,255,-38058];
+new Float32Array(10);
+new BigUint64Array(8);
+new Uint16Array(1000);
+const v24 = new Float32Array(9);
+new Int16Array(10);
+new Int32Array(81);
+[-1.4873191907627971e+308,-379.2517173109147,-1.7976931348623157e+308,667657.8438696936,-1000000000.0];
+[2.5870964546644305e+306];
+const v33 = [4.341584123218496e+307];
+v24 * 81;
+for (let v35 = 0; v35 < 32; v35++) {
+    v33["p" + v35] = v35;
+}
+Math.asinh(5);
+new ArrayBuffer();
+let v45 = 9007199254740991n;
+v45++;
+try { Int8Array(Int8Array, Int8Array, Int8Array); } catch (e) {}
+Math.pow(268435440, Int32Array);
+const v50 = !81;
+1 ** 268435440;
+-v50;

@@ -1,0 +1,15 @@
+const v2 = new BigInt64Array(1024);
+new Uint8Array(1024);
+new Float64Array(3095);
+new Uint8Array(9);
+const v19 = new Map();
+delete v2[-1];
+Array(Float64Array, Math.atan2(Float64Array, Math));
+new ReferenceError();
+new TypeError(Math);
+const v35 = new Uint8Array(3365);
+v19[Symbol.match] = -14;
+v35["values"]();
+new Float32Array(3365);
+const v45 = new Map();
+v45.keys();

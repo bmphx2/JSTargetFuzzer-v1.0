@@ -1,0 +1,28 @@
+const v5 = new Array(8);
+function f9(a10, a11) {
+    const o12 = {
+        [160835575]: 24186,
+        ...a10,
+        __proto__: v5,
+        "c": 1000,
+        "a": 8,
+        [a11]: Array,
+        ...Array,
+        "g": 160835575,
+        "b": 160835575,
+        "f": -65537,
+        "e": a10,
+        "h": 8,
+        [-65537]: a11,
+    };
+    return o12;
+}
+const v13 = f9(-65537, 2);
+f9(1000, 1000);
+f9(160835575, v13);
+function F16() {
+    if (!new.target) { throw 'must be called with new'; }
+}
+const v18 = new F16();
+[-645679.1757705609,NaN,596.3498861933385,1000000000.0,-5.0,3.452199136921493];
+Reflect.apply(v13.pop, v18);

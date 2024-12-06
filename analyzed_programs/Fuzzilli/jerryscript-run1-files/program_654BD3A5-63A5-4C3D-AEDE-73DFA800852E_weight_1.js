@@ -1,0 +1,15 @@
+new Set();
+new Float32Array(176);
+const v7 = new Uint32Array(2260);
+new Int32Array(64);
+let v11 = 4096;
+new BigUint64Array(v11);
+new BigInt64Array(6);
+new Int32Array(1928);
+const v20 = [1,-28266,-7,1000];
+[1024,-4140,-38003,-16,-1960904965,1073741824];
+const t9 = [255,2099168272,-9007199254740992,1073741824];
+t9.length = 64;
+v11 ||= 52950;
+new Set(v7);
+v20["values"](..."values", 1928, -4294967295, ...v20);

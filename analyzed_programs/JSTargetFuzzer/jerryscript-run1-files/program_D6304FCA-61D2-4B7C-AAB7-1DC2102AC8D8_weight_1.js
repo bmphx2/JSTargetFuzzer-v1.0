@@ -1,0 +1,297 @@
+const v0 = [257,-12,536870889,-1045302246,5,-65537,-9223372036854775807,-584523017,3,1740643753];
+const v1 = [9];
+const v2 = [-9,9,255,61581,-9007199254740990,-6,48616];
+function f6(a7, a8, a9, a10) {
+    const o23 = {
+        "d": a10,
+        ...a9,
+        __proto__: v0,
+        "f": a8,
+        /*
+        __proto__: a8,
+        */
+        [a7]: v0,
+        [a8]() {
+            let v12 = 10;
+            const o16 = {
+                next() {
+                    v12--;
+                    const o15 = {
+                    };
+                    return a7;
+                },
+            };
+        },
+        [v1]: -55443n,
+        get h() {
+            new WeakMap();
+            return WeakMap;
+        },
+    };
+    return o23;
+}
+f6(16n, v0, v2, v2);
+f6(-56608n, v0, v2, v1);
+f6(16n, v0, v0, v2);
+new ArrayBuffer(ArrayBuffer);
+let v30 = "-1511113948";
+function f31(a32, a33, a34) {
+    const o38 = {
+        set h(a36) {
+            v30 = a36 && a33;
+        },
+    };
+    return a32;
+}
+const v44 = [-5.0,-760.3317404970977,1.7976931348623157e+308,-1000000.0,0.988124420693639];
+const v45 = [433188.4908976734,-1000.0,-828421.4366491304,-1000000000.0,-835.6545090668683,-108.5771827811883,1.7976931348623157e+308,-5.0,3.462706705132312e+307];
+const v46 = [850.1412301316366,1000000000.0,5.883172686664299,-146228.28583968687,1000000.0,-1.7976931348623157e+308];
+function F47(a49, a50, a51, a52) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.g = a52;
+    this.e = v45;
+}
+new F47(v44, v45, 5.0, v46);
+const v54 = new F47(v44, v45, -4.0, v44);
+new F47(v45, v46, 0.0, v45);
+const v58 = new Date();
+function f59(a60, a61) {
+    const o78 = {
+        "e": a61,
+        "b": f59,
+        [a61]: a61,
+        "c": v58,
+        "g": a61,
+        ...a60,
+        ...a61,
+        "a": a60,
+        ...a60,
+        __proto__: a60,
+        "h": a60,
+        ...Date,
+        ...v58,
+        o(a63, a64, a65, a66) {
+            -56608n & a60;
+            let v68 = 9223372036854775807n;
+            v68 &= 536870888n;
+            function f71(a72, a73) {
+                return a73;
+            }
+            Object.defineProperty(f71(-56608n, a61), 257, { enumerable: true, get: f71 });
+            eval();
+            a60.toString();
+            return eval;
+        },
+        ...v58,
+    };
+    return f59;
+}
+const v79 = f59(v58, f59);
+const v82 = ([-3.9420134706840244,1000000.0,0.33415843436813053,2.2250738585072014e-308,-9.57664291846752e+307,7.5080309400479095,-836439.2043889777]).lastIndexOf;
+Reflect.apply(v82, v79);
+const o84 = {
+    __proto__: v45,
+};
+const v85 = f59(v79, Date);
+const v86 = f59(v85, v58);
+const v87 = [268435440];
+const v88 = [4096,-1,55445,9223372036854775807,-52192,38428];
+const v89 = [-1,-1,-59687,268435456];
+function f90(a91, a92, a93) {
+    const o220 = {
+        get c() {
+            return super.h;
+        },
+        ...v88,
+        "g": v79,
+        "e": v89,
+        o(a97, a98, a99, a100) {
+            const v101 = a93 & v79;
+            var g = v101;
+            let v102 = 9223372036854775807n;
+            v102 &= 536870888n;
+            for (let v105 = 0; v105 < 5; v105++) {
+                for (let v106 = 0; v106 < 5; v106++) {
+                }
+            }
+            a91[1] &= 10;
+            [1008121314];
+            Array(127);
+            function f114(a115, a116) {
+                const o120 = {
+                    [a116](a118, a119) {
+                    },
+                };
+                return o120;
+            }
+            const v121 = f114(255, 257);
+            EvalError();
+            let v125 = ~126190848;
+            --v125;
+            Object.defineProperty(v121, 257, { enumerable: true, get: f114 });
+            const v127 = /v6\ud808\udf45*/gum;
+            const v128 = /(F)/gyi;
+            const o129 = {
+                [v128]: v127,
+            };
+            for (let v130 = 0; v130 < 5; v130++) {
+                class C131 {
+                    static o(a133, a134) {
+                    }
+                }
+                const v135 = new C131();
+                const v136 = new C131();
+                new v54(v135, v136);
+                eval();
+                for (let i = 0; i < 5; i++) {
+                }
+                a99++;
+                const v144 = new Uint8ClampedArray(82);
+                ([2.0,0.5421251159488445,NaN,645885.6717831241]).every;
+                const v149 = new Int32Array(2083);
+                const v152 = new a97(82);
+                function f153(a154, a155, a156) {
+                    const o163 = {
+                        "h": Int32Array,
+                        set e(a158) {
+                            e = a155;
+                            [a156,a155];
+                            [v149];
+                            [a97,Uint8Array];
+                            this.h;
+                        },
+                        __proto__: v152,
+                        "b": Uint8Array,
+                        "c": 255,
+                        ...a154,
+                        1053877365: a155,
+                    };
+                    return o163;
+                }
+                f153(f153, 255, 82);
+                v144[8] = Uint8ClampedArray;
+                5 + -373;
+                resourceName(1);
+                function f170() {
+                    return [arguments];
+                    Date["UTC"]();
+                    const o179 = {
+                        "b": -1,
+                        "f": -268435456,
+                        "a": -1,
+                        9: 775371.5916919385,
+                        [775371.5916919385]: 775371.5916919385,
+                        268435441: -1,
+                        190: -268435456,
+                        "g": 775371.5916919385,
+                    };
+                    return f170;
+                }
+            }
+            try { v79.toString(v85, a97, a91, v101, v101); } catch (e) {}
+            new Uint8ClampedArray();
+            -39649 / -39649;
+            let v185 = 5;
+            const v186 = --v185;
+            function F188(a190, a191, a192) {
+                if (!new.target) { throw 'must be called with new'; }
+            }
+            const v193 = new F188(F188, -1.0, -1.0);
+            function f194(a195, a196) {
+                a196.__proto__ = v193;
+                return a195;
+            }
+            v186 * -4.0;
+            return f59;
+        },
+        "a": v79,
+        [v88](a199, a200, a201) {
+            a199[Symbol.iterator];
+            new Array(3);
+            new Array(9);
+            const v212 = [-1073741824,1073741824,-566284451,9,44901,2147483649];
+            const v213 = [10000,-4096,1073741823,4294967297];
+            [-3.0,v213.push(v212, 1, v213),1,v212];
+            return -184134270n;
+        },
+    };
+    return a93;
+}
+f90(v87, v86, v79);
+f90(v89, f90(v87, v87, v85), Date);
+[-2,-1029756820,58821,1615154097,4,-4294967295,4096,-2147483647,60281,-8277];
+[46082,2147483647,-2147483647,9007199254740991];
+[-536870912,-750003124,-2040046637,-85691047,-2147483649,5,-41184,-2147483649,1073741824];
+const o231 = {
+    "prototype": 129,
+};
+Symbol.unscopables["toString"]();
+class C236 {
+    o(a238, a239) {
+        const t230 = a238 instanceof a238;
+        t230[7] = "m";
+        var c = a238;
+        try {
+            super.m();
+        } catch(e242) {
+        }
+        return -6356;
+    }
+    static 4 = -6356;
+    4294967296;
+}
+let v243 = new C236();
+const v244 = new f90();
+new C236();
+function f251(a252, a253) {
+    return f251;
+}
+f251(-32538, "bigint");
+f251(11, "c");
+const v256 = new Set();
+const v257 = [19167,-1653864233,4];
+const v258 = [-14,-9223372036854775808,268435456,1007853335,257,54873,536870912,257];
+const v259 = [8,-34566,-1073741824];
+const v260 = v256 == v257;
+function f261(a262, a263) {
+    !717716241;
+    function f267(a268) {
+        return 169;
+    }
+    class C269 extends f267 {
+    }
+    return f261;
+}
+([1.1874236030596237e+308])["lastIndexOf"]("lastIndexOf");
+const v273 = v260 ? v256 : v257;
+C236.d = v259;
+let v274;
+try { v274 = v243(); } catch (e) {}
+v256[v274] /= -376497935;
+try { v2.sort(Int16Array); } catch (e) {}
+try { v82(v82); } catch (e) {}
+([1073741824,-747252372,268435439,-65537,-256])["unshift"]("unshift", [4294967295]);
+v257[v258] &= -6356;
+v243 = v244;
+("m").length;
+const o298 = {
+    [v89](a284, a285) {
+    },
+    ...v244,
+    "a": -376497935,
+    o(a287, a288, a289, a290) {
+        for (let v291 = 0; v291 < 5; v291++) {
+            for (let i = 0; i < 5; i++) {
+            }
+        }
+        return a289;
+    },
+    [v273]() {
+        function F293(a295, a296, a297) {
+            if (!new.target) { throw 'must be called with new'; }
+            this.c = v274;
+        }
+        return v274;
+    },
+};
+new Proxy(v85, o298);

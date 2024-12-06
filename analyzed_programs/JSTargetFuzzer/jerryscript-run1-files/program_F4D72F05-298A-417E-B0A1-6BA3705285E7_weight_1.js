@@ -1,0 +1,60 @@
+let v4 = 4;
+class C6 {
+    [1593080838];
+    static d;
+    constructor(a8, a9, a10, a11) {
+        try { ("g").trim(); } catch (e) {}
+    }
+    static 16 = "g";
+    d = "65537";
+    ["g"];
+    static g = 692482915;
+    f = "g";
+}
+new C6("65537", v4, 692482915, 1593080838);
+const v15 = new C6("valueOf", v4, 1593080838, v4);
+[v4,C6,..."valueOf",v15];
+try {
+const t0 = "g";
+t0();
+} catch (e) {}
+const v19 = Symbol.iterator;
+const o28 = {
+    [v19]() {
+        let v21 = 10;
+        const o27 = {
+            next() {
+                v21--;
+                const v25 = v21 == 0;
+                const o26 = {
+                    "done": v25,
+                    "value": v21,
+                };
+                return o26;
+            },
+        };
+        return o27;
+    },
+};
+new C6("g", v4, 692482915, 692482915);
+const v34 = -13 | C6;
+Math.log2(-13);
+C6-- & -1;
+-13 || -v34;
+const v44 = new Uint32Array(181);
+let v46 = BigUint64Array;
+let v47 = new v46(1);
+let v48 = 253;
+[v48,,v46,v47] = v44;
+try { v46["abs"](181, v48, v46); } catch (e) {}
+v4 = -128;
+Math.log1p("valueOf");
+Math.round(1e-15);
+-"valueOf";
+!C6;
+new Uint16Array(v48);
+for (let i68 = 0; i68 < 2; i68++) {
+    const v74 = new Function("x");
+    v74.g;
+}
+Function();

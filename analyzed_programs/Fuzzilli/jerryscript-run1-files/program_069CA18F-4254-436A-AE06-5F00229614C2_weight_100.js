@@ -1,0 +1,11 @@
+new Date();
+const v7 = new Uint8ClampedArray(149);
+new Int32Array(41);
+new Int8Array(3986);
+Math.max(v7);
+Math.exp(2147483648);
+const v19 = -v7;
+v19 / v7;
+Math.cbrt(v19);
+2147483648 >> -576091885;
+!v19;

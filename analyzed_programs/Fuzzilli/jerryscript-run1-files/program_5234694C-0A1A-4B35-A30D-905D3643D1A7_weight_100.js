@@ -1,0 +1,10 @@
+new BigUint64Array(16);
+const v5 = new Int8Array(23);
+let v8 = new Uint8ClampedArray(4096);
+!2;
+Math.asinh(v8);
+let v17 = 257 & v8++;
+++v17;
+v8 % 257;
+v5.buffer = 2;
+v5[1];

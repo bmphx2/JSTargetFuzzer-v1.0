@@ -1,0 +1,18 @@
+const v0 = [-1067648056,536870889,9,1073741824,1988034267];
+const v1 = [13,9223372036854775807,-1073741824,-268435456,268435439];
+const v2 = [7202,-21251];
+const v3 = [v1,v2,v2];
+const v4 = [v0,v2,v2,v0,v3,v1];
+[v0];
+new WeakMap();
+const v10 = new BigUint64Array(2452);
+new Uint32Array(128);
+const v16 = new Function(10);
+const v18 = v0["values"]();
+v18.toString = v18;
+v10.multiline;
+v16["values"] = v4;
+let v22 = (-2n) ** 63703n;
+-12n >= v3;
+v3.length *= 2452;
+v22 += -12n;

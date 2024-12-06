@@ -1,0 +1,10 @@
+new Uint8ClampedArray(11);
+new Int16Array(1);
+new Int32Array(1446);
+new Array(1);
+let v14 = -33299;
+const v15 = --v14;
+const v16 = Array / v14;
+65536 - v16;
+new Array(Math.hypot(v16 / v14));
+[v15,11];

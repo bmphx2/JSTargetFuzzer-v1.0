@@ -1,0 +1,41 @@
+const v0 = [-16,26641,-16237136];
+const v1 = [-1819658530,-14,10,8,9];
+const v2 = [-4096,-9715528,-32582,-2147483647,-936928300,642964380];
+new Float64Array(16);
+new Int8Array(5);
+v0.e = v1;
+new Float64Array(v1, 16, 5);
+const o11 = {
+};
+new Proxy(v2, o11);
+new Float32Array(5);
+new WeakSet();
+let v24 = "delete";
+let v30 = 886.0009926550579;
+const v35 = new URIError(16);
+const v38 = new Int16Array(447);
+const v41 = new Uint32Array(2438);
+function f45() {
+}
+v35.description <<= 2006448021;
+const v53 = [2.220446049250313e-16,-1.7976931348623157e+308,-3.4833326659982795,-1000000000000.0,0.0,2.220446049250313e-16,-4.191721618721404,1.4104645033139904e+308];
+("1073741824").match(v53.copyWithin(v53, v53));
+const v59 = new Uint8Array(0);
+let v64 = RegExp.bind("2147483647", [-8,4294967295,148900462]);
+const v66 = new BigUint64Array(127);
+v64 /= v66;
+new WeakSet();
+const v73 = -4.0 < v41 ? -4.0 : v41;
+Object.defineProperty(v41, "g", { get: RegExp, set: f45 });
+v24 -= "1";
+f45(Float64Array, ...v59, ..."1", v73);
+++v30;
+let v79 = 268435439;
+Math.pow(v41, -1408175334);
+let v81 = -1408175334 ^ -1408175334;
+-v79;
+v79--;
+v81--;
+Math.tanh(512);
+new BigInt64Array(2, -14, v38);
+([5]).reverse();

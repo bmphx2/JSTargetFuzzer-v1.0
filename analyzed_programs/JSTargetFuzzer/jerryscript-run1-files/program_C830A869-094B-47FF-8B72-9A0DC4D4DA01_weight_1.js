@@ -1,0 +1,48 @@
+const v2 = new Uint32Array(1);
+let [v4,v5,...v6] = v2;
+v2.buffer <<= 1;
+let v8 = 268435439;
+const v10 = -v8;
+-24186 % -24186;
+v8 % -24186;
+-(-24186);
+Math.abs(v10);
+++v8;
+Math.sinh(v10);
+v2[v2] >>= v4;
+[1000.0,1e-15,-1.4740285139987544e+308];
+[-1.7976931348623157e+308,0.9574359581007073,0.4726770041509417,0.6990681132781862,-Infinity,-2.2250738585072014e-308,-Infinity];
+[2.2250738585072014e-308,-881.2758223562116,1000.0,0.8443963992323004,-8.279746133144352,2.0,-1.0,4.0];
+new Uint32Array(7);
+new Float64Array(3);
+new Uint16Array(9);
+const v34 = new Float64Array(256);
+const v37 = new Int8Array(4096);
+[9,v34,Uint16Array,Uint16Array,[256,9,4096,[v37,Float64Array,256]]];
+v8 | 4096;
+const v45 = new Int32Array(0);
+new Uint8ClampedArray(2677);
+new Int32Array(255);
+new Array(127);
+const v56 = new Uint32Array(181);
+let v58 = BigUint64Array;
+let v59 = new v58(1);
+let v60 = 253;
+[v60,,v58,v59] = v56;
+try { v58["abs"](181, v60, v58); } catch (e) {}
+v45["reverse"]();
+Math.asinh(Uint16Array);
+-586190388 - 9;
+-586190388 - 9;
+let v76 = 9 & +9;
+v76++;
+new Uint16Array(v60);
+for (let i84 = 0; i84 < 2; i84++) {
+    const v90 = new Function("x");
+    v90.name;
+}
+638046528 + "x";
+new Uint8ClampedArray(9);
+new Int32Array(16);
+new Int8Array(255);
+Function();

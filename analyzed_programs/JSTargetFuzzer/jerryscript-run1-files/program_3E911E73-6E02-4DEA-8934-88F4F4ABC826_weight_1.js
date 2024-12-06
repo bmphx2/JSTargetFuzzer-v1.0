@@ -1,0 +1,21 @@
+let v8 = -9223372036854775807n;
+v8 += -65535n;
+const v9 = -1.7976931348623157e+308 || 0.7374554834046815;
+new Uint8Array(2796);
+const v15 = 213 << -1.7976931348623157e+308;
+const v16 = v9 > v15;
+v16 ? v9 : v15;
+try { ("h").startsWith("h"); } catch (e) {}
+const v22 = new Int32Array(213);
+const t9 = "m";
+t9[Int32Array] >>= -9;
+const v25 = v16 <= v22 ? v16 : v22;
+v25.__proto__ = "m";
+Math.clz32(v25);
+const v29 = -9 >> -9;
+~v29;
+const v31 = !v29;
+!-9;
+v31 * -9;
+new Int8Array(811);
+("number").replace("T", BigInt64Array);

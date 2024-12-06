@@ -1,0 +1,15 @@
+const v3 = [-1,1426091983];
+let v4 = [-1,-1973578385,1426091983,-1973578385];
+const v5 = [v3,1426091983,1426091983,-1,1426091983];
+const v7 = new Date();
+new BigUint64Array(1368);
+let v13 = new Uint8ClampedArray(203);
+new Uint16Array(31);
+v5.toString = Date;
+v4[536870912] = v7;
+[Uint16Array,v7,203];
+[[Uint8ClampedArray,BigUint64Array,v7]];
+({"d":v13,"length":v4,} = v3);
+Math.fround(-1973578385);
+v5 ^ 203;
+Math.hypot(v5);

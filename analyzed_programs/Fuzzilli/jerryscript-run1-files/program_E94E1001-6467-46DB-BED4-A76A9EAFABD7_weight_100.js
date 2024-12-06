@@ -1,0 +1,11 @@
+const v14 = new Int8Array(128);
+new Float64Array(6);
+new Uint8Array(3683);
+const v21 = [-1833,-65535,319294158,420499253];
+[1073741824,100417223,-2147483649,8,3630,536870887];
+[65535,-1073741824];
+v14[256];
+v21.length;
+new BigInt64Array(2739);
+new Int16Array(5);
+new Float32Array(4);

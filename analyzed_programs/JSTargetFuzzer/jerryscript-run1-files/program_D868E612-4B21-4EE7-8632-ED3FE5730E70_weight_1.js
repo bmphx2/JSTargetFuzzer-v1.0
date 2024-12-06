@@ -1,0 +1,12 @@
+const v2 = new Int16Array(6);
+new Int8Array(127);
+new BigInt64Array(5);
+let v13 = 846248564;
+(-1305587652n) ** -2.5180822260687314;
+-13 ^ v13;
+~-1305587652n;
+v13--;
+v2[1659737244];
+new Float64Array(9);
+new Float64Array(7);
+new Uint8Array(6);

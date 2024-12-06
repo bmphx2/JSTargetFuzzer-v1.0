@@ -1,0 +1,88 @@
+const v3 = [0.797540760572595,-Infinity,5.0,0.3212429148680068,885561.3547909546,-970568.6008681199];
+const v4 = [2.0];
+const v5 = [-193.02648915265183];
+function f6() {
+    return v4;
+}
+new Uint16Array(255);
+const v12 = new Float32Array(169);
+const v15 = new Uint32Array(5);
+class C19 {
+    static set d(a21) {
+        let v22;
+        try { v22 = new a21(v4); } catch (e) {}
+        v3[248] >>= v22;
+    }
+    constructor(a24, a25) {
+        a25 in a24;
+        [a24];
+        [[4.0,f6,this,-1]];
+    }
+    static [-4.0];
+}
+new C19(v3, 4.0);
+const v31 = new C19(v4, -4.0);
+const v32 = new C19(v3, 4.0);
+const v34 = new Map();
+v5 || 5;
+let v36 = v34[10000];
+v36 = Uint16Array;
+[v32,v34,v31,v15];
+[Map];
+[v12,v12];
+function F46(a48, a49) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.b = a49;
+    this.a = 13;
+    this.f = a48;
+}
+let v50 = new F46(536870912, -37768);
+new F46(536870912, 13);
+const v52 = new F46(-37768, 536870912);
+v50 = v52;
+let v53;
+try {
+const t0 = -574757824;
+v53 = t0(255, F46, -579245951, v34, Map);
+} catch (e) {}
+try { v53(v34, v34, Map, 255); } catch (e) {}
+v52[268435441] = v50;
+let v55;
+try { v55 = v52.o(v52); } catch (e) {}
+([-3.9420134706840244,1000000.0,0.33415843436813053,2.2250738585072014e-308,-9.57664291846752e+307,7.5080309400479095,-836439.2043889777]).lastIndexOf;
+new Set([5.0]);
+const v63 = new Uint32Array(181);
+let v65 = BigUint64Array;
+let v66 = new v65(1);
+("9").repeat();
+let v69 = 253;
+[v69,,v65,v66] = v63;
+function* f72(a73, a74) {
+    const o75 = {
+    };
+    268435439n ** o75;
+    return v55;
+}
+try { v65["abs"](181, v69, v65); } catch (e) {}
+new Uint16Array(v69);
+for (let i88 = 0;
+    (() => {
+        const v90 = i88 < 2;
+        [Float32Array,1142439131];
+        const o94 = {
+            ...f72,
+            226: -579245951,
+        };
+        return v90;
+    })();
+    i88++) {
+    const v98 = new Function("x");
+    v98.name;
+}
+[null];
+const v102 = [977677784,-4230];
+function f103(a104, a105, a106) {
+    return a106;
+}
+v102.reduceRight(f103);
+Function();

@@ -1,0 +1,10 @@
+new Uint8Array(295);
+new Uint8Array(12);
+Symbol.toStringTag;
+Symbol.for(Symbol);
+const v10 = [];
+v10.toLocaleString(v10, v10);
+new Uint32Array(4096);
+/Y93\x0f/s;
+/foo[z]*/m;
+/a{z}*/yi;

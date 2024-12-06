@@ -1,0 +1,11 @@
+const v6 = [3,3,-1.3265196697132138e+307];
+const v7 = [v6,v6];
+const v8 = [v7,3];
+-1.0 / 36143772;
+v8.__proto__ = v6;
+v7.length;
+v6.__proto__;
+new Map();
+new WeakSet();
+v8.__proto__;
+v7 >>> NaN;

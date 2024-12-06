@@ -1,4 +1,0 @@
-module libcoverage {
-    umbrella header "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/libcoverage/include/libcoverage.h"
-    export *
-}

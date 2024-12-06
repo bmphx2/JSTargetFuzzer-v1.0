@@ -1,0 +1,15 @@
+const v2 = new Float32Array(1599);
+const v5 = new Float64Array(508);
+const v8 = new Int32Array(3718);
+[v8,v5,[v8,Float32Array],508];
+const v11 = [v2,v2,Int32Array,v2,3718];
+let v15 = 0n;
+let v18 = -59273;
+++v18;
+0.0 ^ v8;
+Math.log10(-849888022);
+Math.acosh(Int32Array);
+Math.atanh(Int32Array);
+v8 && v8;
+v15 **= 1000n;
+v11.length;

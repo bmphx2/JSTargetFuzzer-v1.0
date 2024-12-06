@@ -1,0 +1,10 @@
+/Y[\cz]/gysvm;
+/bxyz{1,}/vm;
+/x1[\p{Script_Extensions=Mongolian}&&\p{Number}]/gum;
+/aUa(\xed\xb0\x80)\x01/gdisvm;
+/2kN/gu;
+/C[xyz]abca{0}/gum;
+new Int32Array(4);
+new Float64Array(2);
+const v20 = new Float32Array(2);
+Int32Array != v20;

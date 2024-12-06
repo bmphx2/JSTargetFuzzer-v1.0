@@ -1,0 +1,71 @@
+new Int32Array(10);
+let v11 = new Uint8ClampedArray(512);
+new Float64Array(5);
+const v15 = [-0.0,-62005.4832069563,-796.7184022897094,1.7976931348623157e+308,-1.0,5.0,471507.71410557977];
+[-3.0,22175.46802635526,-1000000.0,-1e-15,-1000000.0,842.1164031164237,3.0,710202.0348831015,-8.0195554739415e+307,-3.0];
+let v17 = [1.7976931348623157e+308];
+function f18() {
+    return v15;
+}
+new WeakMap();
+const v24 = [-1.7976931348623157e+308,NaN,4.0,-3.0,0.7202116682743733,0.10722414533286673];
+const v25 = [-1e-15,0.786904425348982,1000000000.0];
+const v26 = [-1000.0,-Infinity,-3.0];
+v11 = 582866721;
+v25[v24];
+const v28 = v26[9];
+v17 = v26;
+class C29 {
+    o(a31, a32) {
+        a31 instanceof a31;
+    }
+}
+const v36 = typeof v28 === "object";
+class C38 {
+    constructor(a40) {
+        const v41 = a40.__proto__;
+        try { new v41(); } catch (e) {}
+    }
+}
+new C38(C38);
+function* f44(a45, a46) {
+    const v47 = new f18();
+    yield* Uint8ClampedArray;
+    return v47;
+}
+const v48 = f44(v24, -10);
+const v51 = [8,0,4294967297,-33048,6,1000,983207413];
+try { v26["splice"](...v51, ...v48, ...v36, ...v26, -10); } catch (e) {}
+const v55 = ~("object")[2617003312];
+const v58 = -Infinity;
+const o64 = {
+    "g": 255,
+    valueOf(a62) {
+        super.getOwnPropertyDescriptors(this, -1523281992, 255, v58);
+        return a62;
+    },
+};
+const v66 = [8];
+[-13,-465622521,22703];
+const v72 = new Float32Array(127);
+v72.sort;
+let v74 = undefined;
+const o75 = {
+};
+v74 = o75;
+let v76 = "toString";
+try { BigInt64Array(BigInt64Array, BigInt64Array, BigInt64Array); } catch (e) {}
+const v81 = [65536];
+function F82(a84, a85) {
+    if (!new.target) { throw 'must be called with new'; }
+}
+try { v81.some(F82); } catch (e) {}
+-2.2250738585072014e-308 ^ 674250.9577052628;
+const v89 = (a90, a91) => {
+    a90.length;
+    v76 = "number";
+    return v55;
+};
+570009.5976097113 / "function";
+"number" ^ 0.4059163013705742;
+v66["forEach"](v89, "forEach");

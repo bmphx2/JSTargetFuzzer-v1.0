@@ -1,0 +1,27 @@
+[33544,10000];
+[-1362088956,-13,2087367052,-8,268435440,18664,8,16,-8,6];
+[-16,-11,-65537,9,10,-16,-4294967296,58829229,4809];
+[6.539751204073006,4.0,-989.4740443585355,0.4689556647032608,-3.0,-5.0,-2.0,0.0,5.0];
+[2.220446049250313e-16,-318575.4856579825,-Infinity,539.2946772858525,-2.4227596710259856e+307,-1.0,-Infinity,810.2917993834803];
+[4.723373455515422e+307,-1e-15,-2.220446049250313e-16];
+const v8 = new Float32Array(16);
+new Uint32Array(3191);
+new BigInt64Array(1325);
+let v17 = 16n;
+const v21 = new Date();
+const v23 = [Date,Date,Date,Date];
+for (const v26 of Reflect.apply(v21.toUTCString, v21)) {
+    v26.__proto__ = v23;
+}
+new Float32Array(538);
+new Float64Array(14);
+new Float32Array(257);
+Float64Array instanceof Float32Array;
+const o38 = {
+    valueOf() {
+        super.d;
+        v17 |= Boolean;
+        return 257;
+    },
+};
+try { v8.entries(); } catch (e) {}

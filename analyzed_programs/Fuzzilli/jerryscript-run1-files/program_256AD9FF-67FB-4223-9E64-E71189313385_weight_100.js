@@ -1,0 +1,10 @@
+/(ab|cde)\1/vygsi;
+/\p{Script_Extensions=Greek}a*b/vmsid;
+/[\xe2\x81\xa3]/vgmsid && -61595n;
+let v14 = -268435456;
+const v16 = -27961 >>> v14;
+Math.ceil(-27961);
+-v16;
+v14++;
+Math.sinh(-27961);
+Math.tan(v14);

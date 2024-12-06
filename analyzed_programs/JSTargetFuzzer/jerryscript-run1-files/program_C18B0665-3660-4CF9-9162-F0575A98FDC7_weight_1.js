@@ -1,0 +1,11 @@
+new Float64Array(128);
+new BigUint64Array(10);
+new Uint16Array(10);
+new BigUint64Array(4);
+new Uint8Array(1);
+new Int32Array(212);
+const v19 = [1.7976931348623157e+308,1.7976931348623157e+308,1.7976931348623157e+308];
+const v22 = new Float32Array(198);
+const v24 = new Int32Array(v22, 198, 198);
+v19.join(1.7976931348623157e+308);
+v22[5] = v24;

@@ -1,0 +1,15 @@
+new Map();
+let v2 = Date;
+new v2();
+let v19 = 1.6237923575220884e+308;
+++v2;
+Math.atanh(v2--);
+--v19;
+const t4 = "o";
+t4.valueOf = Map;
+const v28 = -1000.0;
++536870887;
+Math.atanh(256);
+Math.expm1(v28);
+Math.sin(v28);
+Math.sinh(256);

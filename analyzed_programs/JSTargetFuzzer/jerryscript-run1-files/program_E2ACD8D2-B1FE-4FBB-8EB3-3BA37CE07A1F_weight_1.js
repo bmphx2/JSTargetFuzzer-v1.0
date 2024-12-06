@@ -1,0 +1,2 @@
+new Date();
+typeof null;

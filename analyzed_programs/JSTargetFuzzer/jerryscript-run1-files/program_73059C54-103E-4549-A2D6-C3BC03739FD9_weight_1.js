@@ -1,0 +1,9 @@
+new BigUint64Array(68);
+new Int8Array(9);
+const v11 = new BigUint64Array(1629);
+const v14 = new Float32Array(3);
+new Float32Array(127);
+new Int16Array(255);
+const v23 = new Uint16Array(1);
+v11 >> v23.toLocaleString();
+v14[v11];

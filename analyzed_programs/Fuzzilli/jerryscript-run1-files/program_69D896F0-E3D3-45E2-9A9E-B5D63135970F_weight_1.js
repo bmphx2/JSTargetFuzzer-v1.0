@@ -1,0 +1,12 @@
+new Set();
+const v8 = /B(a\1)a{6?/sd;
+/\x01/usd;
+/a*b|cm+/uymi;
+new Uint8Array(4096);
+new BigInt64Array(512);
+new Uint32Array(359);
+new Map();
+v8["test"]("test");
+new Uint16Array(3291);
+new Float32Array(1368);
+new Int16Array(64);

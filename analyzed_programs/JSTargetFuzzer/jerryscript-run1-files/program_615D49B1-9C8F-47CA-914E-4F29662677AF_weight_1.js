@@ -1,0 +1,17 @@
+[];
+const v4 = new Uint8Array(129);
+Math.cosh();
+Math.sinh();
+v4 >>> v4;
+Math.asin();
+new WeakSet();
+new BigUint64Array(3138);
+new Int8Array(3747);
+new Int32Array(7);
+new BigInt64Array(1);
+new BigUint64Array(16);
+new Uint16Array(84);
+new Float32Array(4096);
+new Uint16Array(4096);
+const v43 = new Uint16Array(10);
+v43[30];

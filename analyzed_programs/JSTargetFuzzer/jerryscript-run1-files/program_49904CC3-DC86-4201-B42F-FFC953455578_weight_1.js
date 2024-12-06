@@ -1,0 +1,29 @@
+[];
+new BigUint64Array(8);
+new Int32Array(3040);
+new Int8Array(208);
+const v19 = [65535n,0n,964329252n];
+let v20 = [964329252n,964329252n,v19,v19,-14];
+const v21 = [v20,v20,v19,964329252n,0n];
+const v22 = [65535n,v20];
+[v21,0n,v21,0n];
+const v24 = [v20];
+const t10 = "fdNr";
+t10[0] = 65535n;
+let v31;
+try {
+const t0 = "localeCompare";
+v31 = new t0(v19, v24, v24, 58270);
+} catch (e) {}
+async function* f32(a33, a34, a35) {
+    ({"length":a33,...v20} = a34);
+    const v36 = yield v19;
+    [-159.91632461601353,1.2939760484235483e+308,-234.44839619711706,4.0,1e-15,5.0,-5.0,448.93894136360746,-629237.2752174904,-1.5485730665822505e+308];
+    for (let v38 = 0; v38 < 32; v38++) {
+        v31["p" + v38] = v38;
+    }
+    await a33;
+    yield "fdNr";
+    return v36;
+}
+f32(-931695159, v22, v31, -365, 3040, "localeCompare");

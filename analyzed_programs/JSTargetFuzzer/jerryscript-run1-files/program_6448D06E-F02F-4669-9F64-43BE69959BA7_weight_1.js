@@ -1,0 +1,42 @@
+let v0 = 1715;
+let v1 = Int16Array;
+const v2 = new v1(v0);
+let v4 = Uint8Array;
+new v4(3102);
+let v6 = 512;
+const v8 = new Float64Array(v6);
+v6 -= 3102;
+let v9;
+try {
+const t0 = 3102;
+v9 = t0(v0, v1);
+} catch (e) {}
+[v4,v1,,v9] = v2;
+[-99880295,1763416667,-1073741824,-63626,-128,4628,1024,65535];
+const v11 = [-623260842,20555,-9007199254740990,65537];
+const v12 = [6,3,26092,2147483649,-1];
+const v16 = new Float64Array(3888);
+v9 = Float64Array;
+new v9(Float64Array, v0, v8, 3888, v2, ...v16);
+v0 ^= 10;
+try { v12.findIndex(v4, v11); } catch (e) {}
+new Float64Array(v0, 10);
+new Uint16Array(10);
+new BigUint64Array(116);
+const v33 = [3.0];
+[2.0];
+[v33];
+const v38 = new Int32Array(131);
+const v41 = new BigInt64Array(2);
+new Float64Array(3658);
+v38 & true;
+const t31 = "d";
+t31[4] >>= 3.0;
+Float64Array & -9.980181287646149;
+v41[Symbol.replace];
+let v55 = 4294967295;
+const v57 = -9.980181287646149 % v55;
+const v58 = ++v55;
+Math.imul(18731, 18731);
+v57 - true;
+v58 >>> v57;

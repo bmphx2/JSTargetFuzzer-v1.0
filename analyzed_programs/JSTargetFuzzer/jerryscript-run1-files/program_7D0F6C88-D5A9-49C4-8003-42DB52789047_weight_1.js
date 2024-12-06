@@ -1,0 +1,36 @@
+[];
+new Float32Array(97);
+new Uint8Array(2);
+new Float64Array(3433);
+let v21 = 536870888n;
+const v32 = [3.0];
+function f33(a34, a35) {
+    a34 instanceof a34;
+}
+new Promise(f33);
+[-9.980181287646149];
+Object.defineProperty(v32, -9.980181287646149, { configurable: true, get: f33, set: f33 });
+v21 /= 2331n;
+[v32];
+const v46 = new Int32Array(131);
+const v49 = new BigInt64Array(2);
+new Float64Array(3658);
+const v56 = v46 & true;
+const t18 = "d";
+t18[4] >>= 3.0;
+Float64Array & -9.980181287646149;
+v49[Symbol.replace];
+const t20 = "d";
+t20[-2] = 2.0;
+const v64 = new BigInt64Array();
+v64.keys();
+let v67 = 4.0;
+v56 ^ v56;
+--v67;
+Math.abs(v67);
+let v71 = 18731;
+const v74 = 3.0 % 4294967295;
+const v75 = ++v71;
+Math.imul(v71, v71);
+v74 - 4294967295;
+v75 >>> v74;

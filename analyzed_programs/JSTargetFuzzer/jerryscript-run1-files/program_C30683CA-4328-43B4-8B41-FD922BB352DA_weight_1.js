@@ -1,0 +1,10 @@
+let v2 = -9007199254740992n;
+v2 ^= v2;
+const v5 = new Float64Array(14);
+new Float32Array(406);
+new Int8Array(1630);
+const v23 = new Map();
+const v28 = new RangeError(v23["values"]("values"));
+v23 ^ v28;
+v5.toString = RangeError;
+v28.toString(Int16Array);

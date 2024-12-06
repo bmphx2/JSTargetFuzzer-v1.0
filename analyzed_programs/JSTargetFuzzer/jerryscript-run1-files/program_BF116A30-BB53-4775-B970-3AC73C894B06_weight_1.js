@@ -1,0 +1,28 @@
+const v2 = new BigUint64Array(4096);
+let v5;
+try { v5 = v2.copyWithin(230, 4096, 4096); } catch (e) {}
+let v7 = 0.0;
+v5++;
+("2147483648").replaceAll();
+new Int32Array(230);
+new BigUint64Array(7);
+[8,-39054];
+let v17 = [-1871240828,51953];
+const v18 = [1,14,16740569,0,-256,65537];
+new BigUint64Array(230);
+new Uint32Array(1935);
+new Uint8ClampedArray(v18);
+const v29 = [13,9,-12559,-8,-4294967297];
+[3,-28987,536870889,1073741825,15];
+[65535,-1139741600];
+new Uint8Array(Uint8Array);
+new Float32Array(256);
+let v40 = new Float64Array(1024);
+new Uint8Array(v29, 256, 1531);
+let v43 = -41990;
+const v45 = v17++;
+--v43;
+const v47 = --v7;
+v40--;
+const v49 = v45 << v47;
+v49 * v49;

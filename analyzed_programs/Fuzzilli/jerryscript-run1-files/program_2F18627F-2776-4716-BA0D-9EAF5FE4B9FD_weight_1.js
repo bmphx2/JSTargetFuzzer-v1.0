@@ -1,0 +1,13 @@
+new Int8Array(4096);
+new Int16Array(256);
+const v8 = new Uint8ClampedArray(1000);
+[Uint8ClampedArray,v8];
+[Int8Array];
+[256];
+const t3 = "l";
+t3[Int8Array] = "undefined";
+const t8 = "p";
+delete t8?.length;
+new Int8Array(1192);
+new Float64Array(5);
+new BigUint64Array(4096);

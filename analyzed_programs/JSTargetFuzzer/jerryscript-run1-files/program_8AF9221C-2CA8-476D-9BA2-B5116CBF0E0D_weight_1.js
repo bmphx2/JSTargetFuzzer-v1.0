@@ -1,0 +1,30 @@
+new Uint8Array(21);
+new Float32Array(3);
+new Float32Array(64);
+const v17 = new Uint8Array(512);
+new Int16Array(447);
+new Uint32Array(2438);
+let v26 = 1.0;
+let v31 = 2;
+const v33 = v31++;
+Math.sqrt(v26++);
+v33 + v33;
+v26 && v31;
+Math.asinh(v26);
+function f40() {
+}
+v17.description <<= 2006448021;
+const v48 = [2.220446049250313e-16,-1.7976931348623157e+308,-3.4833326659982795,-1000000000000.0,0.0,2.220446049250313e-16,-4.191721618721404,1.4104645033139904e+308];
+("1073741824").match(v48.copyWithin(v48, v48));
+new Uint8Array(0);
+let v59 = RegExp.bind("2147483647", [-8,4294967295,148900462]);
+const v61 = new Int32Array(127);
+Array(Array)[268435456];
+0.0 << 0.0;
+v59 /= v61;
+new WeakSet();
+new BigInt64Array(2);
+const v81 = [5];
+const v84 = [6.587821035819711e+307,4294967297n];
+try { v84.toLocaleString(v84, v84); } catch (e) {}
+v81.reverse();

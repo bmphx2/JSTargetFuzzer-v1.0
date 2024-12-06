@@ -1,0 +1,14 @@
+new Int32Array(5);
+new Int32Array(2788);
+new Float32Array(1024);
+new BigInt64Array(1);
+const v25 = [9223372036854775807n];
+[2n,[v25,v25],-1290666896n];
+~-37993n;
+2n > 1;
+new BigUint64Array(16);
+new Uint16Array(84);
+new Float32Array(4096);
+new Uint16Array(4096);
+const v46 = new Uint16Array(10);
+v46[30];

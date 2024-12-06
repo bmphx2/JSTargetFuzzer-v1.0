@@ -1,0 +1,10 @@
+new Uint8Array(1024);
+new Uint16Array(10);
+new Float64Array(6);
+new BigInt64Array(3038);
+new Int32Array(10);
+new Uint16Array(0);
+let v19 = 2940;
+const v21 = new Int8Array(127);
+v21.lastIndexOf(v19, 737926005);
+257 * v19++;

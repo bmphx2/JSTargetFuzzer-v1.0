@@ -1,0 +1,27 @@
+const v1 = new WeakMap();
+let v5 = 1073741824;
+const v7 = (v1 >>> v5) ** 536870887;
+Math.clz32(2);
+const v9 = v5++;
+Math.trunc(536870887);
+!v9;
+Math.tanh(v7);
+const v16 = new Int16Array(4);
+new Int8Array(819);
+v1[3727357982] *= -5.0;
+v16[-5.0] = 11541;
+const v25 = new Int8Array();
+const v27 = new Int32Array(v25, 129, 129);
+const v30 = new Uint8ClampedArray(3598);
+v30["set"](...v25, 129);
+const v34 = new Int16Array(v30);
+v34["indexOf"](v27);
+new Uint16Array(4096);
+try { Uint8Array(); } catch (e) {}
+let v43 = 682018131;
+Math.clz32(v43);
+const v46 = v43--;
+-v46;
+v46 - v43;
+!v43;
+Math.log2(819);

@@ -1,0 +1,13 @@
+new Date(Math.min());
+new Int8Array(1608);
+new Uint8Array(3);
+const v15 = new Uint16Array(0);
+v15.byteOffset;
+Uint8Array === Uint8Array;
+v15[2] = Int8Array;
+const v21 = Symbol.isConcatSpreadable;
+new WeakMap();
+[65535,63873,3,20600];
+[11,-380531102,268435440,-65536,-536870912,-60222,8,129,1073741823,-48708];
+[536870888];
+Int8Array == v21;

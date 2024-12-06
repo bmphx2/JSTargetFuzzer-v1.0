@@ -1,0 +1,15 @@
+let v2 = 268435456;
+const v6 = [257,-15,1454797028,16,-128,-1024,1232552516];
+const v7 = [4,2147483648,-9007199254740992,10];
+[1073741824,6,1];
+const v11 = new Float64Array(4049);
+const v14 = new Float64Array(1660);
+const v17 = new BigUint64Array(129);
+const v19 = BigUint64Array ^ (BigUint64Array & v17);
+[95898.08575965674,BigUint64Array,v11];
+const v22 = [[v6,v14,904.6067367170376,v7,v14]];
+v19 instanceof Float64Array;
+Math.fround(-2.2250738585072014e-308);
+const v29 = ~v22 ** v2;
+~v22;
+v29 % ++v2;

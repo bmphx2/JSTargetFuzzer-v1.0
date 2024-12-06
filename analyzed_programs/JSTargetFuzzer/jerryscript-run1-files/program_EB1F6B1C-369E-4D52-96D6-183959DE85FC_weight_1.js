@@ -1,0 +1,15 @@
+const v5 = new Int32Array(2);
+new Uint16Array(129);
+const v11 = new Int32Array(106);
+const v17 = new Int8Array();
+const v19 = new Int32Array(v17, 129, 129);
+const v22 = new Uint8ClampedArray(3598);
+v5[3775] = -30.551641990838675;
+const t7 = "set";
+t7[9] = "set";
+[2];
+[Int32Array,129,3598];
+[Int16Array,v11,Int32Array,Int8Array];
+v22["set"](...v17, 129);
+const v29 = new Int16Array(v22);
+v29["indexOf"](v19);

@@ -1,0 +1,73 @@
+new Map();
+function f21() {
+    return -4096;
+}
+function F25() {
+    if (!new.target) { throw 'must be called with new'; }
+    this.g = -65537;
+    this[15] = F25;
+    this.valueOf = -65537 in this;
+    for (let v29 = 0; v29 < 32; v29++) {
+        this["p" + v29] = v29;
+    }
+    this.f = -65537;
+}
+let v32 = new F25();
+const v33 = new F25();
+const v34 = new F25();
+Promise.resolve(BigInt64Array);
+function f39() {
+    delete arguments["bigint"];
+    return v33;
+}
+f39();
+const o44 = {
+};
+(-2n) ** 63703n;
+new Uint32Array(5);
+new Int32Array(5);
+const v55 = new Uint8Array(150);
+function f56() {
+}
+let v57 = 0;
+do {
+    v34 / v34;
+    v57++;
+} while ((() => {
+        const v61 = v57 < 9;
+        for (let i63 = 0;
+            (() => {
+                const o64 = {
+                };
+                return i63 < 7;
+            })();
+            i63++) {
+        }
+        return v61;
+    })())
+let v78 = -21186;
+const v80 = +-9223372036854775808;
+Math.imul(v78, v78);
+++v78;
+Math.clz32(v80);
+const v84 = v80 % -9223372036854775808;
+Math.tan(v78);
+v84 + v78;
+new Uint8Array(0);
+let v93 = RegExp.bind("2147483647", [-8,4294967295,148900462]);
+const v95 = new Int32Array(127);
+const v96 = ("2147483647")[11];
+v55 instanceof v93;
+RegExp[8] = 4.0;
+const t61 = "2147483647";
+t61.__proto__ = v34;
+Uint32Array < v96;
+v93 /= v95;
+const v100 = new WeakSet();
+const v106 = new BigInt64Array(2);
+127 instanceof Int32Array;
+function f109() {
+    return v106;
+}
+v32 = v100;
+([5]).reverse();

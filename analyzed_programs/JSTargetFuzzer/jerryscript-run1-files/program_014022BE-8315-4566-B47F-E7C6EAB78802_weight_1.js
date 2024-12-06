@@ -1,0 +1,78 @@
+const v2 = new Uint8ClampedArray(1000);
+const v5 = new Uint8ClampedArray(128);
+new Set();
+let v9;
+try { v9 = Int8Array(); } catch (e) {}
+function F10() {
+    if (!new.target) { throw 'must be called with new'; }
+}
+const v14 = new BigInt64Array(4096);
+function f15(a16, a17, a18) {
+    const o31 = {
+        [1000]: v2,
+        "e": a18,
+        ...v2,
+        get b() {
+            return a16;
+        },
+        valueOf(a21, a22, a23, a24) {
+            a24 **= 4096;
+            return a23;
+        },
+        [v2]: Uint8ClampedArray,
+        [v9]() {
+            typeof this;
+        },
+        ...v5,
+        set e(a28) {
+            /\w|\d[\ca]/gisum;
+            /M(x)(x)(x)\4*/yis;
+        },
+        "b": 128,
+        "c": a16,
+        "f": a16,
+        "d": v14,
+        3092626804: v14,
+        "growable": v5,
+    };
+    return o31;
+}
+f15(128, 4096, 128);
+f15(1000, 1000, 128);
+f15(1000, 128, 1000);
+const v37 = [27430,-2,7,536870889,16,30462,252913585,-256,1073741824];
+const o40 = {
+    set f(a39) {
+    },
+    "f": v37,
+};
+new Float32Array(3701);
+const v44 = new Int32Array();
+const v45 = new Int32Array();
+function F46(a48) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.f = this;
+    this.byteLength = v44;
+}
+new Int32Array(6);
+new Float32Array(v45);
+[-Infinity];
+const o56 = {
+    set a(a55) {
+    },
+};
+for (let v57 = 0; v57 < 5; v57++) {
+    o56.b;
+}
+[-6.568975937209441,1.0,-Infinity];
+[0.6730197545704021,2.220446049250313e-16,5.387745681974783,-7.304740854736329,89425.84876466752,1000000000.0,-1.785661314585028e+308];
+let v61 = [13,9,-12559,-8,-4294967297];
+let v62 = [65535,-1139741600];
+new Uint8Array(v61);
+v62++;
+let v67 = --v61;
+function f68() {
+    return v5;
+}
+([2.0,314155.46857615444,-2.2250738585072014e-308,1.0,1.0,-1000000000.0,-316041.79605187115,-1.0920101596228672e+308]).flatMap(TypeError);
+--v67 >> (1000 << -41990);

@@ -1,0 +1,17 @@
+new BigUint64Array(8);
+const v5 = new Int8Array(16);
+new Float64Array(24);
+new Float32Array(257);
+const v14 = new Uint8Array(5);
+new Uint8Array(9, v5);
+new BigInt64Array(1);
+new BigUint64Array(16);
+-BigUint64Array;
+new Set();
+v5.buffer -= 1;
+delete v14[0];
+new Uint16Array(84);
+new Float32Array(4096);
+new Uint16Array(10000);
+const v42 = new Number(10);
+v42[30];

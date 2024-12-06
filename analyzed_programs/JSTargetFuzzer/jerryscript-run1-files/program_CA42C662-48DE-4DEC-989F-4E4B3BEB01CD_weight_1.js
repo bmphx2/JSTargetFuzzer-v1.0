@@ -1,0 +1,11 @@
+const v3 = [512];
+[-4096];
+[v3,v3,-4096];
+new Uint8Array(3011);
+new Uint8ClampedArray(127);
+-10n == 297;
+new Uint16Array(184);
+const v19 = new WeakMap();
+const v21 = [-5.574309526310066,9.575466282633336,0.6969425113230584];
+v3.toString = Symbol;
+v21 in v19;

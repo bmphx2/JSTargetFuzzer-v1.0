@@ -1,0 +1,10 @@
+new Uint16Array(7);
+new BigInt64Array(1024);
+let v11 = 8n;
+v11 |= -4294967296n;
+new Int32Array(1024);
+new Map();
+let v17 = 16n;
+const v18 = new Map();
+let v20 = Symbol.iterator;
+({"size":v20,...v17} = v18);

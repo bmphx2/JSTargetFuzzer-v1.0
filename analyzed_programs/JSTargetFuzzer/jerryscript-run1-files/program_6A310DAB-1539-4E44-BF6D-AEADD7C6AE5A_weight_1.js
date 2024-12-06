@@ -1,0 +1,10 @@
+const v3 = /a\Sc?/giu;
+/L/gydis;
+const v5 = /Ra(?!bbb|bb)c/gys;
+const t3 = "m";
+t3.f = "m";
+Boolean(v5);
+Math.cosh(v3);
+Math.min(v5);
+~v3;
+Math.round(12);

@@ -1,0 +1,40 @@
+function F0() {
+    if (!new.target) { throw 'must be called with new'; }
+    this.a = -128;
+    this.e = -128;
+    this.d = -128;
+}
+new F0();
+new F0();
+new F0();
+new BigInt64Array(512);
+const v11 = new Int32Array();
+let v12;
+try { v12 = v11.filter(); } catch (e) {}
+for (const v13 in v12) {
+}
+new Uint16Array(129);
+new Uint8Array(10);
+const v24 = new Uint8Array(2);
+let v26 = Float32Array;
+const v27 = new v26(127);
+new Int32Array(243);
+new WeakSet();
+new Float64Array(127);
+new BigInt64Array(3886);
+new Uint32Array(0);
+v26 += v26;
+let v42;
+try { v42 = WeakSet(v24); } catch (e) {}
+new Uint16Array();
+typeof 273578484n;
+const v47 = [977677784,-4230];
+function f48(a49, a50, a51) {
+}
+v47["findIndex"](f48);
+const v55 = [v42];
+Reflect.apply(v27.sort, v27, v55);
+try { v55.flat(); } catch (e) {}
+[498897049];
+[-57150070,-2147483647,-11,-19440739,257,-65536,5,-1371366486,-5,-4294967296];
+[-9007199254740990,-530113451,4,-14,-45856,2];

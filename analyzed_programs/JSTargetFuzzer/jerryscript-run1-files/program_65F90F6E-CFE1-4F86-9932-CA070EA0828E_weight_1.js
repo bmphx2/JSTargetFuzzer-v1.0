@@ -1,0 +1,37 @@
+const v2 = new Uint8ClampedArray(4);
+new Int32Array(1453);
+new Uint16Array(1, Uint16Array, Uint16Array, Uint16Array);
+[0.7457350265275966,-Infinity,-0.0,1000000000.0];
+[-364.51216091455785,2.0,-2.0,1.7976931348623157e+308];
+[1.2839553669614258e+308,-2.2250738585072014e-308,-1000000000.0,624396.7703723505,5.0];
+const v14 = new Int32Array(2083);
+new Uint8Array(255);
+const v20 = new Int16Array(7);
+function f21(a22, a23, a24) {
+    const o31 = {
+        "h": Int32Array,
+        set e(a26) {
+            e = a23;
+            [a24,a23,this];
+            [v14];
+            [Int16Array,Uint8Array];
+            this.h;
+        },
+        __proto__: v20,
+        "b": Uint8Array,
+        "c": 255,
+        ...v2,
+        7: a23,
+    };
+    return a23;
+}
+const v32 = f21(2083, 255, 7);
+const v33 = f21(v32, 7, 2083);
+f21(f21, 255, 7);
+v32[-2] &= 2083;
+v20[-1] -= 7;
+let v35 = 10;
+for (; v35--;) {
+    (961417840).b;
+    v33[v32.toPrimitive] = 7;
+}

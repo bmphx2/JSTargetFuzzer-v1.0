@@ -1,0 +1,16 @@
+new Uint8ClampedArray(12);
+const v5 = new Float32Array(1);
+new Int16Array(3);
+(1).byteLength;
+const t3 = 3.0;
+t3[2] = v5;
+const v16 = new Uint32Array(1);
+const v19 = new Float64Array(127);
+new Uint8Array(4096);
+new BigInt64Array(725);
+v19["indexOf"](v16);
+("indexOf").__proto__;
+new ReferenceError();
+new BigInt64Array(2711);
+new Int16Array(6);
+eval(eval);

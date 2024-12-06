@@ -1,0 +1,14 @@
+const v2 = new Array(3);
+const v3 = [Array,Array,v2];
+const v5 = Date.__proto__;
+("reverse").matchAll(v5);
+v5();
+const v9 = [3];
+const v10 = [v3];
+const v15 = v3 ^ 24277;
+Array(24277);
+new String(1000);
+v9[-2147483649n] = v2[v10];
+const v28 = v15 + v10;
+Math.floor(v15);
+Math.clz32(v28);

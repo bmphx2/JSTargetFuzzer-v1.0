@@ -1,0 +1,10 @@
+const v2 = new Array(40);
+new Float32Array(255);
+new Uint16Array(16);
+new Float32Array(4096);
+let v24 = 24697;
+Math.tanh(v24);
+v24--;
+Math.atanh(v2);
+Math.log2(257);
+new RegExp(1082);

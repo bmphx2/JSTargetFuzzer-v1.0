@@ -1,0 +1,11 @@
+const v2 = new Array(3);
+const v3 = [Array,Array,v2];
+const v4 = [3];
+const v5 = [v3];
+const v10 = v3 ^ 24277;
+Array(24277);
+new String(1000);
+v4[-2147483649n] = v2[v5];
+const v23 = v10 + v5;
+Math.floor(v10);
+Math.clz32(v23);

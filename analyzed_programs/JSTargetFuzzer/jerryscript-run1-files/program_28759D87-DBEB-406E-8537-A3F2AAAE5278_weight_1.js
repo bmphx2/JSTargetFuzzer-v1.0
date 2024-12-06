@@ -1,0 +1,20 @@
+let v1 = Uint32Array;
+const v2 = new v1(5);
+new v1(v2, 5);
+Math.acosh(v2);
+Math.trunc(-9007199254740991);
+v1--;
+const v12 = -9007199254740991 << 1000000000000.0;
+1000000000000.0 + 61175;
+-9007199254740991 * v1;
+v12 >> v12;
+const v17 = new Uint8Array(78);
+v17.reduceRight(Number);
+new Uint16Array(1336);
+new Int8Array(223);
+new BigUint64Array(3);
+new Uint8ClampedArray(3);
+("588268209")["substring"](-4096, 0);
+new Int32Array(3);
+const v41 = (10).toString;
+try { v41(); } catch (e) {}

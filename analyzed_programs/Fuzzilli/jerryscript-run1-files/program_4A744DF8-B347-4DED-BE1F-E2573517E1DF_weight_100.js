@@ -1,0 +1,11 @@
+new Uint8ClampedArray(105);
+new Uint8Array(127);
+new Int8Array(1000);
+let v10 = new Date();
+let v15 = 4096;
+let v17 = 872.8205186616008;
+Math.cos(v15--);
+v10 >> v15;
+--v17;
+Math.trunc(8);
+v10++;

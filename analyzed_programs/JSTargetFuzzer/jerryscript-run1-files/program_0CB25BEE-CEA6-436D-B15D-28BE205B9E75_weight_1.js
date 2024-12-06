@@ -1,0 +1,12 @@
+const v8 = new Uint8Array(235);
+new Int16Array(196);
+const v14 = new Uint8ClampedArray(186);
+const v22 = new Int16Array();
+const v23 = v22.fill(v22, Int16Array, Int16Array);
+-1 % 11;
+v14[186] = 10;
+v8[2258233437] >>= -1;
+[7,-2147483647,-1033467536];
+[-8,-7];
+[4294967295,351676589,11,-9,-536870912,-24510];
+v23 != 5n;

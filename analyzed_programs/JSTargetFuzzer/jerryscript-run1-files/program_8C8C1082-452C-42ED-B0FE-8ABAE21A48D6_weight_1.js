@@ -1,0 +1,15 @@
+const v3 = [257];
+const v4 = [-865301025,v3,v3,-865301025];
+[v4,-1547664962,257];
+new Float64Array(199);
+new BigUint64Array(146);
+new Int32Array(4);
+v4[257] = -2.0;
+v4.__proto__;
+const v25 = 128 >> 335.3285089913061;
+let v26 = 199 % BigUint64Array;
+v26--;
+Math.floor(v25);
+-2.0 << 335.3285089913061;
+Math.clz32(BigUint64Array);
+335.3285089913061 / v25;

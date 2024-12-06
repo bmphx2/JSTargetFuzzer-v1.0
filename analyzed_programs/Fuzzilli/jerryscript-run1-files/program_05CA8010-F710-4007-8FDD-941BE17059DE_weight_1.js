@@ -1,0 +1,10 @@
+/a*b|c/uyd;
+/Oa+b/vgmid;
+/C(?:(?=a))a\1/sd;
+const v9 = new Int8Array(512);
+new BigInt64Array(218);
+new BigInt64Array(0);
+new Uint16Array(255);
+new Int16Array(127);
+new Int32Array(3444);
+f = v9;

@@ -1,0 +1,10 @@
+new Uint16Array(256);
+const v8 = new Float64Array(2319);
+new BigUint64Array(420);
+let v12 = 52621n;
+delete v8[4];
+new BigUint64Array(10);
+new Uint32Array(4034);
+new Uint8ClampedArray(9);
+-2.0 != [-1521134849,1024,-16633,19233,7,-9181,-128,-9007199254740991,0];
+--v12;

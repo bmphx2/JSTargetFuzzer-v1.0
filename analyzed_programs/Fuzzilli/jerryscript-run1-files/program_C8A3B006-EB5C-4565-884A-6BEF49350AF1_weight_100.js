@@ -1,0 +1,14 @@
+let v3 = 9007199254740990;
+const v6 = /z(?:a+){0,0}/uysi;
+/i(x)(x)(x)\1\1(a)(\cxyz{1,32}?)*/gi;
+/a\Bb/ugid;
+new BigInt64Array(240);
+new Int32Array(3090);
+new Uint8Array(5);
+let v18 = [16];
+const v19 = [255];
+const v20 = [3,-11,129];
+v18 = v19;
+v3 = 268435439;
+v6.g = v20;
+v19[8];

@@ -1,0 +1,37 @@
+const v0 = [0.8460371151225714,-Infinity,4.655665016879825e+307,-5.0,-2.2250738585072014e-308];
+const v1 = [-230.67641401181606,-14384.770605833502,0.6131894508215765,915.5381003217685,4.0];
+const v2 = [462.6062815970281,0.0,1000.0,-99.5244477514259,-1000000000.0,-4.0];
+[[v2,v2,v2,v0],v2,v0,v1];
+[v2,v1,v1,v1,v2];
+const v12 = [16495,536870887,2,55707,65535,-1,3,-96686273];
+[-318018281];
+let v14 = [10,-1024];
+new WeakSet();
+const v31 = new URIError(512);
+const v34 = new Int16Array(447);
+new Uint32Array(2438);
+function f41() {
+}
+let v45 = -11;
+Math.expm1(v14);
+-v14;
+v14--;
+const v50 = v14 * v14;
+v45++;
+const v55 = new BigInt64Array(512);
+Math.round(v55.join(16));
+Math.asinh(v45);
+Math.cbrt(v50);
+v31.description <<= 2006448021;
+const v66 = [2.220446049250313e-16,-1.7976931348623157e+308,-3.4833326659982795,-1000000000000.0,0.0,2.220446049250313e-16,-4.191721618721404,1.4104645033139904e+308];
+("1073741824").match(v66.copyWithin(v66, v66));
+new Uint8Array(0);
+let v77 = RegExp.bind("2147483647", [-8,4294967295,148900462]);
+const v79 = new BigUint64Array(127);
+v77 /= v79;
+new WeakSet();
+/a*?(x)(x)(x)(x)(x)(x)(x)(x)(x)(x)\10*/gyiu;
+new BigInt64Array(2, -14, v34);
+v12.length;
+Object.defineProperty(v1, v66, { writable: true, configurable: true, value: 886.0009926550579 });
+([5]).reverse();

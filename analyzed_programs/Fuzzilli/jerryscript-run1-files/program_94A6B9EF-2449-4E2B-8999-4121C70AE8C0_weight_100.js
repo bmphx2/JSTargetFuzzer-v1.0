@@ -1,0 +1,10 @@
+function F9(a11, a12, a13, a14) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.c = a13;
+    this.g = 65536;
+    a14.a = -13467;
+}
+new F9(65536, -2n, -2n, -22224);
+new F9(1000, 1000, -22224, -51022);
+new F9(1000, 1073741823n, 1000, -13467);
+("14").repeat(8);

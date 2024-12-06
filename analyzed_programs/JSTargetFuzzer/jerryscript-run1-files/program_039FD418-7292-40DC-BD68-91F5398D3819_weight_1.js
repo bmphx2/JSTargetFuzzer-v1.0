@@ -1,0 +1,12 @@
+[-65535,4294967297,-776486971,268435456,4];
+[1000,1024,-536870912,5,-2,39023,9,-5,536870912,9007199254740992];
+[4294967297,64,3,-32024];
+const v5 = new Float32Array(9);
+const v13 = -489154.44796583964 ^ 7;
+Math.hypot(v5);
+256 % 7;
+!v13;
+new BigInt64Array(387);
+new Uint8ClampedArray(255);
+const v22 = resourceName.bind(resourceName, resourceName, resourceName);
+v22(v22);

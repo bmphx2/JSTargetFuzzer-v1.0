@@ -1,0 +1,12 @@
+const v3 = new Uint16Array(14);
+new Float32Array(4);
+const v9 = new Uint32Array(4);
+const v13 = v3[8];
+const v14 = delete v9?.buffer;
+v3.buffer >>>= -404.40453814272166;
+[Uint16Array,4,Float32Array,v13,v14];
+const v16 = [4,v3,6.934866472597335];
+[v3,-404.40453814272166,v16,v16,Uint32Array];
+new Uint8Array(4096);
+new Int32Array(257);
+new Uint8Array(2);

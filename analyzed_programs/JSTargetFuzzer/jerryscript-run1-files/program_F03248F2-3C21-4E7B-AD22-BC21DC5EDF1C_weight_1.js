@@ -1,0 +1,32 @@
+let v2 = 2634;
+const v4 = new Uint8ClampedArray(v2);
+const v5 = v4.reverse();
+const v9 = new Object(3.0, 4.2051094409409275e+307);
+Object[v5] |= 4.2051094409409275e+307;
+v2 -= v2;
+const v15 = new Int32Array(4);
+new Int32Array(3);
+function f19() {
+    return v9;
+}
+const v21 = [NaN];
+[-1e-15,-2.0,0.737465722832199,-1000000.0,-493.92830781524833,-0.0,-1000000000.0,4.0,0.17156768457194693,-662.3994463876222];
+[-Infinity,2.175972701968868e+307,1e-15,-704.7844756200124,-4.0,-2.0,-1.7976931348623157e+308];
+new Int32Array(64);
+const v29 = new Int32Array(1024, 3, v21, Int32Array);
+f19 = Int16Array;
+13 ** 4;
+Object(v15, 65537, 4.2051094409409275e+307, Int32Array, v29);
+new Float64Array(14);
+new BigInt64Array(16);
+new Uint8Array(136);
+new Object(1000);
+const v44 = [129];
+const v45 = [0,-2,-646376397,1855814374,-2,-8,-29428,-3];
+[-1194622953,-65536,4294967297,-65535,-112499346,512,9007199254740991,268435440,-1940231846];
+v44[Symbol.unscopables];
+Math.hypot(17986);
+42942 ** 42942;
+let v55 = v45 || false;
+Math.sin(17986);
+--v55;

@@ -1,0 +1,79 @@
+function F0() {
+    if (!new.target) { throw 'must be called with new'; }
+    this.e = -1073741824;
+    this.d = -1073741824;
+}
+const v3 = new F0();
+const v4 = new F0();
+const v5 = new F0();
+new Map();
+function F11(a13, a14, a15, a16) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.f = F0;
+}
+new F11(v5, Map, -52264, -52264);
+const v18 = new F11(v4, -52264, v4, -2147483649);
+new F11(v3, v18, F0, -52264);
+new Uint8Array(1024);
+new BigUint64Array(124);
+new Int8Array(1);
+function f39() {
+    return -4096;
+}
+function F43() {
+    if (!new.target) { throw 'must be called with new'; }
+    this.g = -65537;
+    this[15] = F43;
+    this.valueOf = -65537 in this;
+    for (let v47 = 0; v47 < 32; v47++) {
+        this["p" + v47] = v47;
+    }
+    this.f = -65537;
+}
+let v50 = new F43();
+const v51 = new F43();
+const v52 = new F43();
+Promise.resolve(BigInt64Array);
+function f57() {
+    delete arguments["bigint"];
+    return v51;
+}
+f57();
+new Uint32Array(5);
+new Int32Array(5);
+const v69 = new Uint8Array(150);
+function f70() {
+}
+let v71 = 0;
+do {
+    v52 / v52;
+    v71++;
+} while (v71 < 9)
+let v84 = -21186;
+const v86 = +-9223372036854775808;
+Math.imul(v84, v84);
+++v84;
+Math.clz32(v86);
+const v90 = v86 % -9223372036854775808;
+Math.tan(v84);
+v90 + v84;
+new Uint8Array(0);
+let v99 = RegExp.bind("2147483647", [-8,4294967295,148900462]);
+const v101 = new Int32Array(127);
+const v102 = ("2147483647")[11];
+v69 instanceof v99;
+RegExp[8] = 4.0;
+const t65 = "2147483647";
+t65.__proto__ = v52;
+Uint32Array < v102;
+v99 /= v101;
+const v106 = new WeakSet();
+const v108 = new Date();
+v108.setHours();
+const v115 = new BigInt64Array(2);
+127 instanceof Int32Array;
+function f118() {
+    return v115;
+}
+v50 = v106;
+([5]).reverse();

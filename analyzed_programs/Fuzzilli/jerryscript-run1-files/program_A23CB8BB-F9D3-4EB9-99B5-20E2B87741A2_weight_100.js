@@ -1,0 +1,10 @@
+new Float32Array(882);
+new BigInt64Array(9);
+new Int16Array(1024);
+-Infinity;
+const v15 = -1583068961 / 1024;
+Math.cosh(3.5055323818545396);
+let v18 = (-1583068961 && v15) + -1583068961;
++-1583068961;
+v18--;
+1024 % v15;

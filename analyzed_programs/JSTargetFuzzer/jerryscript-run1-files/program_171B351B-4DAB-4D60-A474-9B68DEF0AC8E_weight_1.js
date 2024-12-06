@@ -1,0 +1,25 @@
+new Int16Array(145);
+new Uint32Array(7);
+new BigUint64Array(7);
+const v19 = new WeakMap();
+"-199008413" != Int16Array;
+new Int8Array(1024);
+new Uint8Array(1354);
+new BigInt64Array(2847);
+const v39 = new BigUint64Array(3, "isArray", 10000, 4294967295);
+Int16Array[9] = undefined;
+new Int8Array(209);
+new Int32Array(0);
+new Uint32Array(2);
+new Int16Array(2);
+const v54 = new Uint16Array(255);
+try { new BigUint64Array(...v54, BigUint64Array, ...undefined, "bigint", ...v19); } catch (e) {}
+[-6,33157,-2147483649,2147483647,-2127283521,69969739,7,536870889];
+[-2147483647,268435456,-15,-2147483648,-9223372036854775807,105026840];
+[-485646260,536870889,287975270,128,679329586,268435441,-4294967295,-68651252,1];
+Math.acos(v39);
+Math.acos(536870912);
+Math.log10(536870912);
+Math.trunc(536870912);
+536870912 ** 536870912;
+Math.cos(536870912);

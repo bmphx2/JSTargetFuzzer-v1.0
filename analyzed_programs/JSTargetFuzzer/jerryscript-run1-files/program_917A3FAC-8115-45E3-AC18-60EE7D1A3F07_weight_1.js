@@ -1,0 +1,165 @@
+[2.220446049250313e-16,-2.2250738585072014e-308,0.0,9.118806874261331,0.9975553660853855,-5.0,0.41854692917154834,-2.220446049250313e-16,-206.96275017973687,-2.2250738585072014e-308];
+[-0.0,2.4068703730651384e+307,-1000000000.0];
+[953.9749375450237,2.2250738585072014e-308,1000.0,-970.0273783608328,1.9017924269407374];
+new Int32Array(3);
+new Float32Array(2907);
+new Float32Array(605);
+function f21() {
+    const o48 = {
+        valueOf(a26) {
+            const v29 = [1008121314];
+            Reflect.apply(("name").includes, v29);
+            a26 = -5;
+            ("description").length;
+            return a26;
+        },
+        2: "description",
+        4: 545596.1752935597,
+        "e": "description",
+        ..."description",
+        [545596.1752935597](a35, a36) {
+            this["valueOf"](-5, ..."valueOf", this, ..."valueOf", ..."valueOf", ..."valueOf");
+            new Float64Array(0);
+            new Int16Array(4);
+            const v47 = new BigInt64Array(16);
+            return v47;
+        },
+    };
+    return o48;
+}
+const v49 = f21();
+const v50 = f21();
+const v51 = f21();
+function f52() {
+    return v51;
+}
+const v56 = [f21,v51];
+const v57 = [f52,v56,64,-268435456];
+const v58 = [v51,v49];
+const v59 = [v56,v50,v49,f52];
+[v59,v59];
+[v58,v57];
+new Date(14333, Date, Date, 14333, Date);
+try {
+const t0 = "localeCompare";
+t0();
+} catch (e) {}
+new Uint16Array(1000);
+const v85 = new BigUint64Array(9);
+let v86 = -9223372036854775808n;
+let v87 = 7260n;
+v87 *= v86;
+RegExp(RegExp);
+new BigInt64Array(127);
+const v93 = [9];
+[v85,v93];
+[Uint16Array,127];
+const v97 = new Map();
+function F104(a106, a107) {
+    if (!new.target) { throw 'must be called with new'; }
+    v93.b = a107;
+    this.a = 13;
+    this.f = a106;
+}
+let v108 = new F104(536870912, -37768);
+const v109 = new F104(536870912, 13);
+const v110 = new F104(-37768, 536870912);
+255 + -37768;
+v56["unshift"](v50);
+new BigInt64Array(20);
+const v122 = new BigInt64Array(256);
+new Uint32Array(1024);
+v108 = v110;
+let v126;
+try {
+const t0 = -574757824;
+v126 = t0(255, F104, -579245951, v97, Map);
+} catch (e) {}
+const o133 = {
+    get h() {
+        let v129 = -1073741824;
+        Math.atan2(v129, v129 ^ ++v129);
+    },
+};
+try { v126(v97, v97, Map, 255); } catch (e) {}
+v110[268435441] = v108;
+let v135;
+try { v135 = v110.o(v110); } catch (e) {}
+const v138 = [-3.9420134706840244,1000000.0,0.33415843436813053,2.2250738585072014e-308,-9.57664291846752e+307,7.5080309400479095,-836439.2043889777];
+v138.lastIndexOf;
+new Set([5.0]);
+const v143 = new Uint32Array(181);
+let v145 = BigUint64Array;
+let v146 = new v145(1);
+let v147 = 253;
+[v147,,v145,v146] = v143;
+function* f150(a151, a152) {
+    const o160 = {
+        226: "-65537",
+        toString(a154, a155, a156) {
+            class C158 extends v126.constructor {
+            }
+            new C158();
+            return a155;
+        },
+    };
+    268435439n ** o160;
+    return a152;
+}
+try { v145["abs"](181, v147, v145); } catch (e) {}
+new Uint16Array(v147);
+let v168 = "2147483648";
+268435456n ^ -1691848818n;
+if (v145) {
+    const t113 = "m";
+    t113.__proto__ = v109;
+} else {
+    try { v109.toString(v49, -128, 127, v146, v145); } catch (e) {}
+}
+for (let i177 = 0;
+    (() => {
+        v168 = "x";
+        let v178 = v138[i177];
+        v168[i177];
+        v168.length;
+        v178 %= f150;
+        const v182 = i177 < 2;
+        [Float32Array,1142439131];
+        const o186 = {
+            ...f150,
+            226: -579245951,
+        };
+        return v182;
+    })();
+    3.0 % (Float64Array & -1.7976931348623157e+308), ("536870912")["toLowerCase"](), i177++) {
+    let v197 = new Function("x");
+    v197[8] = i177;
+    let v198;
+    try { v198 = v197.bind(v110); } catch (e) {}
+    v198--;
+    v197 >>>= v197;
+    v122[-574757824];
+    v197.name;
+}
+[,,];
+256 % -Infinity;
+[null];
+const v209 = [977677784,-4230];
+-10n == ([1.1874236030596237e+308])["lastIndexOf"]();
+function f215(a216, a217, a218) {
+    function F220(a222, a223, a224) {
+        if (!new.target) { throw 'must be called with new'; }
+        this.c = "1073741824";
+    }
+    v86 /= 54506728n;
+    return a218;
+}
+class C226 extends f215 {
+    b = v135;
+    static 16;
+}
+new C226();
+new C226();
+new C226();
+v209.reduceRight(f215);
+Function();

@@ -1,0 +1,13 @@
+new BigInt64Array(2);
+const v5 = new BigInt64Array(2);
+Uint32Array >= v5 ? Uint32Array : v5;
+[37369,4,-2512];
+[1790556377];
+[-54909,-21749,6,-3,-325460871,9,4294967297,65537];
+new Uint32Array(127);
+new Uint32Array(2074);
+new BigUint64Array(16);
+new Uint16Array(16);
+const v24 = new Date();
+Date.parse(1);
+v24.toUTCString();

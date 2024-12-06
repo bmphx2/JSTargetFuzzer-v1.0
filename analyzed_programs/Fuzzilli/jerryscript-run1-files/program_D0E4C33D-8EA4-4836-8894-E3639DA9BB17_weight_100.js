@@ -1,0 +1,14 @@
+const v0 = [14,4179,972392892,2147483648];
+const v1 = [1176044585,9,-4294967297,-2862,-5,0,21521,10000,11];
+const v2 = [5,-4294967295,-515758822,3,536870887,268435441,1073741824,1073741824];
+const v3 = [v0,v2,v2];
+[v1,v0];
+let v5 = [v1,v2];
+new Int16Array(3);
+new Uint8ClampedArray(9);
+new BigInt64Array(1020);
+v5 = v3;
+!2;
+const v20 = [v1];
+Reflect.apply(v2.fill, v5, v20);
+v0["lastIndexOf"](Int16Array, 41076);

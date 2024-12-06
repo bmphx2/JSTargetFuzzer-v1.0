@@ -1,0 +1,83 @@
+function f0() {
+}
+function f1() {
+    return f0;
+}
+function f2(a3, a4) {
+    const o11 = {
+        "e": f1,
+        "b": f1,
+        get d() {
+            return f1;
+        },
+        "c": f0,
+        __proto__: a4,
+        "a": a3,
+        65537: f1,
+        set f(a10) {
+        },
+        ...a3,
+        ...f0,
+        "f": a4,
+        "h": f1,
+        "g": a4,
+        "d": a3,
+        ...a4,
+        "search": a4,
+        "h": a3,
+        ...a3,
+        [f0]: f0,
+    };
+    return o11;
+}
+f2(f1, f1);
+const v13 = f2(f1, f0);
+f2(f2, f0);
+[Infinity,-5.0,-8.32287194665036,204261.1817909733,-1000.0,-6.369076372410234,-3.0,3.39324853518599e+307,1000000.0];
+const v16 = [0.8308788364545556];
+[2.0,1.2248420725943382e+308,583.4487343402504,-770.8054166525906,0.2312653753730025,9.166795667720315];
+[-65536];
+[4096,6,3,-4294967295];
+[-2147483649,4294967295,61306,-256,-9007199254740992,-14,55741,256,9007199254740992];
+v16[10] |= 256;
+let v24 = 536870889;
+Math.cosh(v16);
+v16 && v24;
+++v24;
+function f29() {
+    const v30 = -Infinity;
+    const o36 = {
+        "g": 255,
+        valueOf(a34) {
+            super.getOwnPropertyDescriptors(this, -1033928124, 255, v30);
+            return a34;
+        },
+    };
+    return o36;
+}
+f29();
+v16 | v24;
+new Uint8ClampedArray(256);
+new Float32Array(28);
+new Int8Array(1165);
+new Uint8ClampedArray(13);
+new Int16Array(2);
+function f54() {
+    const o55 = {
+    };
+    return o55;
+}
+const v57 = new Uint8ClampedArray(64);
+const v58 = [0.09122857974225462,0.2954606242802892,-5.229238981694615,-254719.10576043813,0.38056022484766727,-1.2030602366328615];
+const o59 = {
+};
+new Proxy(v58, o59, v13, Proxy, Int16Array);
+const o62 = {
+    __proto__: v57,
+};
+14 != 4294967297n;
+const o68 = {
+    "b": 0n,
+};
+Symbol(127);
+Symbol.for();

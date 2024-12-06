@@ -1,0 +1,13 @@
+const v2 = new Uint8Array(1531);
+Object.defineProperty(v2, "buffer", { writable: true, configurable: true, enumerable: true, value: 1531 });
+const v4 = v2["entries"]();
+let v5 = -12;
+new BigInt64Array(128);
+const v13 = new Uint8Array(Uint8Array);
+const v17 = [1000000000000.0];
+new Uint8Array(1531, 3);
+v13[10] = 128;
+v17[1] = 10000;
+v4[255] >>= 1531;
+v5 = 10000;
+Math.sqrt("entries" != v17);

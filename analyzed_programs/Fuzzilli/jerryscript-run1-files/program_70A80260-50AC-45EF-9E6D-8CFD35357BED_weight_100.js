@@ -1,0 +1,24 @@
+new Int8Array(4);
+const v5 = new Float32Array(416);
+const v8 = new BigUint64Array(7);
+const v15 = [128];
+[26553,13834,826031568,-2147483648,536870889];
+[9223372036854775807,-363870287,-3,1046957386,536870889,0,-9007199254740990];
+const v25 = [12,-4096,-10,35726,-268435456,-1073741824,10,-16,-1361625025,34092];
+[-2086873045,1094727694,-3506,43871,-1936807994,64];
+[7,1024,536870887,-15,1969];
+const v29 = new Uint16Array(10);
+new Uint16Array(3111);
+new BigUint64Array(16);
+let v37 = "vJvB";
+let v38 = Float32Array;
+let v39 = Uint8Array;
+new Array(4096);
+const v47 = new Int8Array();
+[v37,v38,...v39] = v47;
+("hv")["concat"]();
+v25.length = 0;
+try { v39(v37, ...v8, BigUint64Array, BigUint64Array, -2, ...v15); } catch (e) {}
+v29.__proto__;
+const v54 = [Uint16Array,52];
+Reflect.apply(v8.includes, v5, v54);

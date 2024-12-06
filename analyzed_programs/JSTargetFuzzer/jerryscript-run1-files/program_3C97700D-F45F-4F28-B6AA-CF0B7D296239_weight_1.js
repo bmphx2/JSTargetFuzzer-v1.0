@@ -1,0 +1,11 @@
+new BigUint64Array(33);
+let v3 = 1024;
+new BigUint64Array(8);
+new Uint16Array(512);
+v3 = 2814;
+new Uint16Array(2814);
+new BigUint64Array(v3);
+Array()["fill"]();
+new Uint8Array(891);
+typeof (3 > 1);
+let [,...v36] = ("lx").charAt(128);

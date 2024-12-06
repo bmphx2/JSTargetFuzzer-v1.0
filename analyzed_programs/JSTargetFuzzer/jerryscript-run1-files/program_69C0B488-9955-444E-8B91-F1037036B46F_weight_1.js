@@ -1,0 +1,14 @@
+new Uint8Array(123);
+const v5 = new Float64Array(204);
+new Float32Array(Float64Array);
+v5[41] = Float64Array;
+v5.byteOffset >>>= 123;
+new Map();
+v5[2314850632] /= 123;
+const v16 = new Int8Array();
+const v18 = new Int32Array(v16, 129, 129);
+const v21 = new Uint8ClampedArray(3598);
+Reflect.apply(Array.of);
+v21["set"](...v16, 129);
+const v29 = new Int16Array(v5);
+v29["indexOf"](v18);

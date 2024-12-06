@@ -1,0 +1,10 @@
+new Uint8Array(4);
+const v5 = new Uint8Array(15);
+new Uint32Array(716);
+Math.imul(Math);
+Float32Array.toLocaleString();
+[-2];
+[13,-2147483647,64,-1513491750];
+const t3 = [-1024,-1,-30360594,4294967296,48815,-128,-9,65536];
+t3.__proto__ = v5;
+Array.isArray(1808021206);

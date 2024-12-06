@@ -1,0 +1,38 @@
+new Date();
+new Float32Array(0);
+new Int8Array(64);
+const v10 = new Uint8Array(7);
+new Uint8ClampedArray(160);
+new Uint8Array(3414);
+new BigUint64Array(3941);
+const v27 = new WeakSet();
+const v39 = new URIError(512);
+const v42 = new Int16Array(447);
+const v45 = new Uint32Array(2438);
+function f49() {
+}
+let v55 = v45 & "delete";
+v55 = 64;
+const t14 = "1";
+t14[10] = Float32Array;
+Math.log(-1e-15);
+Int16Array && 0;
+Math.log(Int16Array);
+const v63 = 0 & (0 | -1e-15);
+!-1108838456;
+v39.description <<= 2006448021;
+const v67 = [2.220446049250313e-16,-1.7976931348623157e+308,-3.4833326659982795,-1000000000000.0,0.0,2.220446049250313e-16,-4.191721618721404,1.4104645033139904e+308];
+("1073741824").match(v67.copyWithin(v67, v67));
+new Uint8Array(0);
+const t26 = "1073741824";
+t26.g = RegExp;
+2438 instanceof Uint32Array;
+let v82 = RegExp.bind("2147483647", [-8,4294967295,148900462]);
+const v84 = new BigUint64Array(127);
+v82 /= v84;
+const v85 = v27.delete(2006448021, 512, v55, 4.0, -2.220446049250313e-16, v63);
+v10[1.4266636170347573e+308];
+v27[8] = v85;
+new WeakSet();
+new BigInt64Array(2, -14, v42);
+([5]).reverse();

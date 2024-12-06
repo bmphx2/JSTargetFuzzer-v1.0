@@ -1,0 +1,14 @@
+new Float32Array(2347);
+const v5 = new Uint8ClampedArray(2347);
+const v8 = new BigInt64Array(5);
+const v9 = [v5,5,v5,v8,v5];
+const t4 = [2347,v9,v9,v5];
+t4.length = 2347;
+v8.buffer;
+let v17 = 16;
+(v17 && -574226.1120660331) && 11375;
+v17++;
+v5[41];
+[v5,v9,2708];
+const t8 = Function();
+t8.name *= 2347;

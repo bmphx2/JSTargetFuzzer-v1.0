@@ -1,0 +1,10 @@
+new Uint32Array(3649);
+const v5 = new BigInt64Array(8);
+const v8 = new Int8Array(Int8Array);
+new BigUint64Array(251);
+v5["keys"]();
+Uint32Array[9] = 251;
+v8 > BigUint64Array ? v8 : BigUint64Array;
+new Float32Array(71);
+new Uint8Array(9);
+Function(undefined);

@@ -1,0 +1,49 @@
+function f0() {
+}
+const v1 = [-6.549784405728818,2.0,2.0,26608.34288710868,-Infinity,0.6272118544986026,1.1476145459232075e+308];
+const v2 = [453.12033886680683,25056.143533956958,-4.0];
+const v3 = [-1000000.0,1e-15,1.7976931348623157e+308];
+function f4() {
+    return v1;
+}
+const v5 = [-4294967295,4294967296,1073741825,-11247,54164,-2,1887635402,-9007199254740991,39726,10];
+const v6 = [268435440];
+const v7 = [4096,536870912,-1848746174,-65537,63738,43004,59924,1,4];
+-Infinity;
+function F14(a16, a17, a18, a19) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.d = a16;
+    this.h = f0;
+}
+new F14(v6, v1, v6, v3);
+new F14(v7, f4, v1, v1);
+let v22 = new F14(v3, v2, v5, v2);
+let v24 = 0.7127021906311133;
+new Set();
+class C27 {
+    constructor(a29, a30) {
+    }
+    268435440;
+    [v2];
+    static [-4096n];
+    static g;
+    d = f4;
+    e = v5;
+    f = v24;
+}
+const v31 = new C27(0.2562247708610226, C27);
+const v34 = v22--;
+Math.log10(v34);
+Math.sign(v2);
+~v22;
+v34 * v2;
+Math.round(v22);
+C27.e >>= v24 **= 0.2562247708610226;
+v31.toString = [C27,C27,C27,C27,C27];
+function F41(a43, a44, a45, a46) {
+    if (!new.target) { throw 'must be called with new'; }
+    const v49 = new Date(a43);
+    const v50 = v49.__proto__;
+    try { ("setUTCDate").matchAll(v50); } catch (e) {}
+}
+new F41();

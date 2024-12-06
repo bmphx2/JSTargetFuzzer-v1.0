@@ -1,0 +1,26 @@
+new Int16Array(241);
+new Float32Array(6);
+new Uint8Array(16);
+new Int32Array(2023);
+new Int32Array(8);
+new Int32Array(127);
+const o20 = {
+};
+const v22 = new Proxy(Float64Array, o20);
+o20.valueOf = v22;
+new Float64Array(4096);
+new Uint32Array(1935);
+new Uint8ClampedArray(1531);
+[13,9,-12559,-8,-4294967297];
+[3,-28987,536870889,1073741825,15];
+let v32 = [65535,-1139741600];
+new Uint8Array(54);
+new Float32Array(256);
+new Float64Array(1024);
+new Uint8Array(Proxy, 256, 1531);
+let v44 = -41990;
+const v46 = v32++;
+let v47 = --v44;
+const v48 = --v47;
+v44--;
+v48 * (v46 << v44);

@@ -1,0 +1,99 @@
+const v0 = [-4,-623943427,10,4294967296,4294967295,4294967297];
+const v1 = [-1];
+const v2 = [64];
+function F3(a5) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.f = v2;
+    this.e = a5;
+}
+new F3(v1);
+new F3(v2);
+const v8 = new F3(v0);
+[7.0476110814343045,1.7976931348623157e+308,Infinity,0.014128168849509293];
+[2.334701037185546e+307];
+const v12 = [0.8798454721007403,-586.6298047349228,-4.0,1000000.0,1.7976931348623157e+308,-Infinity,8.153737411755258e+307,-1000000.0,7.271182368436905e+307,1000.0];
+const v13 = [-452.29491139550396];
+const v14 = [-780.5262756683309,-1e-15,NaN,-1.5313657426193076e+308,3.5757910747110917e+307];
+function f15(a16, a17) {
+    const o38 = {
+        [v14](a19) {
+            const v20 = v13[18];
+            function F22(a24, a25) {
+                if (!new.target) { throw 'must be called with new'; }
+            }
+            const v28 = [-12,1073741824,2147483648,268435456,5,-256,-56422,536870912,1279575092];
+            let v29;
+            try { v29 = new F22(...449266478, ...-19405); } catch (e) {}
+            v28[v20](v29, 5);
+            try { v20(a19, a19, a16, v12, v13); } catch (e) {}
+            super.c = this;
+            return this[128];
+        },
+        "d": a17,
+        ...a16,
+        "e": v13,
+        "b": a17,
+        [a16]: a17,
+        next() {
+            a16--;
+            a16 == 0;
+            const o37 = {
+                "done": v8,
+                "value": a16,
+            };
+            return o37;
+        },
+    };
+    return o38;
+}
+const v39 = f15(v13, f15);
+const v40 = f15(v12, v14);
+f15(v13, v40);
+[v40];
+for (let v43 = 0; v43 < 40; v43++) {
+    [65537,1767025561,1,-65537,-31675,8];
+    [-12];
+    [6,257,393300402];
+}
+[v39,v39,f15];
+const v48 = [v14,v14,v13,v39];
+class C53 {
+    15 = "round";
+    get h() {
+        Math.acos(Math);
+        let v59 = "Nxrc" >> "Nxrc";
+        let v60 = v59--;
+        (-1024) ** v60;
+        const v62 = ++v60;
+        Math.cos(v60);
+        Math.acosh("Nxrc");
+        ~v62;
+        return "Nxrc";
+    }
+    7;
+    159;
+}
+const v66 = new C53();
+const v67 = [5,2147483647,357021100,-42416,46407,-1,-9,-592045139,1406185475,-457844765];
+[4096];
+async function* f71(a72, a73) {
+    'use strict';
+    a72["find"](9007199254740992, ...a72, ..."CQfx", a73, a73);
+    await v66;
+    yield "find";
+    return v67;
+}
+f71(v2, 13);
+const v82 = new Int8Array(Int8Array, Int8Array, Int8Array, Int8Array, "CQfx");
+v82[Symbol.match] = Int32Array;
+new Array(3);
+v12[2147483648];
+"replace" > 12n;
+for (let v93 = 0; v93 < 32; v93++) {
+    v48["p" + v93] = v93;
+}
+[5.997640257847097e+307,-2.2250738585072014e-308,-6.056658609326703];
+function f102(a103, a104) {
+    return arguments;
+}
+f102(Float64Array, 2);

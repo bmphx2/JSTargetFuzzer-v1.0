@@ -1,0 +1,48 @@
+const v8 = new Uint8ClampedArray(1024);
+new Uint32Array(5);
+new BigInt64Array(255);
+function F15() {
+    if (!new.target) { throw 'must be called with new'; }
+    F15.c = -4294967297;
+}
+const v18 = new F15();
+new F15();
+new F15();
+function f22() {
+    const v25 = new Uint32Array(858);
+    return v25;
+}
+function f28() {
+    return v18;
+}
+const v31 = new BigUint64Array(BigUint64Array, BigUint64Array);
+v31.copyWithin();
+const v35 = RegExp.bind(2);
+Math.fround();
+Math.min(0.2148301603058278);
+let v41 = 1073741824n;
+v41 &= v41;
+try { Float32Array(); } catch (e) {}
+(-12n).toString();
+([2036046200,-9223372036854775807,-61646])["map"](Array, 5, v41);
+new Float64Array(16);
+class C55 {
+}
+const v57 = new v35(1);
+const v60 = new Int8Array(107);
+for (let i63 = 0, i64 = 10; i63 < i64;) {
+    v60[v57] = i63;
+    const v72 = ++i63;
+    Math.max(-65535, v72, v72);
+}
+new Int16Array(26);
+-2147483647 == [-3,-4,-7439];
+("bkq").localeCompare("b");
+const v83 = new Int8Array(Int8Array, Int8Array, Int8Array);
+v83.includes(v83, v83, v8, Float64Array, 107);
+new Uint8ClampedArray(6);
+try {
+    new WeakSet(4087n);
+} catch(e90) {
+} finally {
+}

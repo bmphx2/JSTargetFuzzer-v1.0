@@ -1,0 +1,15 @@
+const v0 = /i3O/uymid;
+const v1 = /Gfoo(?!bar)baz(x)(x)(x)\3*/vmsi;
+const v2 = /e\u0060F[a-zA-Z0-9]HE+/sd;
+let v6 = Array;
+new v6(7);
+const v10 = [7,[v0],7];
+[v2];
+const v14 = 1 ^ v0;
+--v6;
+const v16 = -v10;
+Math.trunc(v14);
+v0 | v10;
+Math.acosh(v0);
+Math.acos(v10);
+v1["compile"](v16);

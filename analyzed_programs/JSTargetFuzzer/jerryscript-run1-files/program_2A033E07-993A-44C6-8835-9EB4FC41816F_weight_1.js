@@ -1,0 +1,13 @@
+new WeakMap();
+const v5 = new Uint8Array(6);
+new Uint8Array(3);
+v5.valueOf = null;
+Math.trunc(Uint8Array);
+Math.acos(2147483647);
+Math.log2(Uint8Array);
+new Float32Array(Uint8Array);
+const v25 = -Infinity;
+let v27 = -4028n;
+v27 += v27;
+new Int16Array();
+("1YiD")[v25];

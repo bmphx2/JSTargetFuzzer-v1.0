@@ -1,0 +1,12 @@
+const v8 = new BigInt64Array(6);
+const v11 = new Uint16Array(3859);
+v11[613] = -15287;
+v8[-1];
+let v18 = 613 ** -13060;
+613 >>> 255;
+Math.log2(-2.0);
+++v18;
+new Int32Array(613);
+const v26 = new Uint8ClampedArray(223);
+const v29 = new Uint16Array(5);
+v26.lastIndexOf(...v29);

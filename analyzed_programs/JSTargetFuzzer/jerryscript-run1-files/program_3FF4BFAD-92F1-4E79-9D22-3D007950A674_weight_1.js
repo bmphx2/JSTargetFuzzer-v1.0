@@ -1,0 +1,34 @@
+const v2 = new Float32Array(4096);
+const v5 = new Float64Array(4096);
+const v8 = new Uint8ClampedArray(128);
+v8.e = 255;
+Object.defineProperty(v2, Float64Array, { value: v8 });
+new Uint8ClampedArray(255);
+new Float64Array(64);
+new BigUint64Array(9);
+function f21() {
+}
+const v30 = new Uint8Array(0);
+v5 ** v30;
+let v39 = 0;
+~10;
+const v42 = BigUint64Array % -7.283143662330451;
+const v43 = --v39;
+Math.asinh(v43);
+(v42 % v43) & 10;
+new BigInt64Array(10);
+const v50 = new Int32Array(1024);
+new Uint32Array(2664);
+let v56 = RegExp.bind("2147483647", [-8,4294967295,148900462]);
+const v58 = new Int32Array(127);
+v56 /= v58;
+new WeakSet();
+new BigInt64Array(2);
+Uint8Array / v50;
+v2.__proto__;
+v42 & 0;
+new f21();
+new Int32Array(0);
+new Int32Array(1980);
+new Uint8Array(1833);
+([5]).reverse();

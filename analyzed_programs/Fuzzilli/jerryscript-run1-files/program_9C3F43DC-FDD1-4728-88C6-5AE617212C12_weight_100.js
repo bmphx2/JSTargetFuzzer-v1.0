@@ -1,0 +1,13 @@
+const v2 = new Uint8ClampedArray(6);
+const v5 = new Int32Array(1000);
+new Uint16Array(4);
+/\x0f/msid;
+/a(?=.)/ugmi;
+const v14 = /L\p{Script_Extensions=Greek}/uymsi;
+!Uint16Array;
+const v16 = [3,-7];
+[Int32Array,6];
+v2.__proto__ = [v16];
+v5 >>> v5;
+v14.valueOf = v16;
+typeof 3 === "undefined";

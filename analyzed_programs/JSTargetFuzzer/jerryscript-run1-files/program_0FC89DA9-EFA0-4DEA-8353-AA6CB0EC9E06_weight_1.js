@@ -1,0 +1,36 @@
+function f0() {
+    let v1 = -32817;
+    const o16 = {
+        "d": 4.0,
+        __proto__: 255,
+        "h": 255,
+        "f": v1,
+        p(a5) {
+            this[this] = v1;
+            let {"c":v6,"d":v7,"f":v8,...v9} = this;
+            this[4.0] = a5;
+            v1++ * 1024;
+            +1024;
+            return f0;
+        },
+    };
+    return o16;
+}
+f0();
+const v18 = f0();
+f0();
+new Float32Array(4);
+new Int16Array(307, v18);
+new Int32Array(4096);
+const v31 = new Uint32Array(181);
+let v33 = BigUint64Array;
+let v34 = new v33(1);
+let v35 = 253;
+[v35,,v33,v34] = v31;
+try { v33["abs"](181, v35, v33, Uint32Array, v33); } catch (e) {}
+new Uint16Array(v35);
+for (let i48 = 1; i48 < 2; ++i48) {
+    const v54 = new Function("x", i48);
+    v54.name;
+}
+Function();

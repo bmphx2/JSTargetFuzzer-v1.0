@@ -1,0 +1,10 @@
+new Uint8Array(5);
+new Uint8Array(4096);
+new BigInt64Array(8);
+new BigInt64Array(Uint8Array);
+new Uint8ClampedArray(257);
+new Int16Array(1);
+const v20 = new Float64Array(3077, 3077, 3077);
+const v21 = [3077,BigInt64Array];
+const v22 = Int16Array[1510131433];
+v21.concat(v22 << v20, v22);

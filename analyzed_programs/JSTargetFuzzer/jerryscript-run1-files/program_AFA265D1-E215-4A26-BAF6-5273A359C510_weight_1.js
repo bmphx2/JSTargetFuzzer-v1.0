@@ -1,0 +1,36 @@
+const v5 = new Int32Array(713);
+v5.byteLength;
+try {
+const t0 = 1;
+t0();
+} catch (e) {}
+new Int16Array(1);
+new Int16Array(255);
+new Uint16Array(9);
+const v22 = new Float64Array(256);
+const v25 = new Int8Array(4096);
+const v26 = [v25,1,256];
+[9,v22,Uint16Array,Uint16Array,[256,9,4096,9]];
+new Array(127);
+const v34 = new Uint32Array(181);
+let v36 = BigUint64Array;
+let v37 = new v36(1);
+let v38 = 253;
+[v38,,v36,v37] = v34;
+try { v36["abs"](181, v38, v36); } catch (e) {}
+const v45 = new Uint16Array(v26);
+switch (v45) {
+    case Uint32Array:
+        const t23 = "CM";
+        t23[v25] = Int16Array;
+        break;
+}
+for (let i51 = 0; i51 < 2; i51++) {
+    const v57 = new Function("x");
+    v57.name;
+}
+638046528 + -4294967295;
+new Uint8ClampedArray(Int32Array);
+new Int32Array(16);
+new Int8Array(255);
+Function();

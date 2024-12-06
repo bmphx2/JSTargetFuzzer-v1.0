@@ -1,0 +1,14 @@
+[10783,65535,5,1073741825,1099954565];
+[9007199254740990,-842595913,1,40425,1073741823,1833835146];
+new BigUint64Array(2);
+new BigInt64Array(BigInt64Array);
+const v13 = new Uint8Array(1);
+v13.reduceRight(Number);
+const v16 = new Uint32Array(2, 2);
+([v16,2]).lastIndexOf(257);
+[-4294967296,32104,268435456,-12103];
+new BigUint64Array(6);
+new Float64Array(1702);
+new BigInt64Array(87);
+let v30 = -9007199254740991n;
+v30 <<= -12n;

@@ -1,0 +1,12 @@
+const v0 = [];
+v0[-47475n] = -47475n;
+[-1.0,664.866547552462,0.49279975040533064,-387267.6831159041];
+const v7 = [-2.0,0.4817454157672403,613438.5001568194,97082.54998605838,-1000000000.0,-Infinity,1000000.0,1e-15];
+[0.0011792651235240648,-4.0];
+const v9 = new Float32Array(2078);
+Object.defineProperty(v9, "byteLength", { writable: true, configurable: true, value: v7 });
+new Float32Array(v0);
+new Int8Array(2078);
+new Float64Array(Int8Array);
+let v23 = 2147483648n;
+v23 %= v23;

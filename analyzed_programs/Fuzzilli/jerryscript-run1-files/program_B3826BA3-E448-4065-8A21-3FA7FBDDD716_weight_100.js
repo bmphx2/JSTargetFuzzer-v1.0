@@ -1,0 +1,14 @@
+new Float64Array(5);
+new Uint8Array(255);
+new Uint32Array(10);
+[-65537,10,1024];
+[3,2,-128,1024,-1,-57710];
+[9223372036854775807,-6,36403,9007199254740992,2,5,268435439,54419,-9007199254740990];
+new BigInt64Array(9);
+const v25 = new Uint32Array(Uint32Array, Uint32Array, Uint32Array);
+v25["lastIndexOf"]("lastIndexOf");
+new BigInt64Array(2);
+new BigUint64Array(0);
+("string")[5];
+const v39 = new Uint8ClampedArray(512);
+([-0.0,-1000000.0,-1.6429392552409766e+308,NaN,-771.8014360054368,619735.3417669735,-0.0,2.0,1e-15,-1.0]).includes() == v39.length;

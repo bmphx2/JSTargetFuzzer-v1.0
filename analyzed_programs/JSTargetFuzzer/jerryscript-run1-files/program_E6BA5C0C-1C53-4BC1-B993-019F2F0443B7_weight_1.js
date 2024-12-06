@@ -1,0 +1,10 @@
+new Uint16Array(85);
+new Float64Array(4);
+new Uint8ClampedArray(2796);
+[13,9007199254740991];
+[255,-4294967297,65535,12,9007199254740990,25418];
+[1556795269,453378700,5];
+new Float64Array(5);
+new Float32Array(3279);
+new BigInt64Array(2);
+0 != (1073741823 < 2);

@@ -1,0 +1,17 @@
+let v1 = new Map();
+const v4 = new Uint16Array(4);
+new Uint16Array(1274);
+const v10 = new Int32Array(2385);
+v10.byteLength %= 4;
+Object.defineProperty(v10, 1274, { value: Uint16Array });
+v10.byteLength = 1274;
+v10.__proto__ = v4;
+v1 *= v1;
+const v13 = Math.atan2(Float64Array, Math);
+v1[Symbol.unscopables] = Map;
+Array["from"](Array, Array, v10);
+Array(Float64Array, v13);
+Array.prototype;
+Uint16Array[3] = v4;
+new ReferenceError();
+new TypeError(Math);

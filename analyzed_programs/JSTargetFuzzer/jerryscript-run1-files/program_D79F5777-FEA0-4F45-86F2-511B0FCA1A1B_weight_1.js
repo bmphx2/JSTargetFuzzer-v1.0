@@ -1,0 +1,115 @@
+const v0 = [-32410.278236946673,-1.6521949581135308e+308,904354.8131518839,-41353.70694508951,0.0,1.6908385099232003e+308,-946709.5550345754,-7.249059016654993,1.7976931348623157e+308,-5.0];
+const v1 = [0.6270762222150158,-1000000.0,308442.51570747583,-824293.167305694,-1.7976931348623157e+308,1.6554144954412905e+308];
+const v2 = [-1.0,-2.2250738585072014e-308,1000000000.0,1.7117852997630738,1.1242154877193594e+308];
+function f3(a4, a5) {
+    let v7 = -9007199254740990;
+    Math.sqrt(f3);
+    Math.abs(v7);
+    const v11 = -1024 ^ a4;
+    Math.pow(f3, a4);
+    v7++;
+    v11 << v7;
+    const o20 = {
+        "d": v1,
+        "g": a4,
+        __proto__: a4,
+        "a": a4,
+        [v2](a16, a17) {
+            a16 | a16;
+            let {"d":v19,} = this;
+            return this;
+        },
+        "b": a4,
+    };
+    return o20;
+}
+const v21 = f3(v2, v1);
+const v22 = f3(v1, v2);
+f3(v1, v2);
+function f24(a25, a26, a27) {
+    const o54 = {
+        "b": a26,
+        o(a29, a30, a31, a32) {
+            const v33 = super.a;
+            try { v21.split(a27, a25, a25, a26, a25); } catch (e) {}
+            super.h;
+            const v39 = Symbol.iterator;
+            const o52 = {
+                [v39]() {
+                    let v41 = 10;
+                    const o51 = {
+                        next() {
+                            const v43 = v41--;
+                            const v45 = v41 == 0;
+                            return v43;
+                            new a26();
+                            v33(1024);
+                            for (const v49 in v1) {
+                            }
+                            const o50 = {
+                                "done": v45,
+                                "value": v41,
+                            };
+                            return o50;
+                        },
+                    };
+                    return o51;
+                },
+            };
+            return 251763328;
+        },
+        "a": a26,
+        268435441: v21,
+    };
+    return o54;
+}
+f24(f24(v22, v1, v0), f24, v0);
+const v58 = new Map();
+v58.size;
+EvalError();
+const v62 = f24(v22, v22, v0);
+const v63 = [];
+const v64 = [v63,v63];
+const v65 = [v64,v64];
+[v64,v65,v64,v65,v64];
+const o70 = {
+    get d() {
+        this[this] *= 255;
+        return this;
+    },
+};
+("Tb")["trim"]();
+~1.948625827865868e+307;
+let v85 = new WeakMap();
+v85 ^= v85.__proto__;
+new BigInt64Array();
+function* f89(a90, a91) {
+    function f92(a93, a94, a95, a96) {
+        Object.defineProperty(v64, 1, { enumerable: true, value: a90 });
+        a96[8] |= 4.0;
+        function f98() {
+        }
+        const v100 = new a94(5);
+        const v101 = [-14,-1731844252,7,-6,10,11,2147483649];
+        const v102 = [9,-65535];
+        function f103(a104, a105) {
+            v102["keys"](...v101, a105, ...v100, 5, ..."keys");
+        }
+        const v109 = new Promise(f103);
+        v109["catch"](f98);
+        return arguments;
+    }
+    f89 = f92;
+    try { v65.toString(); } catch (e) {}
+    try { v62.o(); } catch (e) {}
+    Math.__proto__ = [256,0,9007199254740992,9007199254740990,-2147483647,6,257];
+    new Uint16Array();
+    -Infinity;
+    f92();
+    yield 45279;
+    return 39366;
+}
+const v124 = [130520245,-184173509];
+const v126 = Date(Date());
+[v124,[v126,v126]];
+f89(v65, 39366);

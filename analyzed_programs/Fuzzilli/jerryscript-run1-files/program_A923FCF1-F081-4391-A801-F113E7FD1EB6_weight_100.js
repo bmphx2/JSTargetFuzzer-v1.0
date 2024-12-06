@@ -1,0 +1,16 @@
+const v3 = [65536,4,-2147483647,1000,-58490,1009805839,268435440,-7780,-1082229866];
+[31242,873,255,536870888,5,1761817480,5,2147483648];
+const v5 = [-48663];
+let v7 = -536870912;
+const v11 = new Uint8Array(1000);
+const v14 = new Float32Array(2851);
+new BigUint64Array(2033);
+v7 = 2139727682;
+v5.length *= 23967;
+v5[9] = v11;
+v3[203] &= 1000;
+v14[v14 ^ 11] &= 11;
+v11.byteOffset = 2851;
+new Uint8Array(512);
+new Uint8ClampedArray(120);
+new Int16Array(2);

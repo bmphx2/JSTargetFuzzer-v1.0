@@ -1,0 +1,30 @@
+const v0 = [1.0,1e-15,0.5580852767639313];
+const v1 = [3.4923215404542347,-6.774195020126479,-2.2250738585072014e-308,-1e-15,NaN,5.0];
+const v2 = [882.8373148879095,-441.7315173995049,-728.859706131859,-2.2250738585072014e-308,1.2618393031982554e+308,2.0,-2.0,0.10681918481217689,0.3616438156694468,1.5738087601715322e+308];
+const v3 = [v1,v0,v1];
+const v4 = [v1];
+const v6 = [v1,[v4,v2,v0,v3,v4],v0,v2,v0];
+const v7 = [v0,v6,v4,v4,v3];
+const v8 = [v7,v3,v4,v7,v0];
+const v11 = new Uint8Array(4);
+new BigUint64Array(6);
+function f15() {
+    return 6;
+}
+[v7,v11,v6,v8];
+[[v7],f15,v11];
+let v20 = false;
+f15();
+v8[-1];
+new Uint16Array(3639);
+const v28 = [];
+const v31 = new Uint16Array(v7, 6, 6);
+Object.defineProperty(v31, !v11, { configurable: true, get: f15, set: f15 });
+v20++;
+Math.round(v11);
+const v37 = v6 >> v11;
+Math.cos(v11);
+Math.trunc(v37);
+Math.atanh(v37);
+v37 + v6;
+([[v28],268435439]).indexOf(-41880, v28);

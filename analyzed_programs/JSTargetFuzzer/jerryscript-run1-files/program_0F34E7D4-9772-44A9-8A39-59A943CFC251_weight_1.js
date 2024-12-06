@@ -1,0 +1,87 @@
+[2.3420912502423796,-278661.608793122,350099.4160321434,-5.0,860248.7550068861,-1.7976931348623157e+308,1000000000.0,1.1097746256922113e+308];
+[2.2250738585072014e-308,NaN];
+let v5 = [-4.0,-5.0,464494.7899216735,-Infinity,1.4872977084530443e+308,3.376789957221094,0.9629671334718044];
+async function f6(a7, a8) {
+    a8 += a8;
+    return await a8;
+}
+let v10 = Date;
+let v11 = new v10();
+const v14 = new Uint16Array(1024);
+const v17 = new Uint16Array(234);
+let v20 = new Uint8ClampedArray(3);
+({"byteLength":v20,"byteOffset":v10,"length":v20,} = v17);
+try { v11.setUTCSeconds(-238307.94099176896); } catch (e) {}
+++v5;
++Uint8ClampedArray;
+Math.tan(-3354);
+-1073741824 || Uint8ClampedArray;
+const v29 = [536870889,4294967297,257,-9223372036854775807,360739853,-1995398395,1164864627,-1024,1073741824,-65535];
+[2,4,1073741824,4096,-16,-56099,-4294967297,51959,11,2105999656];
+const v31 = [-1024,64,-11051,255,-39832,-33304];
+const v34 = new Int32Array(1000);
+new Uint16Array();
+const v38 = new Set();
+const v39 = v38.values();
+const o40 = {
+    ...v39,
+};
+const v43 = new Uint16Array(1024);
+let v45 = Int32Array;
+const v46 = new v45(0);
+const v47 = [1,-12];
+[-6];
+[-9007199254740992];
+function f50() {
+    return 0;
+}
+v46[Int32Array];
+new Float32Array(3701);
+let v60 = new Int32Array();
+const v61 = new Int32Array();
+function F62(a64) {
+    if (!new.target) { throw 'must be called with new'; }
+    a64.f = v61;
+    v45 = a64;
+    ~this.__proto__;
+    let [] = v34;
+    this.e = v60;
+}
+const v70 = new Int32Array(6);
+const v73 = new Float32Array(0);
+[-Infinity];
+const o77 = {
+    set a(a76) {
+    },
+};
+for (let v78 = 0; v78 < 5; v78++) {
+    o77.a;
+}
+[-6.568975937209441,1.0,-Infinity];
+[0.6730197545704021,2.220446049250313e-16,5.387745681974783,-7.304740854736329,89425.84876466752,1000000000.0,-1.785661314585028e+308];
+const v82 = [13,9,-12559,-8,-4294967297];
+let v83 = [65535,-1139741600];
+v73[v29];
+let v85;
+try { v85 = v29.entries(); } catch (e) {}
+new Uint16Array(v85, 1024, v82, v85);
+try { v85(); } catch (e) {}
+try { v47.flatMap(f50, Uint16Array); } catch (e) {}
+new Uint8Array(v82);
+let v91 = -41990;
+const v92 = v83++;
+const v93 = --v91;
+function f94() {
+    return v70;
+}
+([-8.370930286710454,7.183159495332482,2.2250738585072014e-308,-1000000000000.0,-255.6362008927648,-315.07126899047114,-1.4473359933311645e+308,0.776153163138491,787700.9653515914]).flatMap(TypeError);
+const v98 = --v60;
+try { v14.toLocaleString(v45, v17); } catch (e) {}
+v11 = o77;
+f6(v98, v73);
+v43["findIndex"](f94, v31);
+v98 * (v92 << v93);
+const o106 = {
+    __proto__: null,
+    ...null,
+};

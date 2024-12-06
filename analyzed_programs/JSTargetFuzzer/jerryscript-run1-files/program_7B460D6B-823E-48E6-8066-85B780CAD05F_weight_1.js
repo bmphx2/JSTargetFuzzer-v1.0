@@ -1,0 +1,32 @@
+function f3() {
+    Object.defineProperty("7F", "a", { set: f3 });
+    new Uint32Array(16);
+    new Uint8ClampedArray(2130);
+    new Float32Array(1000);
+    return "0";
+}
+const v17 = [63325];
+const t8 = "valueOf";
+t8.__proto__ = v17;
+const t10 = "0";
+t10[Symbol.search] = "0";
+const v23 = ["0"];
+"7F" in v23;
+(-2049551792) ** "valueOf";
+const v28 = v23 / 65536;
+const v29 = !null;
+Math.atan2(v23, v28);
+typeof v17 === "boolean";
+-2049551792 in v23;
+v17["7F"];
++v28;
+["valueOf",v23,2147483648,null];
+[9007199254740991,9,34374,268435439];
+[10,3,-9007199254740992,51482,129];
+[1073741824,2106448256,14];
+typeof v29 === "object";
+(-526428.103517451 || -526428.103517451) ^ 268435440;
+Math.round(f3);
+-526428.103517451 - f3;
+const v53 = new Uint16Array();
+v53.toLocaleString();

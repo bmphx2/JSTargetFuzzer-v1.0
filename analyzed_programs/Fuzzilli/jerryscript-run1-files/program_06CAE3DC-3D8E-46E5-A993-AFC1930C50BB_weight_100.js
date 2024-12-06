@@ -1,0 +1,14 @@
+["-65536","object"];
+const v5 = [["object","-65536","o"]];
+new BigInt64Array(10);
+new Float32Array(283);
+new Float64Array(1032);
+new Float32Array(v5);
+let v17 = -1764;
+const v19 = v17 + Float32Array;
+const v20 = --v17;
+const v21 = -v19;
+Float32Array + v17;
+Math.trunc(Float32Array);
+~v21;
+v20 * v19;

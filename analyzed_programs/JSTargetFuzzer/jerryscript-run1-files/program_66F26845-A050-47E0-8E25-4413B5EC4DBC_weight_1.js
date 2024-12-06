@@ -1,0 +1,54 @@
+const v3 = [];
+v3 > -536870912n;
+let {...v6} = 12;
+new WeakMap();
+Math.fround(Math);
+const v17 = ("prototype").concat();
+let v18;
+try { v18 = v3.sort(v17); } catch (e) {}
+new Uint32Array(4);
+new Uint32Array(256);
+new Uint8Array(1);
+new Uint16Array(9);
+let v34 = 2n;
+v34 **= v34;
+const v35 = [];
+Reflect.apply(v35.pop, v35);
+const v39 = new Float64Array(256);
+const v41 = new Int8Array(Int8Array, Int8Array, Int8Array);
+const t18 = "prototype";
+t18.toString = v18;
+var d = v34;
+const t21 = "p";
+t21[7] = 4;
+new Map();
+v41.copyWithin();
+[null];
+const v49 = new Int8Array(4096);
+const v50 = [v49,Float64Array,256];
+([-8.370930286710454,7.183159495332482,2.2250738585072014e-308,-1000000000000.0,-255.6362008927648,-315.07126899047114,-1.4473359933311645e+308,0.776153163138491,787700.9653515914]).flatMap(parseFloat);
+const v55 = new Set();
+v55.entries();
+[9,v39,Uint16Array,Uint16Array,[256,9,4096,v50]];
+new Array(127);
+const v63 = new Date();
+v63.getSeconds();
+Array.from(Array);
+const v69 = new Uint32Array(181);
+let v71 = BigUint64Array;
+let v72 = new v71(1);
+let v73 = 253;
+[v73,,v71,v72] = v69;
+try { v71["abs"](181, v73, v71); } catch (e) {}
+new Uint16Array(v73);
+for (let i86 = 0; i86 < 2; i86++) {
+    const v92 = new Function("x");
+    v92.name;
+}
+638046528 + "x";
+new Uint8ClampedArray(9);
+("SevCf").trimStart;
+new Uint8Array(1000);
+new Int32Array(16);
+new Int8Array(255);
+Function();

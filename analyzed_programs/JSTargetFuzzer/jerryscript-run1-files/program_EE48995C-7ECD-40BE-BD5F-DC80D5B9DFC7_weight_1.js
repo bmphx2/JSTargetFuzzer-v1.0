@@ -1,0 +1,13 @@
+const v3 = 9007199254740990 + [6.6192286781957606,0.0,-1.7403341052759885e+308,1000.0,-850.1853486839814,0.04834737272769718,3.0,188062.77345199068];
+let v4 = 2.2250738585072014e-308;
+v4 **= v3;
+new Uint16Array(8);
+new Int16Array(3);
+new Int32Array(2);
+new BigInt64Array(6);
+new Uint8Array(4096);
+new Uint8Array(314);
+const v24 = new Boolean();
+v24 >= Boolean;
+const v27 = new BigInt64Array(257);
+v27["slice"]();

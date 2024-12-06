@@ -1,0 +1,11 @@
+let v13 = Float64Array;
+new v13(16);
+new BigInt64Array(2);
+new Uint8Array(2655);
+++v13;
+!Uint8Array;
+Math.log(-10);
+Uint8Array ^ Uint8Array;
+Math.floor(2.0);
+~v13;
+Math.atan2(v13, 2.0);

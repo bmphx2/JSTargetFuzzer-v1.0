@@ -1,0 +1,17 @@
+[];
+const v2 = new Date();
+const v4 = new Date();
+Date(Date ^ v4);
+v2[v2];
+new BigInt64Array(152);
+const v13 = new BigUint64Array(64);
+new BigUint64Array(3366);
+new Date();
+[-7,-4294967297];
+[2,268435440];
+[-9007199254740991,7,-47221];
+v4 * v13;
+Date.toString = Date;
+const v28 = [921831260,-2147483648,9,268435441,-1309884552];
+parseFloat();
+v28.every(parseFloat);

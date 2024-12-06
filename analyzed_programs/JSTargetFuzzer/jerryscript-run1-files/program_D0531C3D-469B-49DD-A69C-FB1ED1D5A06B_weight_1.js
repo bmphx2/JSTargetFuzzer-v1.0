@@ -1,0 +1,46 @@
+new Float32Array(10, 10, 10, 10);
+new Int8Array(52, 10);
+const v8 = new BigInt64Array(157);
+const v11 = new Int32Array(64);
+new Float32Array(8);
+let v15 = 14;
+const v17 = new Int16Array(v15);
+[] = v11;
+v17.__proto__;
+v8.__proto__;
+const v21 = new RegExp(Int32Array);
+new Float32Array(3701);
+const v27 = new Int32Array(v21);
+const v28 = new Int32Array();
+function F29(a31) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.f = v28;
+    this.e = v27;
+}
+new Int32Array(6);
+new Float32Array(0, F29, 0);
+[-Infinity];
+const o39 = {
+    set a(a38) {
+    },
+};
+for (let v40 = 0; v40 < 5; v40++) {
+    o39.a;
+}
+[-6.568975937209441,1.0,-Infinity];
+[1.7976931348623157e+308,9.647450327901261,Infinity,-2.2250738585072014e-308];
+const v44 = [13,9,-12559,-8,-4294967297];
+const v45 = [65535,-1139741600];
+new Uint8Array(v44);
+let v48 = -41990;
+const v49 = -v45;
+let v50 = --v48;
+function f51() {
+    return f51;
+}
+([-8.370930286710454,7.183159495332482,2.2250738585072014e-308,-1000000000000.0,-255.6362008927648,-315.07126899047114,-1.4473359933311645e+308,0.776153163138491,787700.9653515914]).flatMap(TypeError);
+{
+    Int32Array < Float32Array ? Int32Array : Float32Array;
+}
+v15 = 157;
+--v50 * (v49 << v48);

@@ -1,0 +1,12 @@
+new Int16Array(2);
+const v5 = new Uint8Array(256);
+const v8 = new Uint16Array(1024);
+const v9 = [v5,Uint8Array];
+[Uint8Array,Uint16Array,v5,2,v8];
+[v8,v9,2,v5,1024];
+new Int16Array(2326);
+new Uint8ClampedArray(223);
+new Int8Array(4096);
+const v23 = [2036046200,-9223372036854775807,-61646];
+v23[6] = -4n;
+v23["map"](Array);

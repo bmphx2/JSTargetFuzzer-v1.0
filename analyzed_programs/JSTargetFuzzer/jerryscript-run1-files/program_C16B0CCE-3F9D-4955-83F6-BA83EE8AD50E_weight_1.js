@@ -1,0 +1,10 @@
+[9007199254740992,-9223372036854775808,65535,17027,64,-1917848605,536870888,-4294967296,3];
+[2147483648];
+[-12,-9223372036854775808];
+new Map();
+new BigUint64Array(5);
+new Uint8ClampedArray(2407);
+new Int8Array(4);
+`multiline${536870912}bigint${WeakMap}boolean${256}Ys1r`;
+const v23 = new BigInt64Array(257);
+v23["slice"]();

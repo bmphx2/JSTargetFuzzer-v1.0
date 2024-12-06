@@ -1,0 +1,10 @@
+new Float32Array(6);
+new Int16Array(3222);
+new Float32Array(0);
+new Float32Array(3222);
+new Uint16Array(0);
+new Int8Array(0);
+new Map();
+const v22 = new Uint16Array(1475);
+const v24 = new Uint16Array(1845);
+v24 >= v22;

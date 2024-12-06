@@ -1,0 +1,20 @@
+const v2 = new Array(3274);
+let v4 = 3274 / "function";
+v4 = 3274;
+e = 3274;
+const t4 = "function";
+t4[v2] = Array;
+const v5 = new Array(3274);
+v5[v4] <<= 3274;
+v5.__proto__;
+try { ("valueOf").normalize(); } catch (e) {}
+let v17 = 4294967297;
+let v19 = ~(v17++);
+!536870889;
+++v19;
+new Int8Array(4);
+new Uint16Array(257);
+new Int16Array(1194);
+/r(?:a?)?8t(x)(x)(x)\1E(?!(a))\1+/gu;
+const v31 = /\ud808\udf45*/gyiu;
+v31 > v31;

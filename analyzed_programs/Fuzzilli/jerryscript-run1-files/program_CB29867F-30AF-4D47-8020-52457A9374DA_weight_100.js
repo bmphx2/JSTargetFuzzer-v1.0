@@ -1,0 +1,12 @@
+const v8 = new BigUint64Array(68);
+new Float64Array(4096);
+new BigUint64Array(1);
+const v18 = 9 * 36474;
++9;
+Math.atan(v18);
+Math.max(19231);
+Math.abs(-9);
+Math.log1p(BigUint64Array);
+~19231;
+Math.random();
+-v8;

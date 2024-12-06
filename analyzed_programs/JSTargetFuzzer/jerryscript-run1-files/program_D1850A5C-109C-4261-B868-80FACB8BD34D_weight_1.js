@@ -1,0 +1,21 @@
+const v7 = (775006231).__proto__;
+v7[3776151117] = v7;
+let v9;
+try { v9 = v7["n"](v7, -1024, "n", -1126953953, -1126953953); } catch (e) {}
+const v10 = [129,-1971818962,-454439934,-4288,5,10000,-256,256,-7014,268435441];
+[4294967297,-65536,16,15620,128];
+[-37937,257,255,256,255,5,-1937315374,3,268435440];
+const v14 = new BigInt64Array(4);
+let v19 = 268435439;
+const v22 = Math.min((-4294967295) ** --v19);
+Object.defineProperty(v14, Uint32Array, { configurable: true, enumerable: true, value: 4 });
+v14[7];
+delete v14[0];
+new Uint32Array(16);
+delete v10[6];
+-v9;
+new WeakSet();
+v22[0] = 128;
+new Int16Array(6);
+let v36 = 9007199254740991n;
+v36++;

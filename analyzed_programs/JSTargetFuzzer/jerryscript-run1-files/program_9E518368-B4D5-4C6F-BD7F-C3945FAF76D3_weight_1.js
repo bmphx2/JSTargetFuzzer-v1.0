@@ -1,0 +1,30 @@
+const v2 = new BigUint64Array(3992);
+const v5 = new Float32Array(1024);
+const v8 = new Uint8Array(512);
+let v9 = [Float32Array];
+[v8,[v9,v9,v9,v5],v5,v8,v5];
+let v13 = Uint8Array;
+const v14 = new v13(2);
+let v16 = Float32Array;
+const v17 = new v16(127);
+new Int32Array(243);
+new WeakSet();
+let [v25,v26,v27] = v9;
+({"b":v13,...v9} = v25);
+v13 = v2;
+let v29 = 10000;
+const v32 = v9--;
+--v29;
+Math.atan2(v32, v32);
+new Float64Array(127);
+new BigInt64Array(3886);
+new Uint32Array(0);
+v16 += v16;
+let v42;
+try { v42 = WeakSet(v14); } catch (e) {}
+const v44 = [v42];
+Reflect.apply(v17.sort, v17, v44);
+try { v44.flat(); } catch (e) {}
+[498897049];
+[-57150070,-2147483647,-11,-19440739,257,-65536,5,-1371366486,-5,-4294967296];
+[-9007199254740990,-530113451,4,-14,-45856,2];

@@ -1,0 +1,10 @@
+[-640099229,2147483648];
+[-2,5,-9223372036854775808,-2,-18980];
+[63578,9];
+const v11 = Array();
+Reflect.apply(v11.reverse, v11);
+const v15 = [Int32Array,Array];
+Reflect.apply(Array.from, v11, v15);
+const v23 = new Date(Date);
+let v24 = Date.g;
+v24 += v23;

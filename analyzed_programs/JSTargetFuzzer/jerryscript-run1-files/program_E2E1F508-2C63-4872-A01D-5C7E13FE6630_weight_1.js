@@ -1,0 +1,96 @@
+new Int16Array(3);
+new Float64Array(4);
+new Uint32Array(9);
+function f24() {
+    const o46 = {
+        __proto__: "-536870912",
+        "d": "-536870912",
+        "g": "-536870912",
+        ..."-536870912",
+        "c": 1.7976931348623157e+308,
+        9: -24152,
+        "h": -24152,
+        get f() {
+            this[7] = -24152;
+            let v29;
+            try { v29 = this.n(this); } catch (e) {}
+            let [v30,v31] = v29;
+            new Int8Array(3);
+            new Int8Array(8);
+            new Int8Array(3692);
+            return 3692;
+            +-2;
+            for (let [v44,v45] of "resizable") {
+            }
+            return "-536870912";
+        },
+    };
+    return o46;
+}
+const v47 = f24();
+const v48 = f24();
+const v49 = f24();
+class C56 extends f24 {
+    constructor(a58, a59, a60, a61) {
+        super();
+        const o64 = {
+            "call": f24,
+            "construct": f24,
+            "defineProperty": f24,
+            get b() {
+                return this;
+            },
+            p() {
+                this[C56] = this;
+                return C56;
+            },
+            "get": f24,
+            "getOwnPropertyDescriptor": f24,
+            "has": f24,
+            "isExtensible": f24,
+            "set": f24,
+            "setPrototypeOf": f24,
+        };
+        new Proxy(this, o64);
+    }
+}
+new Uint8Array(4);
+new Int32Array(2592);
+new Uint32Array(2592, 2592);
+new Uint32Array();
+const v76 = new C56(-19870386, -341266709, v48, 4);
+let v77 = new C56(v76, -1957950668, v76, 9007199254740990);
+try {
+    function f78() {
+    }
+    const v82 = [-1000000.0,f78,-807.6596022618603,-1000000.0];
+    const v83 = [v82,-1000000.0,0.014069366437978514,v82];
+    const v84 = [v83,f78,-807.6596022618603];
+    new String(1000);
+    const v92 = [-4.0,-828.5431934340852,-1000000.0,346.0653538265881];
+    ([-314.51570379042937,2.65527411782465,-1e-15,-5.0,1000000000000.0,5.856735713146336e+307,0.4701091285172452]).lastIndexOf(v92, 987924842);
+    function* f95(a96, a97, a98, a99) {
+        try { a98.padStart(a96, "object"); } catch (e) {}
+        const o101 = {
+            "construct": f78,
+            "ownKeys": f78,
+            "preventExtensions": f78,
+        };
+        new Proxy(v84, o101);
+        yield* "object";
+        return a96;
+    }
+    f95(-807.6596022618603, "U7O", "U7O", v83);
+} finally {
+}
+const v107 = new Uint32Array([6,17590]);
+new Proxy(v107, v76);
+let v110 = new C56(v49, 9007199254740990, v47, -341266709);
+if (v48 <= v110) {
+    v110 = C56;
+} else {
+    let {"b":v113,"d":v114,} = C56;
+    C56[-4096] += -4096;
+}
+v77 <<= v76;
+9007199254740990 <= v47 ? 9007199254740990 : v47;

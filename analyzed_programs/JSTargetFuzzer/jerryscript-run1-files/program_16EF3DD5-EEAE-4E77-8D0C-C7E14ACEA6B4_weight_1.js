@@ -1,0 +1,12 @@
+const v0 = [];
+const v9 = new Float32Array(393);
+new Uint16Array(244);
+new Int16Array(93);
+v9[907] = Int16Array;
+const v16 = [129];
+const v17 = [1742037620,-23769,-256];
+v0.valueOf = [4,-664821532,257,-2147483649,-521685906];
+v0.length >>>= 525061891;
+const v19 = v17[5];
+v17[244] = -268435456;
+v16["reduceRight"](v19, 525061891);

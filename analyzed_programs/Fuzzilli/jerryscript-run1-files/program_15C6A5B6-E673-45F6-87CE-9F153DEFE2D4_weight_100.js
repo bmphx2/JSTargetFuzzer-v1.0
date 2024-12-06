@@ -1,0 +1,12 @@
+/P(?:ab)+[\xf0\x9f\x92\xa9-\xf4\x8f\xbf\xbf]a+t+/vgmd;
+/x[\0]/vmd;
+const v2 = /[^\1(a)[]]/vd;
+let v8 = -2;
+/Ia|b+/uygsid;
+const v10 = /NH+/ysd;
+/(?:a?)?/ymsi;
+v8 = -1984947061;
+(v10 || 3.0) * v10;
+3.0 & (v10 || 9);
+Math.acos(9);
+v2[9] = 129;

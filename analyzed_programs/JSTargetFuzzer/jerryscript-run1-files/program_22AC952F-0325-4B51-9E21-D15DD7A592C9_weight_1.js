@@ -1,0 +1,23 @@
+new Uint16Array(64);
+new Int16Array(5);
+new Float32Array(38);
+let v13 = 5918n;
+const v14 = [8,-488260115,4294967297];
+const v15 = [-1604425008,2147483649,16];
+[-13,4294967297,-12737845,2147483648,-10,4096];
+function f17() {
+    return v14;
+}
+function f18() {
+}
+switch (v13) {
+    default:
+        v15[65535n] = -2.0;
+        break;
+    case v13:
+        v13 = 65535n;
+        function f20() {
+            return v13;
+        }
+        break;
+}

@@ -1,0 +1,21 @@
+const v2 = new Int32Array(127);
+const v4 = Int32Array != 127 ? Int32Array : 127;
+v2[v4] = v4;
+v2[Int32Array] = v4;
+new Int32Array(v2, 127, 127);
+v2[65536] *= v4;
+v2[5] += 15466;
+const v11 = new Uint16Array(10000);
+const v12 = typeof v11;
+const v14 = v12 === "number";
+v4 && v14;
+const v17 = v14 < v12 ? v14 : v12;
+try { v2.sort(v17); } catch (e) {}
+new BigUint64Array(1024);
+new Float32Array(170);
+new Uint32Array(2);
+new Float64Array(10000);
+[13];
+[64,-9007199254740992,-57340,7,-1,252129313,-65537];
+[-128,65537];
+[127,...[-1000.0,0.4688661547934494,41.51028476929332,-8.411744737761852]];

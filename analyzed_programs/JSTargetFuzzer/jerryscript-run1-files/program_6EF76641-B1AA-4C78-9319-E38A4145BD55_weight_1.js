@@ -1,0 +1,11 @@
+new WeakMap();
+new Float32Array(159);
+new Int32Array(8, Int32Array, Int32Array);
+new Int16Array(2579);
+const v16 = [2147483649,-10,-4096,3];
+const t5 = [250262812,-9223372036854775808];
+delete t5[3];
+v16.__proto__;
+const v20 = 268435456 !== -1877164993;
+v16[1243297753] = v16;
+new Float32Array(13, WeakMap, v20);

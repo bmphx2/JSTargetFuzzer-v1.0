@@ -1,0 +1,11 @@
+const v2 = new Uint32Array(105);
+const v5 = new Int32Array(256);
+const v8 = new Uint8Array(255);
+new Set();
+Object.defineProperty(v8, 105, { writable: true, configurable: true, value: v8 });
+v5.__proto__ = v2;
+const v15 = 9 ^ Int32Array;
+Math.hypot(Infinity);
+v15 - 256;
+9 << 256;
+Infinity % 16;

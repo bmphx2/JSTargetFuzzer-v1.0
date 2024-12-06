@@ -1,0 +1,10 @@
+const v2 = new Int8Array(6);
+const v5 = new Int8Array(257);
+new BigInt64Array(171);
+v2[-2] >>= 257;
+const t4 = 1073741824;
+t4[0] = 1703115456;
+v5[257];
+new BigUint64Array(6);
+new Uint32Array(5);
+new BigUint64Array(257);

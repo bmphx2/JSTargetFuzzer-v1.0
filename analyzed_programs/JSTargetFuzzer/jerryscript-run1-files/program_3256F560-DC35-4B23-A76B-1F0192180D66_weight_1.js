@@ -1,0 +1,12 @@
+new Uint16Array(4);
+const v8 = new BigUint64Array(1024);
+new Int16Array(257);
+let v12 = 1;
+let v17 = 4294967296;
+const v19 = !v17;
+v17++;
+const v21 = v12++;
+!-4294967295;
+Math.acos(v8);
+v19 << v21;
+Math.atan(v12);

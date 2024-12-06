@@ -1,0 +1,14 @@
+const v1 = new Map();
+const v2 = [Map,v1,Map,Map,v1];
+[v1,v2,Map,v2];
+const v4 = [Map,v1];
+v1 instanceof Uint8ClampedArray;
+v4.__proto__;
+new Uint8ClampedArray(866);
+new Uint8ClampedArray(16);
+new BigUint64Array(118);
+const v19 = [];
+-128n >> 5n;
+const v24 = ([]).values();
+v24 >= v24;
+`string${Uint16Array}2147483647${v19}isSafeInteger`;

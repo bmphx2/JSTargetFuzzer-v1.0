@@ -1,0 +1,25 @@
+new Set();
+const v10 = !223038772;
+46233 >> 55915;
+v10 & 223038772;
+const v13 = ~55915;
+Math.sin(55915);
+const v15 = -46233;
+const v16 = -v13;
+new Int16Array(11);
+let v21 = 155;
+new Int8Array(v21);
+new Uint16Array(128);
+const v28 = new Float32Array(Float32Array, Float32Array, Int16Array);
+const v30 = v28.sort;
+const v32 = [4294967297,4294967297];
+let v33 = "indexOf";
+v32[v33]();
+const v36 = new Map();
+v36 % v36;
+try { v36.values(); } catch (e) {}
+v33 = v15;
+!Float32Array;
+v21 = v16;
+v36["set"]();
+Reflect.has(v30);

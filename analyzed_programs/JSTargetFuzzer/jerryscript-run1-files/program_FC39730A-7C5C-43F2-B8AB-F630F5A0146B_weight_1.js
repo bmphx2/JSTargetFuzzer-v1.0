@@ -1,0 +1,12 @@
+let v0 = 1199;
+const v2 = new Uint16Array(v0);
+const v5 = new Float32Array(2407);
+let v8 = new Float64Array(128);
+const v10 = [[128,v8],v5];
+[v10,Uint16Array,Float64Array,v2];
+v8 += v8;
+const v14 = [v0 = 65535,v10 << 2407];
+[v14,v14,Uint16Array];
+[v14];
+let v20 = 58354n;
+(v20 <<= 39655n) | v20;

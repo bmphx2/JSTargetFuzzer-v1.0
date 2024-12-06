@@ -1,0 +1,19 @@
+const v1 = new WeakSet();
+let v6 = 0;
+do {
+    v6++;
+} while (v6 < 1)
+const v14 = new BigUint64Array(537);
+const v17 = new Int8Array(257);
+let v18;
+try { v18 = v17(v1, Int8Array, Int8Array); } catch (e) {}
+v14.buffer = v18;
+new BigUint64Array(255);
+new Uint16Array(255, 537, v14.byteOffset);
+try { v18.n(); } catch (e) {}
+[-8.186256420608949e+307,1.0,-2.2250738585072014e-308,1000000.0];
+[5.974765602438516e+307,587.2834890026043,5.39792341797817,1000000000.0,2.544220190560564,-642.2729849219099,5.0];
+[2.2250738585072014e-308,-8.74460928105618,47.645530871673145,-1.0,-1000.0,2.220446049250313e-16,-6.222411555207783];
+const v40 = new Uint16Array(1402);
+const v42 = new Float32Array(0, 0);
+v40[0] = v42;

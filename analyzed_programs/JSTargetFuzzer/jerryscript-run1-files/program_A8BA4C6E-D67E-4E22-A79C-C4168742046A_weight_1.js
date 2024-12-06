@@ -1,0 +1,11 @@
+new WeakSet();
+new Int16Array(2707);
+new Uint16Array(880);
+new Float32Array(255);
+const v19 = new Float32Array();
+v19.slice(1003786686, 1003786686);
+const v22 = [1000000.0,1.2694373884119616e+308,-Infinity,0.7652992022490531,5.0,-8.644737118571141,1000000.0,0.9075298547528431,-2.220446049250313e-16];
+v22.toString = RegExp;
+const v25 = Array(128);
+v25.copyWithin(v25);
+v22.length <<= -62483;

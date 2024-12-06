@@ -1,0 +1,14 @@
+const v6 = /\1112/y;
+/a\nb\bc/ugmsd;
+const v8 = /L[x\dz](?: foo )a\sc(?: foo )+/ymi;
+new BigInt64Array(139);
+new Uint8ClampedArray(5);
+new Float64Array(7);
+const t6 = "64" < 5 ? "64" : 5;
+t6.valueOf = v8;
+Object.defineProperty(v6, "g", { configurable: true, enumerable: true, value: "symbol" });
+-809023363 - -4294967296;
+Math.cosh(-809023363);
+Math.max(-4294967296);
+-(-4294967296);
+Math.atanh(139);

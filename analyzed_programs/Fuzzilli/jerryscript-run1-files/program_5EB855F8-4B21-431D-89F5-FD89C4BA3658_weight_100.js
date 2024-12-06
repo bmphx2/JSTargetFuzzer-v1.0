@@ -1,0 +1,10 @@
+const v2 = new BigInt64Array(128);
+new Int8Array(6);
+const v8 = new Int32Array(3);
+v2.buffer = v8;
+const v13 = Symbol.match;
+v2[v13] = v13;
+6 ** Int32Array;
+new Int8Array(2393);
+new Int32Array(1024);
+new Uint32Array(2043);

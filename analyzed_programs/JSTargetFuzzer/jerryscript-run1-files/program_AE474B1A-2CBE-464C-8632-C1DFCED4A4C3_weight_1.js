@@ -1,0 +1,17 @@
+new WeakSet();
+new Map();
+[1,3];
+const v5 = [15063];
+const v6 = [5181,6,-2147483648,623843514,5,13];
+[v6,v5];
+const v8 = [Map,v6,WeakSet];
+[v8,v8];
+new BigInt64Array(10);
+const v15 = new Uint32Array(1820);
+const v18 = new Int8Array(11);
+v18.length = 8;
+Math.pow(v15, 268435441 >>> 1073741824);
+const v26 = (v15 >> v15) & Uint32Array;
+Uint32Array % v15;
+v26 ^ 268435441;
+-268435441;

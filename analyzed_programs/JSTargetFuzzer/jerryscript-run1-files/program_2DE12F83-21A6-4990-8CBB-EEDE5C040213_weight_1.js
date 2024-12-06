@@ -1,0 +1,15 @@
+new Float32Array(2885);
+new BigUint64Array(7);
+new Uint32Array(9);
+Math.abs(268435440);
+Math.sin(268435440);
+const v17 = ~268435440;
+v17 >> v17;
+const v22 = [9223372036854775807n];
+const v23 = [v22,v22];
+[2n,v23,-1290666896n];
+v23[14418] = v23;
+new Uint32Array(1);
+~-37993n;
+2n > 1;
+("number").search(/(\xed\xb0\x80ia\D[^123]a{?)/gyism["compile"]());

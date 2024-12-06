@@ -1,0 +1,34 @@
+new WeakMap();
+new Int16Array(8);
+new Float32Array(1982);
+new Int8Array(94);
+let v19 = 536870888n;
+const v30 = [3.0];
+function f31(a32, a33) {
+    a32 instanceof a32;
+}
+new Promise(f31);
+[-9.980181287646149];
+Object.defineProperty(v30, -9.980181287646149, { configurable: true, get: f31, set: f31 });
+v19 /= 2331n;
+[v30];
+const v44 = new Int32Array(9);
+const v47 = new BigInt64Array(2);
+new Float64Array(3658);
+const v54 = v44 & false;
+const t18 = "d";
+t18[4] >>= 3.0;
+Float64Array & -9.980181287646149;
+v47[Symbol.replace];
+const t20 = "d";
+t20[-2] = 2.0;
+let v62 = 4.0;
+v54 ^ v54;
+v62++;
+Math.abs(v62);
+let v66 = 18731;
+const v69 = 3.0 % 268435440;
+const v70 = ++v66;
+Math.imul(v66, v66);
+v69 - 268435440;
+v70 >>> v69;

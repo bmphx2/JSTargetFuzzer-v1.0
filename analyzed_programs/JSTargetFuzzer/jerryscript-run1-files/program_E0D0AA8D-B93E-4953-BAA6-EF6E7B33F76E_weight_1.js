@@ -1,0 +1,79 @@
+const v1 = new Set();
+function f2(a3, a4) {
+    const o7 = {
+        [a4]: a4,
+        [a3](a6) {
+            v1[a6] |= a6;
+            this[this] = a4;
+            return Set;
+        },
+        ...a4,
+        ...v1,
+        "g": a3,
+        "h": Set,
+    };
+    return o7;
+}
+const v8 = f2(v1, v1);
+f2(f2, f2);
+f2(Set, f2);
+new Int8Array(168);
+new Int32Array(9);
+const v25 = new Int8Array(Int8Array, Int8Array, Int8Array);
+function f26() {
+    return Int8Array;
+}
+class C27 extends f26 {
+    constructor(a29, a30, a31, a32) {
+        super();
+        for (let i = 0; i < 5; i++) {
+            super.g = v25;
+            function f33() {
+                return f33;
+            }
+        }
+    }
+}
+new Int16Array(2);
+new Set();
+new WeakMap();
+new WeakSet();
+const v61 = new URIError(512);
+const v64 = new Int16Array(447);
+new Uint32Array(2438);
+function f71() {
+}
+v61.description <<= 2006448021;
+const v79 = [2.220446049250313e-16,-1.7976931348623157e+308,-3.4833326659982795,-1000000000000.0,0.0,2.220446049250313e-16,-4.191721618721404,1.4104645033139904e+308];
+("1073741824").match(v79.copyWithin(v79, v79));
+new Uint8Array(0);
+const v89 = [-8,4294967295,148900462];
+let v90 = RegExp.bind("2147483647", v89);
+const v92 = new BigUint64Array(127);
+function f93(a94, a95) {
+    const o96 = {
+        "f": a94,
+        ...v90,
+        "e": a95,
+    };
+    return o96;
+}
+f93(v90, 26357);
+f93(v89, 26357);
+f93(v79, 2);
+v90 /= v92;
+new WeakSet();
+new BigInt64Array(2, -14, v64);
+const v111 = [-987518.5482117643,411.74251786914215,-1.2641815943692702e+308,-480227.98477506946,0.8935879717221591];
+const t67 = [2.599905263199421,-1000.0,-267994.85962117277,-5.0,4.0,-2.2250738585072014e-308];
+t67[268435456] = v111;
+function F113(a115) {
+    if (!new.target) { throw 'must be called with new'; }
+}
+class C116 extends F113 {
+    constructor(a118, a119, a120) {
+        super();
+        v8.get();
+    }
+}
+([5]).reverse();

@@ -1,0 +1,10 @@
+const v3 = [-5n,56201n,-5n];
+const v4 = [v3,56201n];
+[v4,-5n,v4];
+v3.length = 0;
+-(-1985215186n);
+v4.b = 0;
+new Float64Array(2394);
+new Int8Array(2394);
+new Int8Array(6);
+-1985215186n >> -65536n;

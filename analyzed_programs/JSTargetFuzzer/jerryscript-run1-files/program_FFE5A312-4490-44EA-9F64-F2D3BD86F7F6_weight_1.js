@@ -1,0 +1,13 @@
+let v0 = -1102250293;
+const t1 = 9;
+t1.toString = -564170650;
+const t3 = -536870912;
+t3.valueOf = v0;
+v0 = 9;
+new Map();
+[-83800141,9];
+[9,-1917548893,-564170650,9];
+[9,v0,-1917548893,-536870912];
+let v15 = RegExp.bind(RegExp, RegExp);
+const v17 = new Int32Array();
+v15 /= v17;

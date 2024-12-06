@@ -1,0 +1,28 @@
+const v0 = [-2];
+const v1 = [-571597703];
+const v2 = [-31427,-7716,268435456,-53696,64];
+let v3 = Int32Array;
+let v4 = 55;
+let v6 = new Int8Array(v4);
+({"byteLength":v4,"length":v6,...v3} = v6);
+function F7(a9, a10) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.f = v1;
+    this.e = v0;
+    this.a = a10;
+}
+new F7(v1, v2);
+new F7(v0, v0);
+new F7(v1, v1);
+new Int8Array(4096);
+new Float32Array(256);
+new Uint8Array(512);
+function f23() {
+}
+const v34 = ("symbol")[5];
+v34 < v34;
+v34[257] = "symbol";
+f23(..."10", ..."unscopables", ..."symbol", "W");
+new Uint8ClampedArray(9);
+new Int8Array(2);
+new Float32Array(15);

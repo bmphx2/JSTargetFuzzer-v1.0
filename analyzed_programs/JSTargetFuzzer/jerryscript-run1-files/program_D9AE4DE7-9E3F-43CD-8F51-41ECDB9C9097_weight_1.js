@@ -1,0 +1,10 @@
+[-1.1405745002420964e+307,-1e-15,-Infinity];
+[1000000000.0,-623795.3698537593,0.4332191549264294,0.0,-3.0,719.0444303643217,-267.8597206499451];
+[4.0,3.0,-1.362202984523311e+308,-162426.7063273897,-567287.936119216,0.06876416905846683,1000.0,1.3711838346303628e+308,-3.0];
+const v5 = new BigInt64Array(15);
+const v8 = new BigUint64Array(v5);
+new Int8Array(4096);
+new BigUint64Array();
+const v15 = new BigInt64Array();
+Reflect.apply(v8.copyWithin, v15);
+Reflect.getOwnPropertyDescriptor(BigUint64Array);

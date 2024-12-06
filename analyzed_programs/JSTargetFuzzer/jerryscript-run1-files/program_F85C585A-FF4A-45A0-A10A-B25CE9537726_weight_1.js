@@ -1,0 +1,21 @@
+const v2 = new Float32Array(1446);
+let v3 = 255;
+let v6 = 1073741824 && v2;
+const v7 = Math.max(v2);
+v3--;
+new Float32Array(v3);
+const v14 = new Object(3);
+let v15 = 2110820557n;
+v15 /= 11n;
+new Int8Array(156);
+const v20 = RegExp.bind();
+Object.defineProperty(v20, "f", { configurable: true, get: RegExp });
+const v22 = ([-6,-1753580390,23989,-256,2013761253,-1,-69]).concat();
+v7[6] = v20;
+let v23;
+try { v23 = v14.p(v3, 11n, v3); } catch (e) {}
+RegExp.name;
+v6 = 1446;
+v23 | v22;
+let v30 = -2147483648n;
+v30 &= -2147483649n;

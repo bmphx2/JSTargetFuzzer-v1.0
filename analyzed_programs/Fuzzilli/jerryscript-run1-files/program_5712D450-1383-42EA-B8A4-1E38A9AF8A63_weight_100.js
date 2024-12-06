@@ -1,0 +1,8 @@
+function f12() {
+    return f12;
+}
+const v14 = new Float32Array(Float32Array, f12, Float32Array);
+const v17 = new Uint32Array(129);
+9007199254740991 === Array();
+v17["map"](f12) !== 129;
+v14["lastIndexOf"](Float32Array);

@@ -1,0 +1,45 @@
+const v0 = [];
+function F1() {
+    if (!new.target) { throw 'must be called with new'; }
+    this.f = this;
+    this.g = v0;
+    function f3(a4, a5) {
+        const o6 = {
+        };
+        return o6;
+    }
+    const v7 = f3(f3, f3);
+    const v8 = f3(v7, v7);
+    Object.defineProperty(v8, 6, { configurable: true, get: f3 });
+    for (let i = 0; i < 5; i++) {
+        for (let v9 = 0; v9 < 32; v9++) {
+            const t15 = "p";
+            t15["p" + v9] = v9;
+        }
+    }
+    v8.a = v0;
+}
+const v12 = [65537,-345187051];
+const v13 = [v12,v12,v12,v12,v12];
+const v14 = [v13,v13,v13];
+class C15 {
+    constructor(a17, a18, a19, a20) {
+        v13.unshift(v12);
+        v13[Symbol.replace] = v14;
+    }
+}
+const v24 = new C15();
+new C15(v24, v12, v12, v12);
+new F1();
+new F1();
+new F1();
+const v32 = [-6.29856289846174e+307,0.43317422765090163,1000000000000.0,-1.7976931348623157e+308,-1.1635473946377326e+308,-148800.67729534185,2.847797032163818e+307,-1.0];
+[-6.574415892432972,2.087639631699556,5.0,-2.0,-1.0,-1.878652818700047,-0.0,3.264790815691626,348080.6867138373];
+[1000.0,1.1212960796311049e+308,862516.9600657658,-1000000.0,739.9239119134475,1000.0,3.0,1000.0,-1000000000000.0,-0.0];
+function f36() {
+    return f36;
+}
+const o37 = {
+    "e": 1337074449,
+};
+Object.defineProperty(v32, "e", { configurable: true, set: f36 });

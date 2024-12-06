@@ -1,0 +1,37 @@
+let v3 = "4";
+[v3] = v3;
+const v4 = -2 << -4294967295;
+let v5;
+try { v5 = v3.getUTCFullYear(-4294967295, -4294967295); } catch (e) {}
+const v6 = v5 - -2;
+const v7 = [v4,v3,v3,v3];
+let v8 = [v7,v3,v6,v7];
+const v9 = [v7];
+("1").length;
+let v15 = 1024;
+const v16 = -Infinity;
+--v8;
+const v18 = v15++;
+~v15;
+let v22;
+try { v22 = v3.padEnd(-2, "1"); } catch (e) {}
+let v25 = Int16Array;
+new v25(256);
+[256,v5,v16,v22];
+[v9];
+const t19 = [256];
+t19[-4294967295] /= -65536;
+const t23 = -1073741824;
+t23[2] = v18;
+-1073741824 >>> v3;
+Math.asinh(v3);
+Math.cosh(-4294967295);
+v3 - -4096;
+let v43 = new Float64Array(207);
+new Uint8ClampedArray(1000);
+65535n >= 65535n;
+("1")["replace"]("replace", "replace");
+({"h":v25,"length":v43,} = "-653438228");
+[-3.0];
+[1000000000000.0,NaN,-5.737702988813709,196898.710160631,-Infinity,0.5725108523422796,2.2250738585072014e-308];
+[-1.7976931348623157e+308,-Infinity,Infinity,-2.220446049250313e-16,0.6570940208370094];

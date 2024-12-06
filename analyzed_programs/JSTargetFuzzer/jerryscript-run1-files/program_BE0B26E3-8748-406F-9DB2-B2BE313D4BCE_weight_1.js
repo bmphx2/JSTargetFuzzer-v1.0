@@ -1,0 +1,23 @@
+function F0() {
+    if (!new.target) { throw 'must be called with new'; }
+    this.b = 4096;
+    this.h = 4096;
+}
+const v3 = new F0();
+new F0();
+const v5 = new F0();
+function F6(a8) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.e = this;
+    this.f = a8;
+}
+new F6(v5, F0, F6);
+new F6(v3);
+new F6(v3);
+new BigInt64Array(12);
+new BigUint64Array(16);
+new Uint16Array(84);
+new Float32Array(4096);
+new Uint16Array(4096);
+const v35 = new Uint16Array(10);
+v35[30];

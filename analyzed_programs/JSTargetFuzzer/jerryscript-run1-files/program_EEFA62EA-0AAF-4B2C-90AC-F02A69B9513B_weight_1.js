@@ -1,0 +1,50 @@
+function F9(a11, a12, a13, a14) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.h = a11;
+    this.e = -4294967297;
+}
+new F9(-4294967297, 1.6674776931802905e+308, 0.4356844155591021, 0.8829113610446576);
+const v16 = new F9(-256, 1.6674776931802905e+308, 0.4356844155591021, 3.2025039317132276);
+new F9(-256, 536870888, 0.4356844155591021, 0.4356844155591021);
+function F18() {
+    if (!new.target) { throw 'must be called with new'; }
+    this.g = -65537;
+    this[15] = F18;
+    this.valueOf = -65537 in this;
+    for (let v22 = 0; v22 < 32; v22++) {
+        "p" + "p";
+        this[v22] = "p";
+    }
+    this.f = -65537;
+}
+new F18();
+new F18();
+const v27 = new F18();
+new Uint32Array(5);
+new RegExp(5);
+new Uint8Array(5);
+function f37() {
+}
+let v38 = 0;
+do {
+    v27 / v27;
+    v38++;
+} while (v38 < 9)
+const v51 = new Uint8Array(0);
+let v56 = RegExp.bind("2147483647", [-8,4294967295,148900462]);
+const v58 = new Int32Array(127);
+const v59 = ("2147483647")[11];
+v59 instanceof v56;
+RegExp[8] = 4.0;
+v38.__proto__ = v27;
+F18 < v59;
+v56 /= v58;
+let v63 = new WeakSet();
+const v69 = new BigInt64Array(2, v16, -4294967297);
+127 instanceof Uint8Array;
+function f72() {
+    return v69;
+}
+v63 = v51;
+("1000")["toUpperCase"]();
+([5]).reverse();

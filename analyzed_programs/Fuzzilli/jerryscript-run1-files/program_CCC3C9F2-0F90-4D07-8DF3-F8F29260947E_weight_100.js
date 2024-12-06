@@ -1,0 +1,6 @@
+9223372036854775807 ** 9223372036854775807;
+(9223372036854775807).__proto__;
+new Uint8ClampedArray(7);
+new BigInt64Array(2997);
+new Float64Array(255);
+1n / 14n;

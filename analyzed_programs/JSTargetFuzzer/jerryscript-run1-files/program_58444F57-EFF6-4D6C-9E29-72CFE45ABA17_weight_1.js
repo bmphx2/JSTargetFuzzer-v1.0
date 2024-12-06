@@ -1,0 +1,14 @@
+const v3 = ["TZXVZ"];
+const v4 = ["-977238995",v3];
+const v5 = [v4];
+[-9007199254740991,54726,1717830925,31978,16,4294967297,-28128,-15,-806491297,127];
+const v16 = [0.6476119767844933,-2.0];
+const t5 = -1521172440n;
+t5[8] = -176366.52543083113;
+const v19 = v5[Symbol.search];
+v16[v4] = "TZXVZ";
+Object.defineProperty(v16, 256, { writable: true, configurable: true, enumerable: true, value: v16 });
+v3.copyWithin(v19);
+new Float32Array(1649);
+new Uint8ClampedArray(2428);
+new Uint8ClampedArray(16);

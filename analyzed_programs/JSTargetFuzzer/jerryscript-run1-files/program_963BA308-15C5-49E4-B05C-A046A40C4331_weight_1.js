@@ -1,0 +1,11 @@
+new Uint8Array(255, 255, 255, Uint8Array);
+new Int32Array(9);
+new Int16Array(7);
+new Int16Array(13);
+new Uint8ClampedArray(10);
+new Float32Array(1024);
+let v19 = -9007199254740991n;
+v19 <<= 7n;
+const v20 = [];
+[[v20,v20,v20],v20];
+new Int8Array();

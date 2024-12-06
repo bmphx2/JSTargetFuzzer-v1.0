@@ -1,0 +1,34 @@
+const v3 = [16,129,-65535,6,0,-4096,9,255,-128];
+const v4 = [268435440,4294967297,-1,-2147483648,536870887,4294967295,1867870231,61796,2];
+[1073741823];
+[15,v3];
+const v10 = [-9,v4,-9,v4];
+[v3,v4,v10,9];
+function F12() {
+    if (!new.target) { throw 'must be called with new'; }
+    this.sticky = 1024;
+    this.a = 1024;
+}
+const v15 = new F12();
+new F12();
+const v17 = new F12();
+[1801814284,v17,1801814284,v15];
+[F12];
+[v17,-2];
+const v24 = [Infinity,228711.8701669043,1000.0,0.6549688747910699];
+const v25 = [0.7717665177211909,-838.3936909463185,-0.0];
+const v26 = [Infinity,0.0,0.4397360972148665,1000.0,2.2250738585072014e-308,-1000000000.0];
+const o27 = {
+};
+const v29 = new Proxy(v26, o27);
+v24.__proto__ = v29;
+v25[7] >>>= 8;
+try { v15(1023408328, v10, Proxy); } catch (e) {}
+new Int8Array(72);
+new Uint32Array(2697);
+new BigUint64Array(217);
+const o40 = {
+};
+new Proxy(v29, o40);
+try { F12(); } catch (e) {}
+o27.a = v15;

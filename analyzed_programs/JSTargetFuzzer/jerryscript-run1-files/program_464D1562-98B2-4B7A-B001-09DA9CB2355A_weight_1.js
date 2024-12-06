@@ -1,0 +1,14 @@
+const v3 = [25288,1073741824,-1,-1,-1];
+const v4 = [1073741824,1073741824];
+[v4,v4,v3,v4];
+Date["now"]();
+let v15 = 10;
+!"string";
+++v15;
+v15 % 54431;
+new BigUint64Array(0);
+new Float64Array(1646);
+new BigInt64Array(225);
+/r(?:a?)?8t(x)(x)(x)\1E(?!(a))\1+/gu;
+const v28 = /\ud808\udf45*/gyiu;
+v28 > v28;

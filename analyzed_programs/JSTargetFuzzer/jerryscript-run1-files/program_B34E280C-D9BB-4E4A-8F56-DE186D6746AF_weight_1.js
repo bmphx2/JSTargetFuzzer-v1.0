@@ -1,0 +1,67 @@
+const v2 = new Uint8ClampedArray(3006);
+const v5 = new Uint32Array(128, 3006);
+const v8 = new Int8Array(5);
+function f9() {
+    return Uint32Array;
+}
+const v10 = [v8,v2,v5,Uint32Array];
+[Int8Array,Int8Array,Int8Array];
+[Int8Array,Uint32Array,v5,v10];
+function F13() {
+    if (!new.target) { throw 'must be called with new'; }
+    F13.c = -4294967297;
+}
+const v16 = new F13();
+new F13();
+new F13();
+function f20() {
+    const v23 = new Uint32Array(4);
+    return v23;
+}
+function f26() {
+    return v16;
+}
+const v29 = new BigUint64Array(BigUint64Array, BigUint64Array);
+v29.copyWithin();
+const v33 = String.bind(2);
+Math.fround();
+const v38 = Math.min(0.2148301603058278);
+let v39 = 1073741824n;
+v39 &= v39;
+try { Float32Array(); } catch (e) {}
+255 - Int8Array;
+v16.e;
+let [] = v10;
+[41300,-65536];
+[-1074384077,-4294967297,-4294967296,64,4294967297,-1993949364,6];
+[128,-9007199254740991,-4294967296,10000,4];
+(-12n).toString();
+v10.__proto__;
+const v52 = v5[Uint32Array];
+v8[Symbol.unscopables];
+([2036046200,-9223372036854775807,-61646])["map"](Array);
+const v61 = new Float64Array(16);
+class C63 {
+}
+const v65 = new v33(1);
+const v68 = new Int8Array(107);
+for (let i71 = 0, i72 = 10; i71 < i72;) {
+    v68[v65] = i71;
+    Object.defineProperty(v61, "d", { get: f20 });
+    -v38;
+    let v80 = v52 * 4;
+    v80 |= v52;
+    v2[1];
+    ++i71;
+    Math.max(-7);
+}
+new Int16Array(26);
+4 == [4,7,4294967297,-1,1000];
+const v91 = new Int8Array(Int8Array, Int8Array, Int8Array);
+v91.includes(v91, v91);
+new Uint8ClampedArray(6);
+try {
+    new WeakSet(4087n);
+} catch(e98) {
+} finally {
+}

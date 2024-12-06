@@ -1,0 +1,17 @@
+const v2 = new Float64Array(4);
+new Float64Array(256);
+new Int16Array(257);
+const v10 = /d/i;
+const v14 = (-2147483649) ** v2;
+Math.tanh(-4294967295);
+-4294967295 - v14;
+-(-4294967295);
+v14 ^ 8;
+Math.cosh(-4294967295);
+const v20 = /(ab|cde)+/gyu;
+const v21 = v10 * v20;
+new Boolean();
+const v32 = v21 & !v20;
+Math.exp(v21);
+!v32;
+v21 << v21;

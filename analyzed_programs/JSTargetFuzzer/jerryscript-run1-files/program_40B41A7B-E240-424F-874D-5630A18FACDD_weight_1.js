@@ -1,0 +1,12 @@
+let v0 = -9007199254740992;
+let v6 = 16;
+let v7 = 0.532289809775875;
+Math.log(v6);
+const v9 = -v0;
+--v0;
+Math.log10(v6);
+Math.tan(v9);
+v6++;
+++v7;
+Array(246).concat();
+"12" + 257;

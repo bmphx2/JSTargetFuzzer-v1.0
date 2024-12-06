@@ -1,0 +1,17 @@
+let v1 = 14;
+new Float64Array(2791);
+let v9 = 16;
+v9 %= -16;
+Math.tanh(-16 << v1++);
+Math.log(v1);
+let v19 = 657158.1474211824;
+-v19;
+Math.clz32(v19++);
+new Int8Array(v9);
+new Float64Array(6);
+const v29 = new Int8Array();
+const v31 = new Int32Array(v29, 129, 129);
+const v34 = new Uint8ClampedArray(3598);
+v34["set"](...v29, 129);
+const v38 = new Int16Array(v34);
+v38["indexOf"](v31);

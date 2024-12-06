@@ -1,0 +1,12 @@
+const v2 = new Array(7);
+new Uint16Array(127);
+const v8 = new Int32Array(1897);
+new Uint8ClampedArray(1000);
+const v13 = new Set();
+const v16 = [-16,4];
+const t6 = [-1124966260,9223372036854775807,9,-1022811835,14,-9223372036854775807,-954173599,592825194,-1892405619,4294967296];
+delete t6[-9];
+v8[v2] = Uint8ClampedArray;
+h = v16;
+const v20 = Array.isArray(45103, Set, ...v13, ...v2, 1000, 1000);
+v16.slice(45103);

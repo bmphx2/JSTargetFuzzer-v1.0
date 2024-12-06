@@ -1,0 +1,11 @@
+const v5 = new BigUint64Array(14);
+const v8 = new Float64Array(2454);
+const v11 = new Int32Array(5);
+const v12 = delete v8?.length;
+Object.defineProperty(v12, 1073741825, { configurable: true, enumerable: true, value: 1461552718 });
+let {"byteOffset":v13,...v14} = v8;
+const v17 = [v12,v8];
+const v19 = Reflect.apply(v8.findIndex, v11, v17);
+[v19];
+[Reflect,v14,v19,3,5];
+[v11,v5];

@@ -1,0 +1,51 @@
+const v0 = [];
+const v3 = new BigUint64Array(9);
+let v5 = 0;
+while (v5 < 5) {
+    v3[5] = v0;
+    v0.includes(BigUint64Array, 9, ...v0, 9, 9, BigUint64Array);
+    v5++;
+}
+new BigUint64Array(962);
+let v12 = 256;
+new Float64Array(v12);
+const v15 = [-301993934,4,-11];
+[-9007199254740991,127];
+[-536870912,419508326,25199,4096];
+v15.__proto__;
+v12 <<= 9007199254740992;
+let v30 = 536870888n;
+const v41 = [3.0];
+function f42(a43, a44) {
+    Math.acosh(a43);
+    Math.round(a43);
+    a43 ** 1073741824;
+    a43--;
+    Math.imul(1073741824, 16);
+    a43 instanceof a43;
+}
+new Promise(f42);
+[-9.980181287646149];
+Object.defineProperty(v41, -9.980181287646149, { configurable: true, get: f42, set: f42 });
+v30 /= 2331n;
+[v41];
+const v63 = new Int32Array(131);
+const v66 = new BigInt64Array(2);
+new Float64Array(3658);
+const v73 = v63 & true;
+const t35 = "d";
+t35[4] >>= 3.0;
+Float64Array & -9.980181287646149;
+v66[Symbol.replace];
+const t37 = "d";
+t37[-2] = 2.0;
+let v81 = 4.0;
+v73 ^ v73;
+--v81;
+Math.abs(v81);
+let v85 = 18731;
+const v88 = 3.0 % 4294967295;
+const v89 = ++v85;
+Math.imul(v85, v85);
+v88 - 4294967295;
+v89 >>> v88;

@@ -1,0 +1,16 @@
+const v1 = new Set();
+new BigUint64Array();
+const v9 = [0.023009903683766653,-886820.7810562394,1e-15,70987.46353803575,0.9026590262530435,-42.54200224838155,3.0,0.8793624822398076];
+const v12 = v9 < "POSITIVE_INFINITY" ? v9 : "POSITIVE_INFINITY";
+for (let v13 = 0; v13 < 5; v13++) {
+    [v13,v13,v13,v13] = v12;
+}
+[-476800.17090879055,"object",291.87166998606085,-476800.17090879055,1000000.0];
+const v16 = [BigUint64Array,"object",-476800.17090879055];
+["15",v1,v16];
+function f18() {
+    return v16;
+}
+const v19 = [1000000000000.0,-3.0,-3.524715127859674e+307,830.1453342873028,1000000000.0];
+const v21 = new BigInt64Array(BigInt64Array, BigInt64Array);
+new print(4, v19, v21);

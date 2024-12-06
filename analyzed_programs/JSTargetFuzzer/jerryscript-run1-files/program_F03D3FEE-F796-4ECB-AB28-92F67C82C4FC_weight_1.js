@@ -1,0 +1,11 @@
+const v6 = [-256,16];
+[52127,1322603342,6405];
+[268435441,-9223372036854775808,-225126111,16,-1677963310,5,-9007199254740990,-46370,2,16];
+new Float64Array(0);
+new Uint32Array(233);
+new Int8Array(1);
+typeof 273578484n === "boolean";
+v6.length;
+new Uint8Array(4096);
+new Float64Array(9);
+new Uint8ClampedArray(256);

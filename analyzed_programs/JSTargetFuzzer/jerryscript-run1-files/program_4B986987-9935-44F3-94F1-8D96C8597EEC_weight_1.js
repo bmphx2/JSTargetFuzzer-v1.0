@@ -1,0 +1,52 @@
+const v5 = new Int32Array(129);
+const v8 = new Float64Array(2);
+function* f10(a11, a12, a13, a14) {
+    return f10;
+}
+const o19 = {
+    2: 500176.281625109,
+    [-2]: -3.0,
+    "d": Float64Array,
+    "g": -3.0,
+    ...v8,
+    ...v5,
+    __proto__: v8,
+    "b": v5,
+    "h": v8,
+    [v8]: f10,
+    get b() {
+        return ("1612298008")["split"]("1612298008");
+    },
+};
+const o20 = {
+    ...o19,
+};
+const v22 = new Uint32Array(7);
+const v25 = eval(eval);
+for (const v26 of v22) {
+    v8.e = v8;
+}
+o19[v5] = 7;
+v8[f10] = o20;
+function f27(a28, a29) {
+    const o30 = {
+        ...v25,
+    };
+    return v25;
+}
+f27(eval, f27());
+new Array(128);
+const o36 = {
+    "apply": Array,
+    "call": Array,
+    "construct": f27,
+    "defineProperty": eval,
+    "deleteProperty": Array,
+    "getPrototypeOf": f27,
+    "isExtensible": f10,
+    "ownKeys": f10,
+    "preventExtensions": f10,
+    "set": Array,
+};
+new Proxy(v22, o36);
+new Date("a");

@@ -1,0 +1,20 @@
+const v1 = new WeakSet();
+Reflect.apply(([-3.9420134706840244,1000000.0,0.33415843436813053,2.2250738585072014e-308,-9.57664291846752e+307,7.5080309400479095,-836439.2043889777]).lastIndexOf, "string");
+Object.defineProperty([65537,11,-1557667693], "f", { writable: true, configurable: true, value: [-8,8,-370367215,-9223372036854775808,-31568,-1196367170] });
+("includes").matchAll("includes");
+new Uint32Array(v1);
+const v19 = new BigUint64Array(8);
+new Int8Array(512);
+[8,0,4294967297,-33048,6,1000,983207413];
+[8];
+[-13,-465622521,22703];
+let v31 = "toString";
+"number" ^ 674250.9577052628;
+const v36 = (a37, a38) => {
+    a37.sticky;
+    v31 = a38;
+    return 570009.5976097113;
+};
+570009.5976097113 / "function";
+"number" ^ 0.4059163013705742;
+v19["forEach"](v36, "forEach");

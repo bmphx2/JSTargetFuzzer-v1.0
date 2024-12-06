@@ -1,0 +1,16 @@
+[8,536870912];
+[-2147483647,536870887,55488,-8,-1,269376357,-4096,-65537];
+("1131340342").replaceAll();
+[16,65536,8341,16,13,1326673846,145983006,1738511067,2147483649,254800835];
+new Int32Array(8);
+new Int8Array(2293);
+new Int8Array(189);
+new BigInt64Array(1);
+new BigUint64Array(Int8Array);
+new Uint16Array(84);
+new Float32Array(Int32Array);
+new Uint16Array(4096);
+/n5[\xf0\x9f\x92\xa9-\xf4\x8f\xbf\xbf]/y;
+/(ab|cde)+/gyu;
+const v39 = new Uint16Array(10);
+v39[30];

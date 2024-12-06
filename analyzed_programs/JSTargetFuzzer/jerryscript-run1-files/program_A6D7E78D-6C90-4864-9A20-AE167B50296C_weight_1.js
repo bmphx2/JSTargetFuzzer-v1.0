@@ -1,0 +1,5 @@
+new Int32Array(Int32Array);
+new BigUint64Array(14);
+new Uint16Array(Int32Array);
+[-4294967296,8,-2147483648,-9007199254740992,-12326];
+"9007199254740992" || 161;

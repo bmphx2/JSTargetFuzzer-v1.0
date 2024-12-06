@@ -1,0 +1,34 @@
+let v24 = 536870888n;
+const v35 = [809707.6006965241];
+let v36 = [11,-2,-4096,268435440,5,-4294967296];
+let v37 = [2147483648,-923715900];
+let v38 = 13636;
+({"c":v38,"length":v36,...v37} = v36);
+function f39(a40, a41) {
+    a40 instanceof a40;
+}
+new Promise(f39);
+[-9.980181287646149];
+Object.defineProperty(v35, -9.980181287646149, { configurable: true, get: f39, set: f39 });
+v24 /= 2331n;
+[v35];
+const v52 = new Int32Array(131);
+const v55 = new BigInt64Array(2);
+new BigInt64Array(3658);
+const v62 = v52 & true;
+const t18 = "d";
+t18[4] >>= 809707.6006965241;
+BigInt64Array & -9.980181287646149;
+v55[Symbol.replace];
+const t20 = "d";
+t20[-2] = 2.0;
+let v70 = 4.0;
+v62 ^ v62;
+--v70;
+Math.abs(v70);
+let v74 = 18731;
+const v77 = 3.0 % 4294967295;
+const v78 = ++v74;
+Math.imul(v74, v74);
+v77 - 4294967295;
+v78 >>> v77;

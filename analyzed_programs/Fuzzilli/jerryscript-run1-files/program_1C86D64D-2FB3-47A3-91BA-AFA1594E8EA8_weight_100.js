@@ -1,0 +1,41 @@
+const v0 = [-Infinity,1000.0,0.8234623104198533,3.0,2.220446049250313e-16,-5.0,1000000000.0,-1.5569914607229247];
+const v1 = [1000000.0,NaN,-529409.517419985];
+[1000000000.0,0.0,-405.66310583217137,-1.0,1.0695674945101645e+308,-4.0,3.0,-1000000000.0,748.9127466309146,-990.4562023430625];
+const v3 = [9.056914161410933,-Infinity,8.142875028255379,Infinity,1.125699383712299e+308,-1.7976931348623157e+308,732811.3129165843,735.4390198471806,616241.4168864251,0.7815023804270262];
+[3.0,-5.0,3.0,-778.8921257288024];
+v3 ^ v3;
+try { v3.reverse(); } catch (e) {}
+v0.length;
+const o11 = {
+    "maxByteLength": 268435456,
+};
+const v13 = new ArrayBuffer(73, o11);
+let v15 = new DataView(v13);
+[-3.5876810431696597,324310.005133498];
+let v18 = Uint8ClampedArray;
+new v18(423);
+const v22 = new Int8Array(256);
+new Int8Array(10);
+let v26 = -1.0;
+--v26;
+class C28 {
+    set h(a30) {
+    }
+    get h() {
+    }
+}
+const v32 = [];
+const v33 = [v32];
+let v34 = [v32,v32];
+const t29 = "includes";
+t29[93] = v3;
+({"byteLength":v15,"byteOffset":v34,"length":v18,} = v22);
+v1.length;
+const v40 = [];
+function F41() {
+    if (!new.target) { throw 'must be called with new'; }
+    this.a = v40;
+    this.b = v40;
+    this.g = v40;
+}
+v33["includes"](v34, -600401249);

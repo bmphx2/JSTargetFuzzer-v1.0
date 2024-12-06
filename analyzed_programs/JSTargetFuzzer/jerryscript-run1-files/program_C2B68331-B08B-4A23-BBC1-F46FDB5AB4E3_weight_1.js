@@ -1,0 +1,11 @@
+[-1716260182,4294967297,9,11,-2147483648,41024,-777401228];
+[608964712,10,268435456,-12,-2,128,7,6];
+[10];
+new Int32Array(4075);
+new Int8Array(4);
+const v11 = new Uint16Array(5);
+Array(504);
+v11.toString(v11, v11, v11, v11, v11);
+new BigInt64Array(512);
+const t9 = RegExp.bind();
+t9[5] = 5;

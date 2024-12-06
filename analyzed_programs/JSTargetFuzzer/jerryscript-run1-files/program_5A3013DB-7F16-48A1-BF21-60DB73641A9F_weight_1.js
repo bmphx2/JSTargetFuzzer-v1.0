@@ -1,0 +1,10 @@
+const v2 = new Uint8ClampedArray(0);
+const v5 = new Int32Array(14);
+const v8 = new BigUint64Array(0);
+[v2,Int32Array,11];
+const v15 = [null,BigUint64Array,v5,null,v8];
+[null,Uint8ClampedArray,v15,v8,v15];
+[7,-65535,-12,-966454571,-128,-2,5,-9223372036854775808,15];
+[7,536870888,752554129,-128];
+[-14];
+new Int32Array(RegExp.bind("2147483647", [-8,4294967295,148900462]));

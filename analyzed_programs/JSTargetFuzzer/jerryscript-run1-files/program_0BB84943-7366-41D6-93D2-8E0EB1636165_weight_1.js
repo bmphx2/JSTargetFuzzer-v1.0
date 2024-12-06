@@ -1,0 +1,66 @@
+function f0() {
+    const o16 = {
+        "h": "45986",
+        p(a5, a6) {
+            new Int16Array(10);
+            new Int16Array(5);
+            new Uint8ClampedArray(-23.552933651208377);
+            return Int32Array;
+        },
+        "g": 1000000.0,
+        "c": 1000000.0,
+    };
+    return o16;
+}
+f0();
+f0();
+const v19 = f0();
+const v22 = new BigInt64Array(3600);
+new Float32Array(10);
+const v28 = new Int32Array(1940);
+const v29 = [Int32Array,BigInt64Array,v22];
+[v28];
+[3600,1940,v19,v22];
+let v33 = 44256;
+const v37 = new Uint8ClampedArray(255);
+const v40 = new Uint32Array(858);
+const v43 = new Uint16Array(7);
+function f44(a45, a46, a47, a48) {
+    const o66 = {
+        m(a50, a51, a52) {
+            v33 ^= a52;
+            [-5.0,0.6176320614789462,2.4796066441118434,1.8010887102075852,-1.0,-4.0,-3.0,1.0];
+            [-2.660624983254484e+307,4.0,-6.224343469236721e+307,-1.7976931348623157e+308,-7.781808913468946e+307,-569211.3075469795,-316.07372880244884,-847553.4946799515];
+            [169.64171117192063,-609574.235028561,-9.613757066389756,758172.407755943,1.2851649532322922e+308,-7.705740903077952e+306,5.0,323000.4456514192,-575157.0949599417];
+            Uint16Array instanceof Uint16Array;
+            return Uint16Array;
+        },
+        set f(a58) {
+            let v57 = this;
+            v43[v57] = a47;
+            try { v19.m(-4096, 7); } catch (e) {}
+            ({"a":v57,} = v57);
+            [257,536870888];
+            const v61 = [65536,9,1724,37005,-65535,-14,-14,2,4096,5];
+            -v61;
+            v61[256];
+            Object.defineProperty(v29, a58, { writable: true, enumerable: true, set: f44 });
+            let [v64] = a45;
+            v64[-2] = v37;
+            [2147483647,1163760765,58060,37249,470747050,9007199254740991,-1019824430,1,-268435456,256];
+            return a58;
+        },
+    };
+    return o66;
+}
+const v67 = f44(858, 255, 255, v33);
+const v68 = f44(-4096, 255, 858, v43);
+f44(255, 255, -4096, 255);
+v67[8] |= 7;
+for (const v70 in v40) {
+    const v72 = [Reflect,f44,255];
+    Reflect.apply(v68.m, v43, v72);
+    function f75() {
+        return f44;
+    }
+}

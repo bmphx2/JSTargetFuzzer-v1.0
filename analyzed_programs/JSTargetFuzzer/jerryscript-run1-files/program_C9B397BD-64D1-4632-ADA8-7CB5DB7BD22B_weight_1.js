@@ -1,0 +1,70 @@
+function F3(a5) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.h = -50872n;
+    this.b = a5;
+    this.e = a5;
+}
+const v6 = new F3(1514886203n, 1514886203n);
+const v7 = new F3(-50872n);
+new F3(2147483647n);
+[[1514886203n,v6,v7,-6,-6]];
+[1514886203n,F3];
+class C26 {
+}
+switch (-1458597826) {
+    case C26:
+        break;
+    default:
+        break;
+}
+function F28(a30, a31) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.d = a31;
+}
+new F28(1073741823, -4);
+new F28(-1458597826, -9223372036854775808, 0.25082203877758114);
+new F28(-9223372036854775808, -1458597826);
+new WeakSet();
+const v39 = new Uint32Array(181);
+let v41 = BigUint64Array;
+let v42 = new v41(1, v41, 2147483647n, -4);
+let v43 = 253;
+[v43,,v41,v42] = v39;
+try { v41["abs"](181, v43, v41); } catch (e) {}
+function F48() {
+    if (!new.target) { throw 'must be called with new'; }
+}
+new Number();
+function f54() {
+    return 10;
+}
+[f54,[10,10],Uint8Array];
+new F48();
+const v59 = new Set();
+v59["clear"]();
+const v63 = (a64) => {
+    return a64;
+};
+function f65(a66, a67, a68) {
+    return a68;
+}
+new Uint16Array(v43);
+new Boolean();
+for (let i82 = (() => {
+        function f77(a78, a79) {
+            return f77;
+        }
+        const o80 = {
+        };
+        return 0;
+    })();
+    i82 < 2;
+    ([2,52653,-1256362665,-234813797,1,7,3,-95777581,65537,-9223372036854775807])["indexOf"](("U")[5], 4096), i82++) {
+    const v94 = new Function("x");
+    v94.name;
+}
+[Set,Set] > Set;
+const o99 = {
+    ...v63,
+};
+Function();

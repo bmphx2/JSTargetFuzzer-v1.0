@@ -1,0 +1,103 @@
+const v1 = new Date();
+function F2(a4) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.e = a4;
+    this.h = a4;
+    this.f = a4;
+}
+const v5 = new F2(v1);
+const v6 = new F2(v5);
+const v7 = new F2(v6);
+class C11 {
+    g = v7;
+    set d(a13) {
+        const v15 = Symbol.iterator;
+        const o24 = {
+            [v15]() {
+                let v17 = 10;
+                const o23 = {
+                    next() {
+                        v17--;
+                        const v21 = v17 == 0;
+                        const o22 = {
+                            "done": v21,
+                            "value": v17,
+                        };
+                        return o22;
+                    },
+                };
+                return o23;
+            },
+        };
+    }
+}
+new C11();
+new C11();
+new C11();
+const v32 = new Map();
+function f34() {
+    return f34;
+}
+f34 &= f34;
+for (let v35 = 0; v35 < 25; v35++) {
+    const t42 = 523;
+    t42["p" + v35] = v35;
+}
+const v39 = new Uint16Array(523);
+new Uint8ClampedArray(197);
+new Float32Array(5);
+v32.size;
+new Uint8Array(8);
+new Uint8ClampedArray(1024);
+let v58 = new Uint16Array(239);
+let v60 = 44256;
+const v64 = new Uint8ClampedArray(255);
+const v67 = new Uint32Array(858);
+const v70 = new Uint16Array(7);
+function f71(a72, a73, a74, a75) {
+    for (let i78 = 0, i79 = 10; i78 < i79; i78++, i79--) {
+        [0.342278422626182];
+        [0.8942963082519859,-904364.6886423089,-909.5766504631073,1000000000.0,2.2250738585072014e-308,-21219.590454767807,0.32217532431361673,2.0];
+        [1.0,0.1323375954903766];
+    }
+    const o112 = {
+        m(a91, a92, a93) {
+            v60 ^= a93;
+            [-5.0,0.6176320614789462,2.4796066441118434,1.8010887102075852,-1.0,-4.0,-3.0,1.0];
+            [-2.660624983254484e+307,4.0,-6.224343469236721e+307,-1.7976931348623157e+308,-7.781808913468946e+307,-569211.3075469795,-316.07372880244884,-847553.4946799515];
+            [169.64171117192063,-609574.235028561,-9.613757066389756,758172.407755943,1.2851649532322922e+308,-7.705740903077952e+306,5.0,323000.4456514192,-575157.0949599417];
+            super.e = Uint16Array;
+            [1355297802,6,6,2147483648,-37359,-1105049582,65535,-256,6317];
+            [4];
+            [14,-4294967295,64,6,1000];
+            v58 = v39;
+            this instanceof Uint16Array;
+            return Uint16Array;
+        },
+        set f(a102) {
+            v70[this] = a74;
+            let v103;
+            try { v103 = this.m(-4096, 0); } catch (e) {}
+            ({"a":v103,} = this);
+            [257,536870888];
+            [65536,9,1724,37005,-65535,-14,-14,2,4096,5];
+            ("reverse").matchAll(Date.__proto__);
+            const t81 = 35386;
+            t81();
+            [2147483647,1163760765,58060,37249,470747050,9007199254740991,-1019824430,1,-268435456,256];
+            return a102;
+        },
+    };
+    return o112;
+}
+const v113 = f71(858, 255, Uint8Array, v60);
+const v114 = f71(-4096, 255, 858, v70);
+f71(255, 255, -4096, 255);
+v113[8] |= 7;
+for (const v116 in v67) {
+    const v118 = [v116,f71,255];
+    Reflect.apply(v114.m, v70, v118);
+    function f121() {
+        return v64;
+    }
+}

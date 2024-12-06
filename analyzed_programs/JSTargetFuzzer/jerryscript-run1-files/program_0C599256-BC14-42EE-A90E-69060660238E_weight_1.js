@@ -1,0 +1,11 @@
+const v2 = new Int8Array(512);
+new Int32Array(3243);
+new Int8Array(...v2, 512, Int8Array, Int32Array);
+new Int32Array(8);
+new Float64Array(129);
+new BigUint64Array(127);
+const v18 = new Int8Array(7);
+c = BigUint64Array;
+v18["-256"];
+const v26 = [];
+Reflect.apply(v26.pop, v26);

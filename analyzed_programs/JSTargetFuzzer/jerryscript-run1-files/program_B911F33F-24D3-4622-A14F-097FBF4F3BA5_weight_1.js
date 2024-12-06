@@ -1,0 +1,12 @@
+const v2 = new BigInt64Array(1024);
+const v5 = new Uint8Array(1024);
+new Float64Array(3095);
+new Uint8Array(9);
+const v19 = new Map();
+delete v2[-1];
+new Uint8Array(3365);
+v19[Symbol.match] = -14;
+v5["values"]();
+new Float32Array(8);
+const v36 = new Map();
+v36.keys();

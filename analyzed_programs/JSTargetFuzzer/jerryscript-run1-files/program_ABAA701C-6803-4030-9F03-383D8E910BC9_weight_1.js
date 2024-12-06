@@ -1,0 +1,24 @@
+[14,-5,8,-4294967295,-9007199254740990];
+[-10];
+[10000,1073741825,-1717948875];
+new Int16Array(1000);
+new BigInt64Array(127);
+const v12 = new Uint16Array(256);
+new Int32Array(4054);
+new Int16Array(4016);
+new BigInt64Array(13);
+const v23 = new Int16Array(1771);
+new Uint8Array(4096);
+new Float32Array(218);
+const v30 = [2.220446049250313e-16,-1.7976931348623157e+308,-3.4833326659982795,-1000000000000.0,0.0,2.220446049250313e-16,-4.191721618721404,1.4104645033139904e+308];
+async function f32(a33, a34, a35) {
+    new Int32Array(a33);
+    return f32;
+}
+v23[4] **= 256;
+let v39;
+try { v39 = v12.keys(); } catch (e) {}
+for (let v40 = 0; v40 < 32; v40++) {
+    v39["p" + v40] = v40;
+}
+v30.copyWithin(4, 4);

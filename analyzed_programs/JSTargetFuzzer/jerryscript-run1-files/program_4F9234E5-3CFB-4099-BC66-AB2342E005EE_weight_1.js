@@ -1,0 +1,87 @@
+function f0() {
+}
+const v5 = new BigInt64Array();
+v5.keys();
+new Float32Array(3);
+new Int8Array(3322);
+new Uint16Array(1000);
+new Uint16Array(1000);
+const v21 = new BigUint64Array(9);
+new BigInt64Array(127);
+const v25 = [9];
+[v21,v25];
+[Uint16Array,127];
+const v29 = new Map();
+function F36(a38, a39) {
+    if (!new.target) { throw 'must be called with new'; }
+    v25.b = a39;
+    this.a = 13;
+    this.f = a38;
+}
+let v40 = new F36(536870912, -37768);
+new F36(536870912, 13);
+const v42 = new F36(-37768, 536870912);
+255 + -37768;
+const v46 = new BigInt64Array(20);
+new BigInt64Array(256);
+new Uint32Array(1024);
+v40 = v42;
+let v53;
+try {
+const t0 = -574757824;
+v53 = t0(255, F36, -579245951, v29, Map);
+} catch (e) {}
+try { v53(v29, v29, Map, 255); } catch (e) {}
+v42[268435441] = v40;
+try { v42.o(v42); } catch (e) {}
+const v58 = [-3.9420134706840244,1000000.0,0.33415843436813053,2.2250738585072014e-308,-9.57664291846752e+307,7.5080309400479095,-836439.2043889777];
+v58.lastIndexOf;
+new Set([5.0]);
+const v63 = new Uint32Array(181);
+let v65 = BigUint64Array;
+let v66 = new v65(1);
+let v67 = 253;
+[v67,,v65,v66] = v63;
+function* f70(a71, a72) {
+    const o73 = {
+    };
+    268435439n ** o73;
+    return a72;
+}
+let v75;
+try { v75 = v65["abs"](181, v67, v65); } catch (e) {}
+new Uint16Array(v67);
+let v81 = "2147483648";
+for (let i86 = 0;
+    (() => {
+        v81 = "x";
+        let v87 = v58[v67];
+        v81[i86];
+        v81.length;
+        v87 %= f70;
+        const v91 = i86 < 2;
+        Array(512)[2];
+        [Float32Array,1142439131];
+        const o99 = {
+            ...f70,
+            226: -579245951,
+        };
+        return v91;
+    })();
+    i86++) {
+    let v103 = new Function("x");
+    v103[8] = i86;
+    let v104;
+    try { v104 = v103.bind(v42); } catch (e) {}
+    v104--;
+    v103 >>>= v103;
+    v46[-574757824];
+    v103.name;
+}
+[v75];
+const v110 = [977677784,-4230];
+function f111(a112, a113, a114) {
+    return a113;
+}
+v110.reduceRight(f111);
+Function();

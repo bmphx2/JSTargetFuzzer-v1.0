@@ -1,0 +1,10 @@
+new Uint8Array();
+const v8 = Function();
+let v9 = -2n;
+v9++;
+new BigInt64Array(64);
+new Uint8ClampedArray(6);
+new Uint16Array(1);
+new Int8Array([]);
+"1073741823" > "wGb";
+v8 > "451";

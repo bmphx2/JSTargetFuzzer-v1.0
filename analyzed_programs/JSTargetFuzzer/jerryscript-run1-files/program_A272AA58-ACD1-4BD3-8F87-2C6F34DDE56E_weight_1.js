@@ -1,0 +1,11 @@
+const v3 = [512,61003,-39090,-6508133,5,-555125269,512];
+const v5 = -9223372036854775807n != -57380n;
+const v7 = new Uint16Array(Uint16Array, Uint16Array, Uint16Array);
+const v9 = new Float32Array(v7, v7, v7);
+v9.copyWithin(197, v7.length);
+v3 == v5;
+[127,1000];
+[19046];
+[16];
+const v22 = new Uint32Array(Uint32Array);
+v22 == v22;

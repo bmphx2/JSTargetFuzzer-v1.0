@@ -1,0 +1,12 @@
+const v9 = [1.0,662232.1264028104];
+[-9.373894421691177e+307,-5.082185487478126,-2.2250738585072014e-308,-883536.9197996011,5.0,487293.18439085153];
+const v11 = [-Infinity,2.0];
+new Uint8ClampedArray(1024);
+new Uint8Array(0);
+new Int16Array(250);
+const v21 = 16n;
+v11[7] = 10000n;
+Object.defineProperty(v11, "unicode", { enumerable: true, value: 11348 });
+const v28 = +v9;
+-9223372036854775807;
+Math.cbrt(v28 + 12);

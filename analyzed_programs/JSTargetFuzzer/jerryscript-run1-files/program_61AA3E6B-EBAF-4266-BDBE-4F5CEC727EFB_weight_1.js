@@ -1,0 +1,20 @@
+let v2 = new Float64Array(512);
+let v3 = 10;
+const v5 = new Int8Array(v3);
+new Uint32Array(1);
+v2 <<= 268435439;
+new WeakSet();
+const v24 = new BigInt64Array(64);
+const v26 = new Float32Array();
+v24.indexOf(v26);
+[9007199254740991n,9007199254740991n,64n,64n,-2n];
+new Map();
+let v37;
+try { v37 = v2(); } catch (e) {}
+let v38 = 1000;
+v38 >> v38;
+v3 %= v37;
+const v41 = v38[-1073741824];
+Map !== BigInt64Array ? Map : v41;
++v5;
+v38++;

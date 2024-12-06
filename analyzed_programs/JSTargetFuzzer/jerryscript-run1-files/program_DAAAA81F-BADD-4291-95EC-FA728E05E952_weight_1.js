@@ -1,0 +1,11 @@
+[];
+let v4 = undefined;
+v4 = "symbol";
+-65537n | 268435439n;
+new Uint16Array(1);
+new BigUint64Array(255);
+new Int16Array(1993);
+[Reflect,Reflect,Reflect];
+(-9007199254740990).toString(-9007199254740990);
+/a|bc+/y.exec();
+Reflect.preventExtensions(([Reflect,Reflect,Reflect]).findIndex);

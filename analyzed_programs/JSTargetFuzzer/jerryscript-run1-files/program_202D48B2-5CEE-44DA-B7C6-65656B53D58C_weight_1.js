@@ -1,0 +1,10 @@
+new BigUint64Array(200);
+let v15 = 8n;
+v15 |= -4294967296n;
+v15 %= v15;
+new Float32Array(9);
+new Uint8Array(512);
+new Float32Array(2031);
+("p")["split"]();
+new Uint8ClampedArray([16,-36818,14,256]);
+-4294967297n < -4294967297n;

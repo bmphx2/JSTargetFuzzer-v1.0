@@ -1,0 +1,5 @@
+const v2 = new Uint16Array(9);
+const v5 = new Uint16Array(217);
+new Int16Array(217, Int16Array, v2, v5);
+const t3 = [217];
+t3[-2] **= 128;

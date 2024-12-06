@@ -1,0 +1,22 @@
+const v1 = new WeakMap();
+let v6 = -5;
+const v7 = (a8, a9, a10) => {
+    a9[10000] = a9;
+    a8 instanceof WeakMap;
+    const v13 = [v1];
+    const v14 = v1.delete;
+    Reflect.apply(v14, a9, v13);
+    return v14;
+};
+const v19 = `function`;
+const v23 = v1[14];
+new Int8Array(255);
+new Uint32Array(3764);
+new Int32Array(104);
+v6 = 6;
+Math.expm1(v23);
++v19;
+Math.asinh(v23);
+v19 - 86455763;
+const v38 = new Float32Array();
+v38.reverse();

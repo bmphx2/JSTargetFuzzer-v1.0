@@ -1,0 +1,13 @@
+const v2 = new BigInt64Array(210);
+new Uint16Array(257);
+const v8 = new Float32Array(256);
+const v13 = new WeakMap();
+v13.c = v2;
+const v14 = [Uint16Array];
+const v15 = [v13,256,Float32Array,v14,v14];
+const v16 = [-17471,3,v8,6,v8];
+v16 < 210 ? v16 : 210;
+[v16];
+const v20 = [-17471,6,-17471];
+[v20,-17471];
+v20[Uint16Array] = v15;

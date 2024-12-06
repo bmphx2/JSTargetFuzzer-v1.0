@@ -1,0 +1,271 @@
+-Infinity;
+[13252,-13390,2135127942];
+[536870888,-1020024974,-43151];
+[4294967295,18293,32140,11,256,-7,-1,-9007199254740991];
+new WeakMap();
+new Date();
+[[-4294967297n,129n],-4294967297n,-4294967297n];
+[129n,129n,129n];
+const v46 = ("by")["startsWith"]();
+let v48 = 7;
+const v50 = Math.tanh(v48--);
+let v51 = 3.6179492290976807;
+const v56 = new Int16Array(16);
+("by").__proto__;
+const o93 = {
+    0: -7750,
+    "h": "UA",
+    __proto__: "UA",
+    2136: v51,
+    ["UA"](a66, a67) {
+        a67[879] = v51;
+        new Uint8ClampedArray(1024);
+        return arguments;
+        let v75 = 459899416;
+        const v77 = ++v75;
+        Math.atan2(((v77 * 7) ** v77) << 51733, v75);
+        const v84 = new Uint8ClampedArray(v56);
+        function f85(a86, a87) {
+            const o88 = {
+                "value": a66,
+                "d": -1000.0,
+                [-14]: -1879208815,
+                [v46]: -7,
+                "preventExtensions": f85,
+            };
+            new Proxy(v84, o88);
+            return Date;
+        }
+        return v51;
+    },
+};
+new Int16Array(9);
+const v98 = new Int32Array(1649);
+new Int32Array(60);
+function F102() {
+    if (!new.target) { throw 'must be called with new'; }
+    this.d = -1024;
+}
+const v105 = new F102();
+let v106 = new F102();
+const v107 = new F102();
+const v108 = [1000000000000.0,5.018365680859416,-2.220446049250313e-16,0.1397659854852641,1.102655574563632e+308];
+[-843313.0512283593,1000000000000.0,1000000.0,-1e-15,0.25106017319849394,-1.172054141060693e+308,0.44405835626921397,867.19541661986,5.0];
+let v110 = [1e-15,-2.220446049250313e-16];
+const v111 = [257,2063538484,-4096];
+const v112 = [-44432,9007199254740990,-536870912,15,5];
+const v113 = [32898,1646083475];
+class C114 extends F102 {
+    constructor(a116, a117) {
+        super();
+        super.h = v111;
+        for (let [v118] of "cause") {
+            function F119(a121, a122, a123) {
+                if (!new.target) { throw 'must be called with new'; }
+                this.f = -305.40312545727136;
+                this.a = 0.0;
+                this.b = -4294967297n;
+            }
+            new F119(v105, v118, "UA");
+            new F119(v105, 9, "UA");
+            new F119(C114, 60, "UA");
+        }
+        v112 ^ v108;
+        let v129 = 9;
+        v129--;
+        const v132 = v106--;
+        Math.log2(v132);
+        !v129;
+        Math.exp(v132);
+        function f137() {
+            const o146 = {
+                __proto__: "255",
+                valueOf(a142) {
+                    [[a142,"-4294967295","255"],0.881031620591479,a142];
+                    ["255"];
+                    return this;
+                },
+                "f": "255",
+                [0.881031620591479]: 0.881031620591479,
+                "e": 4096,
+                "d": 0.881031620591479,
+            };
+            return o146;
+        }
+        const v147 = f137();
+        function F148(a150) {
+            if (!new.target) { throw 'must be called with new'; }
+            this.b = a150;
+            this.c = a150;
+            this.e = o93;
+        }
+        new F148(v147);
+    }
+}
+const v152 = new C114(v105, C114);
+new C114(v152, F102);
+new C114(v113, v110);
+const v159 = new WeakMap();
+const v164 = -Infinity;
+const v166 = [-431586.26962163905,2.220446049250313e-16,-0.0];
+let v167 = [-2.2250738585072014e-308,-1000000000.0,1000000000000.0];
+for (let v168 = 0; v168 < 82; v168++) {
+    const v170 = [[]];
+    new Float32Array(8);
+    const v175 = [];
+    const v178 = new Uint8ClampedArray(0);
+    [v175,v175];
+    const v183 = ["number",v170,"16",v170];
+    [v183,v183];
+    const v186 = new Uint8Array(199);
+    let v187 = 1445;
+    const v189 = new Uint8ClampedArray(v187);
+    let v190 = 16773;
+    v189.copyWithin(199, ...v175, 16, v187);
+    const v196 = -Infinity;
+    v190 ^= 607782562;
+    v186.buffer ^= v196;
+    try { v178.includes(...v187, ...v178, Uint8ClampedArray, 0); } catch (e) {}
+    v187--;
+    const v203 = ~v112;
+    Math.log(1.0);
+    Math.sin(v196);
+    Math.abs(6);
+    1.0 || (v203 >>> -2.2250738585072014e-308);
+    1.0 >> 6;
+}
+const v210 = [1000000000000.0,-961047.0635376733,-1.7976931348623157e+308,1000000000.0,0.056965258621444526,-1000000000000.0,-1.0,-891488.4613370533,9.859589664283444,-7.699174920638252];
+function f211(a212) {
+    const o232 = {
+        __proto__: a212,
+        "b": a212,
+        get h() {
+            for (let v214 = 0; v214 < 69; v214++) {
+                typeof -1000.0 === "bigint";
+            }
+            let v220;
+            try {
+            const t0 = -1000.0;
+            v220 = t0(-1000.0, -7.668565286617985, -7.668565286617985);
+            } catch (e) {}
+            if (-1000.0 == 127) {
+                const o222 = {
+                };
+                new Proxy(v220, o222);
+            } else {
+                v167 = -7.668565286617985;
+                v220 = 127;
+            }
+            let v225;
+            try { v225 = new this(...a212, this, ...v210); } catch (e) {}
+            let v227 = 7;
+            const v229 = v227--;
+            v210 >>> -3.0;
+            Math.tanh(v229);
+            return v225;
+        },
+    };
+    return o232;
+}
+const v233 = f211(v210);
+const v234 = f211(v210);
+const v235 = f211(v166);
+try {
+    v98[255] = f211;
+    v234[v233] /= -47719;
+} finally {
+}
+function f237(a238, a239) {
+    const o308 = {
+        [v159]: WeakMap,
+        get b() {
+            -0;
+            const v245 = new Array(16);
+            function f246(a247, a248) {
+                const o261 = {
+                    set d(a250) {
+                        Array.__proto__;
+                        return;
+                        new Uint16Array(1133);
+                        new BigUint64Array(127);
+                        new Uint8Array(97);
+                    },
+                    ...Array,
+                };
+                return o261;
+            }
+            f246(v245, f246(Array, 16));
+            for (let v264 = 0; v264 < 96; v264++) {
+                v210[v264] = v107;
+                v51 = -2.2250738585072014e-308;
+                try {
+                    super.getOwnPropertyDescriptor(f246, 1073741824n, -1e-15);
+                } catch(e266) {
+                }
+                try { new a238(v235, this, a239); } catch (e) {}
+            }
+            v110 = v113;
+            return d;
+        },
+        5: a238,
+        p(a270, a271, a272) {
+            const v273 = [-5.093730106572396,3.0,-Infinity];
+            v273[v273] -= a239;
+            try {
+                super.toDateString();
+            } catch(e278) {
+            }
+            [4.021741330722342,0.0,-473.36324739792883,1.0,Infinity];
+            const v280 = [2.2250738585072014e-308,-4.0,-748000.8153263105];
+            [v280,v280,v280];
+            const v282 = [-Infinity,0.8553041317460768,-0.0,1.0,0.5832286600795054];
+            const v284 = new Uint32Array(v282, v282);
+            v284.byteLength;
+            try { v280.indexOf(a271, a238); } catch (e) {}
+            v280 - a239;
+            0.9238740422905343 % a272;
+            return a270;
+        },
+        [a238]: a238,
+        [a238]() {
+            let v290 = 10;
+            const o302 = {
+                next() {
+                    let v292 = [-3.0,0.7056692444614995,3.6762675703451926,-1.2565444746052583e+308,2.2250738585072014e-308,-3.2533335470972036,-0.9362349056358674];
+                    v292 = v290;
+                    const v293 = [81174.60234087845,0.938483980008981,9.428495501531554,-8.351662644616022,-5.0];
+                    v293.d = v233;
+                    function f295(a296, a297) {
+                        v292[1073741825];
+                        return v293;
+                    }
+                    v290--;
+                    v290 == 0;
+                    return a239;
+                },
+            };
+        },
+        "g": 274393.77723319014,
+        "c": v164,
+        "a": v234,
+        __proto__: a239,
+        get d() {
+            const v304 = !this;
+            super.f = v304;
+            return v304;
+        },
+        ...v50,
+        "done": v46,
+        get f() {
+            try { this["o"]("o", "o", v110, a239, "o"); } catch (e) {}
+            return this;
+        },
+        [128n]: v233,
+    };
+    return o308;
+}
+f237(v164, -2.2250738585072014e-308);
+f237(v164, 2.2250738585072014e-308);
+f237(2.2250738585072014e-308, 2.2250738585072014e-308);
+let v312 = 1073741825n;
+v312 += -2n;

@@ -1,0 +1,16 @@
+let v0 = 755;
+const v2 = new Uint32Array(v0);
+const v5 = new Int32Array(3263);
+const v8 = new Int32Array(112);
+const v9 = [Uint32Array,v8,v8,v2,v8];
+const v10 = [v9,Int32Array,v2,v9];
+const v11 = [v8,v10,3263];
+v10[10];
+const v14 = Symbol.iterator;
+v11[v14] = v14;
+v8["reverse"](..."reverse", ...v10, ...v2, ...v2, ...v5);
+v0--;
+"reverse" in v5;
+new BigUint64Array(512);
+new Int16Array(2276);
+new Int8Array(3496);

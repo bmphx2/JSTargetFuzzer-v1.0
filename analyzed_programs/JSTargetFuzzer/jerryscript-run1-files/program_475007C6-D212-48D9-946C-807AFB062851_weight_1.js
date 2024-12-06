@@ -1,0 +1,5 @@
+new Uint8ClampedArray(2, Uint8ClampedArray);
+new BigUint64Array(3, BigUint64Array, BigUint64Array, 2);
+new Uint32Array(4096);
+new Float64Array();
+([-1178371228,-468322201,-4096,-268435456,-268435456,-3,-9007199254740991]).unshift([-9223372036854775808,-1073741824,-45320,1073741824,18825672,0,268435456,5]);

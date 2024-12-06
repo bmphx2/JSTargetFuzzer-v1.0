@@ -1,0 +1,14 @@
+new Float64Array(128);
+new Int32Array(5);
+new BigInt64Array(138);
+[];
+const v24 = new Uint8Array(129);
+print();
+const v31 = (-12n).toString();
+Array(4 == [4,7,4294967297,-1,1000], -183.02208821764236, Uint8ClampedArray, ..."BHg", v31, Float32Array);
+Math.cosh();
+Math.sinh();
+Promise.resolve(Promise);
+Number["isFinite"](-10);
+v24 >>> v24;
+Math.asin();

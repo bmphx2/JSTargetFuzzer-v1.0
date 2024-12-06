@@ -1,0 +1,27 @@
+function F0() {
+    if (!new.target) { throw 'must be called with new'; }
+    this.c = 4096;
+    this.g = 4096;
+    this.d = 4096;
+}
+new F0();
+const v4 = new F0();
+new F0();
+for (const v6 in v4) {
+    new Float32Array(155);
+    new Uint8ClampedArray(1000);
+    new Uint32Array(8);
+}
+class C17 extends F0 {
+    static 4;
+}
+new C17();
+new C17();
+new C17();
+new Int16Array(0);
+new Uint32Array(4096);
+new BigInt64Array(107);
+try {
+const t0 = 65535;
+new t0(65535, 65535);
+} catch (e) {}

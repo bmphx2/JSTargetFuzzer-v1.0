@@ -1,0 +1,21 @@
+let v6 = -16n;
+v6 <<= -49350n;
+new Set([2.0,6.705506652940849e+307,-Infinity,-9.445174691624212,-0.0]);
+[2894003,-4294967297,-1666567450,2,4294967295,-1646880416,364551904,-10];
+[10,1000,7,-3,-65537,9,71054753];
+[0,-1,9,-9223372036854775807,-14,1073741824];
+new Float32Array(1024);
+new Uint32Array(14);
+const v22 = [,,,,];
+const v24 = new Uint32Array(v22, Uint32Array, Uint32Array);
+Object.defineProperty(v24, undefined, { writable: true, value: v22 });
+new Int16Array(4096);
+new Int16Array(7);
+const v32 = new Int8Array(Int8Array, BigUint64Array);
+const v34 = new BigUint64Array(64);
+let v35 = 2.2250738585072014e-308;
+h = v35;
+let v37 = 434742601;
+v32.length = -13;
+[v37,...v35] = v34;
+try { v35(); } catch (e) {}

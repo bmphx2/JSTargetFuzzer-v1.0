@@ -1,0 +1,40 @@
+let v1 = Uint8Array;
+new v1(512);
+let v3 = 2957;
+const v5 = new Int16Array(v3);
+new Float64Array(10);
+let v9 = 71;
+let v10 = Int8Array;
+const v11 = new v10(v9);
+v5[2] -= 8;
+10 - Float64Array;
+const v15 = v11[1000];
+({"buffer":v1,"byteOffset":v10,"length":v9,...v3} = v5);
+new Int8Array(8);
+new Float32Array(1000);
+eval(v15);
+new Uint32Array(1000);
+new Int16Array(1);
+new Uint8ClampedArray(16);
+new WeakSet();
+const v47 = new URIError(512);
+const v50 = new Int16Array(447);
+new Uint32Array(2438);
+function f57() {
+}
+v47.description <<= 2006448021;
+const v65 = [2.220446049250313e-16,-1.7976931348623157e+308,-3.4833326659982795,-1000000000000.0,0.0,2.220446049250313e-16,-4.191721618721404,1.4104645033139904e+308];
+("1073741824").match(v65.copyWithin(v65, v65));
+new Uint8Array(0);
+let v76 = RegExp.bind("2147483647", [-8,4294967295,148900462]);
+const v78 = new BigUint64Array(127);
+v76 /= v78;
+new WeakSet();
+new BigInt64Array(2, -14, v50);
+const v93 = [5];
+const v94 = (a95, a96) => {
+    const t35 = "v";
+    t35.length = 10;
+    return !2;
+};
+v93.reverse();

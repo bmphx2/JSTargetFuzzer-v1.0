@@ -1,0 +1,13 @@
+[-536870912,64,-16867,37269,512];
+[1,129,49980,-27694,10];
+[29453,5455,-9223372036854775808,-14390,1000,255,5,128];
+const v5 = new Uint8ClampedArray(1000);
+let v7 = BigInt64Array;
+new v7(5);
+new Float64Array(512);
+let {"byteOffset":v12,"d":v13,...v14} = v5;
+v7 ^= v13;
+const v19 = [-9007199254740991,54726,1717830925,31978,16,4294967297,-28128,-15,-806491297,127];
+Object.defineProperty(v19, 256, { writable: true, configurable: true, enumerable: true, value: [0.6476119767844933,-2.0] });
+v19.copyWithin(6);
+-1219928860n <= [9,-1,5];

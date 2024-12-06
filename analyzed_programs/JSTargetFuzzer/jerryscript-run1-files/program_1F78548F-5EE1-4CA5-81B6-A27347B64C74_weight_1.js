@@ -1,0 +1,13 @@
+new BigUint64Array(8);
+new Int8Array(16);
+new Float64Array(24);
+new Float32Array(257);
+new Uint8Array(128);
+new Uint8Array(9);
+new BigInt64Array(1);
+new BigUint64Array(16);
+new Uint16Array(84);
+new Float32Array(4096);
+new Uint16Array(4096);
+const v38 = new Number(10);
+v38[30];

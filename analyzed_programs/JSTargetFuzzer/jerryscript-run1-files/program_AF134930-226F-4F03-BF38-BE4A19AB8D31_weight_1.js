@@ -1,0 +1,18 @@
+new Array(1024);
+const v7 = [1283411367,56259,127,-9,65537];
+const v8 = [-1932935355,-13,1198130177,129];
+[536870887,-4294967295,420354151,9007199254740991,-650379905,5];
+Object.defineProperty(Array, -2147483649, { configurable: true, enumerable: true, value: -1024 });
+d = v7;
+let v15 = 16;
+let v16 = v15--;
+-v16;
+v16++;
+const v21 = new Int16Array();
+let [,,...v22] = v21;
+const v26 = -49726 ^ 4294967296;
+Math.atan(-49726);
+const v28 = v26 / v8;
+const v29 = v28 * v26;
+Math.pow(v26 ** v28, v28);
+Math.log10(v29);

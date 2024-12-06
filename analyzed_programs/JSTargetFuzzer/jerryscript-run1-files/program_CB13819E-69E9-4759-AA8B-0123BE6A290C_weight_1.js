@@ -1,0 +1,16 @@
+const v5 = new Int16Array(4095);
+new Uint16Array(8);
+v5[1];
+let v11 = 1024;
+let v13 = 4095 - 4095;
+const v14 = ++v13;
+Math.tan(4095);
+v11++;
+Math.atanh(4095);
+Math.acosh(v13);
+v14 && v14;
+new Float32Array(8);
+new BigInt64Array(161);
+new Int16Array(3);
+new Int8Array(1710);
+47553950n ^ 36564n;

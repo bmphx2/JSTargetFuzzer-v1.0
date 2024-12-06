@@ -1,0 +1,33 @@
+let v0 = 268435440;
+new Float64Array(10);
+let v14 = new Int32Array(69);
+const v17 = new Int32Array(3);
+function f18() {
+}
+new Uint8ClampedArray(16);
+new BigInt64Array(512);
+new Int32Array(274);
+const v29 = delete v17[274];
+274 | 10;
+v0 *= 10000;
+v17.valueOf = f18;
+new Int32Array(8);
+new BigUint64Array(2);
+new Uint32Array(3);
+new Uint8Array(0);
+const v51 = [-8,4294967295,148900462];
+[13,-4294967296,1073741823,-19957,1073741824,-16974];
+[1046,-48704,2147483647,-1308,546612216,-10,9];
+[10,4294967297,13,7,-65537,9007199254740990];
+let v57 = 1.7976931348623157e+308;
+v57 - v57;
+127 / 7;
+Math.atan2(v14--, v29);
+let v62 = v57++;
+--v62;
+let v64 = RegExp.bind("2147483647", v51);
+const v66 = new Int32Array(127);
+v64 /= v66;
+new WeakSet();
+new BigInt64Array(2);
+([5]).reverse();

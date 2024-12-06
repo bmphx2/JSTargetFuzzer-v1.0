@@ -1,0 +1,11 @@
+new Float32Array(2);
+new BigUint64Array(6);
+new BigUint64Array(512);
+const v13 = 4294967295;
+new Float32Array(3339);
+new Uint16Array(117);
+new Uint32Array(2424);
+new RegExp(255);
+new RangeError(127);
+new Number(268435439);
+Math.round(0);

@@ -1,0 +1,32 @@
+const v3 = new BigInt64Array(6);
+const v6 = new Uint32Array(3);
+const v10 = [BigInt64Array,BigInt64Array,BigInt64Array];
+delete v10[[BigInt64Array]];
+const v13 = new Int16Array(128);
+new Map();
+const v19 = 3 instanceof BigInt64Array;
+[null,128,"-2042046086",v6,v6];
+const v21 = [v10,v3];
+const v22 = [Map,null,v21];
+const o23 = {
+};
+let v25 = new Proxy(v21, o23);
+const v30 = new WeakMap();
+new Int16Array(v22, 1073741825, 128);
+const v47 = new BigUint64Array(3);
+const t16 = "string";
+t16.toString = v19;
+v25 = v13;
+(["string","string","string","string"]).length >= "string";
+new Uint32Array(2);
+const v60 = new Uint16Array(255);
+try { new BigUint64Array(...v60, BigUint64Array, ...undefined, "bigint", ...v30); } catch (e) {}
+[-6,-1024,5];
+[-2147483647,268435456,-15,-2147483648,-9223372036854775807,105026840];
+[-485646260,536870889,287975270,128,679329586,268435441,-4294967295,-68651252,1];
+Math.acos(v47);
+Math.acos(-8);
+Math.log10(-8);
+Math.trunc(-8);
+-8 - -8;
+Math.cos(-8);

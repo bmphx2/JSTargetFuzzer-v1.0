@@ -1,0 +1,5 @@
+new Float64Array(64);
+new Uint32Array(2555);
+new Uint16Array(64);
+([922012284,1073741825,-4294967297,2,536870887,9007199254740990,1068705776,-328380159]).length;
+Number["isSafeInteger"](Number);

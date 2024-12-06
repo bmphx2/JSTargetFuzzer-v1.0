@@ -1,0 +1,55 @@
+const v0 = [];
+const v1 = [v0,v0,v0];
+[v0,v1,[v1,v0,v1]];
+[-7,13,-29311,129,2147483648,-10,268435441];
+[5,268435441,1073741824,1,11485,2,10000,-4294967297];
+[397532481,-2147483649,4,-6040,-15,-4294967297,536870887,536870888];
+[128,-16];
+[12,0,-22494,-32078,30761,1073741825,-47552,-2147483648,-3,16];
+[8,-27559,1869522137,6,-9671,61010];
+new Date();
+function F27() {
+    if (!new.target) { throw 'must be called with new'; }
+    F27.prototype = 1433387171;
+}
+const v30 = new F27();
+new F27();
+new F27();
+function f34() {
+    const v37 = new Uint32Array(858);
+    return v37;
+}
+function f40() {
+    return v30;
+}
+const v43 = new BigUint64Array(BigUint64Array, BigUint64Array);
+v43.copyWithin();
+const v47 = RegExp.bind(2);
+Math.fround();
+Math.min(NaN);
+let v53 = 1073741824n;
+v53 &= v53;
+try { Float32Array(); } catch (e) {}
+(-12n).toString();
+([2036046200,-9223372036854775807,-61646])["map"](Array);
+new Float64Array(16);
+class C67 {
+}
+const v69 = new v47(1);
+const v72 = new Int8Array(107);
+for (let i75 = 0, i76 = 10; i75 < i76;) {
+    v72[v69] = i75;
+    ([2036046200,-9223372036854775807,-61646])["map"](parseInt);
+    ++i75;
+    Math.max(7);
+}
+new Int16Array(26);
+4 == [4,7,4294967297,-1,1000];
+const v96 = new Int8Array(Int8Array, Int8Array, Int8Array);
+v96.includes(v96, v96);
+new Uint8ClampedArray(6);
+try {
+    new WeakSet(-13n);
+} catch(e103) {
+} finally {
+}

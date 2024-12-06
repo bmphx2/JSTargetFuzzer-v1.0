@@ -1,0 +1,18 @@
+("772983086").substring();
+new Int32Array(6);
+([])["concat"]();
+const v14 = new Uint8Array();
+(["9",Uint8Array,v14])[2258];
+new BigUint64Array(0);
+new Uint8ClampedArray(1);
+new Map();
+1533296426 > 2023143923n;
+-39649 / -39649;
+14 != 4294967297n;
+const t8 = [2.2250738585072014e-308,-6.675879358569281,502.7171285795314,0.9539132989379491];
+t8.length %= [Infinity];
+new Set();
+const v40 = new Map();
+v40["set"]();
+Symbol(127);
+Symbol.for();

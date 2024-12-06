@@ -1,0 +1,32 @@
+new Uint16Array(7);
+new Uint8ClampedArray(2169);
+new BigInt64Array(8);
+new Uint8ClampedArray(8);
+let v15 = 6;
+new BigInt64Array(v15);
+new Int32Array(3);
+const v23 = new Float64Array(Float64Array);
+new Uint32Array(1935);
+new Uint8ClampedArray(1531);
+const o31 = {
+    ..."getOwnPropertySymbols",
+};
+[16309,4,-2];
+const t13 = 8;
+const v34 = delete t13[65535];
+Object.defineProperty(o31, 5, { writable: true, configurable: true, enumerable: true, value: v34 });
+5 <= v34;
+const v36 = [13,9,-12559,-8,-4294967297];
+[3,-28987,536870889,1073741825,15];
+let v38 = [65535,-1139741600];
+new Uint8Array(v23);
+new Float32Array(256);
+new Float64Array(1024);
+new Uint8Array(v36, 256, 1531);
+let v50 = -41990;
+let v52 = v38++;
+--v52;
+const v54 = --v15;
+v50--;
+v52 << v50;
+v54 * BigInt64Array;

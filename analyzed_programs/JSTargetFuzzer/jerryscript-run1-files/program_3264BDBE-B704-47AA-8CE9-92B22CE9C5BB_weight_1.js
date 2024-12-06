@@ -1,0 +1,59 @@
+let v1 = 3;
+function f7(a8, a9) {
+    const o14 = {
+        "b": undefined,
+        __proto__: a8,
+        "c": 65536,
+        get d() {
+            const v11 = delete this[118];
+            const v13 = Symbol.split;
+            this[v13] = v13;
+            return v11;
+        },
+        "f": 65536,
+    };
+    return o14;
+}
+const v16 = f7(f7(f7, -65536), v1);
+const v17 = f7(v1, 1000);
+Float32Array[6] = f7;
+v16[0] = -65536;
+v1 *= -9007199254740990;
+f7(Float32Array, f7);
+c = v16;
+v17[v1] = 65536;
+typeof Float32Array === "number";
+new Float32Array(3701);
+const v30 = new Int32Array();
+const v31 = new Int32Array();
+function F32(a34) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.f = v31;
+    this.e = v30;
+}
+new Int32Array(6);
+new Float32Array(0);
+[-Infinity];
+const o42 = {
+    set a(a41) {
+    },
+};
+for (let v43 = 0; v43 < 5; v43++) {
+    o42.a;
+}
+[-6.568975937209441,1.0,-Infinity];
+[0.6730197545704021,2.220446049250313e-16,5.387745681974783,-7.304740854736329,89425.84876466752,1000000000.0,-1.785661314585028e+308];
+const v47 = [13,9,-12559,-8,-4294967297];
+let v48 = [65535,-1139741600];
+new Uint8Array(v47);
+let v51 = -41990;
+const v52 = v48++;
+let v53 = --v51;
+function f54() {
+    new Uint16Array(119);
+    new Float64Array(16);
+    new Uint16Array(2696);
+    return f54;
+}
+([-8.370930286710454,7.183159495332482,2.2250738585072014e-308,-1000000000000.0,-255.6362008927648,-315.07126899047114,-1.4473359933311645e+308,0.776153163138491,787700.9653515914]).flatMap(TypeError);
+--v53 * (v52 << v51);

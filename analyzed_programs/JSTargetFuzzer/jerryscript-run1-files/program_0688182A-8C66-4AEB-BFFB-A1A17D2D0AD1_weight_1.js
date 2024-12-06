@@ -1,0 +1,13 @@
+[];
+new Uint32Array(127);
+const v12 = new Int16Array(2963);
+new Int16Array(7);
+const v17 = ("c")["trimRight"]();
+const v19 = Symbol.replace;
+const t6 = "getUTCMonth";
+t6[v19] = v19;
+("bigint")[1];
+"-55111" & Int16Array;
+"getUTCMonth" ^ v12;
+const v23 = new Uint32Array("trimRight", v17);
+("-1454012741")[v23];

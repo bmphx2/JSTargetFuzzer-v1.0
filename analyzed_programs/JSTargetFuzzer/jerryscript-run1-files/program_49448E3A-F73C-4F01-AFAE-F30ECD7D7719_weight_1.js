@@ -1,0 +1,14 @@
+const v0 = [3,1481488418];
+const v1 = [14,256,1073741823,1073741823,35985,-54685,1866081024,9223372036854775807];
+const v2 = [-27923,-1721892221,-599705845,-31149,-9223372036854775808,6,268435440];
+const v5 = new Uint16Array(1686);
+const v8 = new BigUint64Array(0);
+const v11 = new Float32Array(257);
+const v12 = [BigUint64Array,Float32Array,v11,v8,v0];
+[v5,257,Float32Array,v1];
+[v2,v11,v12,Float32Array];
+delete v5[536870888];
+("clz32").padStart("clz32");
+([]).shift();
+const v28 = new BigInt64Array(169);
+41638 !== v28;

@@ -1,0 +1,84 @@
+function f0() {
+    const v5 = new Uint8Array(1000);
+    try { v5.reduceRight(Uint8Array, v5); } catch (e) {}
+    let v7 = "string";
+    const o15 = {
+        __proto__: "1yVK",
+        get e() {
+            v7 ^= this;
+            return this;
+        },
+        "g": Uint8Array,
+        [v7]: v7,
+        p(a10, a11) {
+            v7 = a11;
+            const v12 = v7 || this;
+            try { v12["setUTCSeconds"]("setUTCSeconds"); } catch (e) {}
+            return "setUTCSeconds";
+        },
+        "b": "1yVK",
+        "d": 945294158,
+    };
+    return Uint8Array;
+}
+f0();
+const v17 = f0();
+const v18 = f0();
+function f22() {
+    return 512n;
+}
+new Float32Array(3701);
+const v31 = new Int32Array();
+const v32 = new Int32Array();
+function f33(a34, a35) {
+    let v36;
+    try { v36 = new a34(f33, -1866785186n, ...v31, a34, 1756n); } catch (e) {}
+    const v38 = v36.iterator;
+    const o47 = {
+        [v38]() {
+            const o46 = {
+                next() {
+                    let v41 = this;
+                    const v42 = v41--;
+                    const v44 = 10 == 0;
+                    const o45 = {
+                        "done": v44,
+                        "value": 10,
+                    };
+                    return v42;
+                },
+            };
+            return o46;
+        },
+    };
+}
+new v18(f33);
+function F50(a52) {
+    if (!new.target) { throw 'must be called with new'; }
+    this.f = v32;
+    this.e = v31;
+}
+new Int32Array(6);
+new Float32Array(0);
+[-Infinity];
+const o60 = {
+    set a(a59) {
+    },
+};
+for (let v61 = 0; v61 < 5; v61++) {
+    resourceName(Uint8ClampedArray);
+    o60.a;
+}
+[-6.568975937209441,1.0,-Infinity];
+[0.6730197545704021,2.220446049250313e-16,5.387745681974783,-7.304740854736329,89425.84876466752,1000000000.0,-1.785661314585028e+308];
+const v68 = [13,9,-12559,-8,-4294967297];
+let v69 = [65535,-1139741600];
+new Uint8Array(v68);
+let v72 = -41990;
+const v73 = v69++;
+let v74 = --v72;
+function f75() {
+    return f75;
+}
+([-8.370930286710454,7.183159495332482,2.2250738585072014e-308,-1000000000000.0,-255.6362008927648,-315.07126899047114,-1.4473359933311645e+308,0.776153163138491,787700.9653515914]).flatMap(TypeError);
+--v74 * (v73 << v17);

@@ -1,0 +1,10 @@
+let v2 = new BigInt64Array(846);
+let v3 = 18;
+const v5 = new Float64Array(v3);
+new Float64Array(11);
+v3 >= v5;
+v2 &= v2;
+v3 = v5.__proto__;
+new Uint16Array(4074);
+new Float32Array(127);
+new Int8Array(1000);

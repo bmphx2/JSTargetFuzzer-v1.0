@@ -1,0 +1,11 @@
+const v0 = /u[\c~]l+/si;
+let v1 = /(gEra\sc*)/umsi;
+const v2 = /a*?/uygd;
+new Uint16Array(64);
+new Float32Array(4096);
+const v14 = new Uint8Array(1545);
+v1 = v2;
+v2[v0] += 1545;
+typeof v1 === "number";
+v14[10] **= 65536;
+v14.valueOf = -4294967295;

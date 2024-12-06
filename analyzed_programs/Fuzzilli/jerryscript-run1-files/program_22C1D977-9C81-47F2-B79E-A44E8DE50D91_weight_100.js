@@ -1,0 +1,12 @@
+new Uint8Array(8);
+const v8 = new BigUint64Array(7);
+new BigUint64Array(v8);
+new Array(3000);
+let v16 = 56621;
+let v17 = -1000000000000.0;
+let v18 = 0.0;
+let v20 = [[v16]];
+const v22 = Symbol.isConcatSpreadable;
+({"b":v17,"h":v18,"length":v20,} = v20);
+v20 * -8;
+({"description":v16,...v17} = v22);

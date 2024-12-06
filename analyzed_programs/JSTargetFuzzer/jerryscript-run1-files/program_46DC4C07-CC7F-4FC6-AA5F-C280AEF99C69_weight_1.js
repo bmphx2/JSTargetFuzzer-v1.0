@@ -1,0 +1,17 @@
+const v2 = new Uint8Array(10);
+let v3 = 5;
+new Int32Array(v3);
+new Float64Array(738);
+1073741824n >> 268435456n;
+Array(7);
+v3 = 9007199254740992;
+let v18 = 16;
+const v19 = ~v18;
+v18 >> 9007199254740992;
+v18 || v19;
+const v22 = ++v18;
+Math.floor(722733330);
+-v22;
+v2.__proto__;
+const v36 = new Int8Array(12);
+v36.byteLength *= 985;

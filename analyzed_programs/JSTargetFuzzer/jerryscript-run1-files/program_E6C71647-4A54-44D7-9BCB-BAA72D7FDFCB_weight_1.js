@@ -1,0 +1,13 @@
+const t0 = -40466;
+t0[4163723798] = 4;
+const t2 = -40466;
+t2.length = 65535;
+typeof -11 === "symbol";
+new Int16Array(2198);
+new Uint16Array(10);
+const v21 = new Float64Array(3779);
+/wxyz{1,32}/gum;
+const t8 = "symbol";
+delete t8[10];
+v21.byteLength;
+/0(ab)\1+/ysu;

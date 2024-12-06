@@ -1,0 +1,13 @@
+let v7 = -9;
+const v8 = -v7;
+(v7 >> 3.0) % v7;
+v7++;
+const t2 = 256;
+t2[-2] = v8;
+Uint8ClampedArray[4096] = v8;
+v8[2] = 127;
+new Uint8ClampedArray(127);
+new Uint8Array(257);
+new Int8Array(3430);
+/\u{12345}\u{23456}\1111/s;
+/r[\ca]/im;

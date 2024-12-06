@@ -1,0 +1,24 @@
+const v1 = new WeakMap();
+let v5 = 92.33267641655198;
+v5 = 1000000000000.0;
+const v10 = 6 >>> 6;
+Math.log2(6);
+v10 || 8;
+-809.283926056354 + Uint16Array;
+const v18 = v1[65536];
+v1.valueOf = v18;
+new Int8Array(16);
+const v24 = new Uint16Array(5);
+new BigUint64Array(6);
+[-8.197141557533328,1000.0];
+const v29 = [1.0830033658792606e+308,1000.0];
+-[-1.063433722426586e+307,-5.0,0.3478176575377555,-2.220446049250313e-16,2.220446049250313e-16,92748.5619578571];
+v29[WeakMap] |= 257;
+const v32 = new Uint16Array(257);
+try { v24.filter(v18, v1); } catch (e) {}
+v29.length;
+v32.byteLength = 6;
+v32[8] <<= v10;
+new Uint16Array(8);
+new BigInt64Array(7);
+Boolean();

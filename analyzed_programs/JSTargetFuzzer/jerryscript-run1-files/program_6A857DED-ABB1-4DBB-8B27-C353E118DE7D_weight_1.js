@@ -1,0 +1,43 @@
+new Int8Array(127);
+new BigInt64Array(64);
+new Int16Array(257);
+let v29 = 536870888n;
+const v40 = [3.0];
+function f41(a42, a43) {
+    a42 instanceof a42;
+}
+new Promise(f41);
+[-9.980181287646149];
+Object.defineProperty(v40, -9.980181287646149, { configurable: true, get: f41, set: f41 });
+v29 /= 2331n;
+[v40];
+const v54 = new Int32Array(131);
+const v57 = new BigInt64Array(2);
+new Float64Array(3658);
+const v64 = v54 & true;
+const t17 = "d";
+t17[4] >>= 3.0;
+Float64Array & -9.980181287646149;
+v57[Symbol.replace];
+const v71 = Symbol.unscopables;
+const v72 = v54[v71];
+try { v72.log10("charAt", v71, 536870887); } catch (e) {}
+const t24 = "d";
+t24[-2] = 2.0;
+let v79 = 4.0;
+v64 ^ v64;
+--v79;
+Math.abs(v79);
+let v83 = 18731;
+const v86 = 3.0 % 4294967295;
+const v87 = ++v83;
+Math.imul(v83, v83);
+v86 - 4294967295;
+v87 >>> v86;
+-9.980181287646149 | 3.0;
+[-2.2250738585072014e-308,NaN];
+[-0.4540235061634572,-5.295009379690964e+307,Infinity,-1.6841952946229588e+308,4.0,-0.0,-488317.82555162004,-2.2250738585072014e-308];
+[5.0,1000.0,-1000000000.0,998849.6020940493,2.0,-1e-15];
+new Int16Array(3633);
+new Float32Array(9);
+new Uint8ClampedArray(1000);

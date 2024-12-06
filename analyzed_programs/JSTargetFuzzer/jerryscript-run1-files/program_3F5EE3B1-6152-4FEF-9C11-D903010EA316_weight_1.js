@@ -1,0 +1,44 @@
+const v0 = [-128,1902491311];
+const v1 = [65537,63308,-2,536870889,-268435456,-11,1929694613,268435441];
+const v2 = [1073741823,53158,60614,-2500];
+function f3(a4, a5) {
+    const o24 = {
+        7: v2,
+        [v1]: a5,
+        10: v1,
+        "d": v0,
+        __proto__: v1,
+        get c() {
+            this.d = v2;
+            const v10 = -4096;
+            a4 / ~v10;
+            v2 * v0;
+            for (let v14 = 0; v14 < 32; v14++) {
+            }
+            class C15 {
+                constructor(a17, a18, a19) {
+                    try { arguments.n(); } catch (e) {}
+                }
+            }
+            4096 & v10;
+            return !this;
+        },
+    };
+    return o24;
+}
+const v25 = f3(v2, v0);
+f3(v2, v2);
+v25.c = f3(v0, v2);
+const o32 = {
+    m(a29, a30, a31) {
+        return a30;
+    },
+};
+[[]];
+ArrayBuffer.isView();
+let v38 = -2147483649;
+([[v38--]])[-1];
+new Int8Array(257);
+new Int8Array(1456);
+new Uint16Array(2935);
+([-16,4]).pop();

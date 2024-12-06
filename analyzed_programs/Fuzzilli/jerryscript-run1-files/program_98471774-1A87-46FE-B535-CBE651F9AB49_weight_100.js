@@ -1,0 +1,11 @@
+new Int16Array(1024);
+new Float32Array(1024);
+new Int16Array(0);
+[[Int16Array,Int16Array],13];
+[Float32Array];
+new Int32Array(54);
+const v20 = new Uint8ClampedArray(447);
+new Uint16Array(1024);
+v20[8] = -65537;
+const v34 = new WeakSet();
+new Int32Array(v34, 1024);

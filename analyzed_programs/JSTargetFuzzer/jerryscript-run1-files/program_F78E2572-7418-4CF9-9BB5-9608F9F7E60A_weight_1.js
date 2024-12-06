@@ -1,0 +1,21 @@
+const v2 = new Uint8ClampedArray(1);
+const v5 = new Uint32Array(230);
+v2[Uint8ClampedArray] = 230;
+const v8 = Int8Array instanceof Uint8ClampedArray;
+const t3 = 1;
+t3[1] = 230;
+new Int8Array(v2, 230, 3810);
+[0.3680506983238292,-4.0,1000.0,-1.7976931348623157e+308];
+const v11 = [-1.7976931348623157e+308,-5.0,-2.0,36.80681291779979,NaN,7.637812650967779e+307,2.0];
+[3.854342757271219];
+const v13 = new Int8Array(3810);
+2 + 2;
+v11[1073741824];
+v13 | v8;
+let {"buffer":v18,"byteOffset":v19,} = v5;
+delete v5[2147483649];
+let v23 = `
+    +-65537;
+    v23++;
+`;
+eval(v23);

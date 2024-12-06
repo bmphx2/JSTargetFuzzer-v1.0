@@ -1,0 +1,31 @@
+new Map();
+new Float32Array(10);
+new Int32Array();
+const v17 = new Int32Array(Map, "string", "string");
+function F18(a20) {
+    if (!new.target) { throw 'must be called with new'; }
+    a20.f = v17;
+    this.e = a20;
+}
+new Int32Array(6);
+new Float32Array(0);
+[-Infinity];
+const o28 = {
+    set a(a27) {
+    },
+};
+for (let v29 = 0; v29 < 5; v29++) {
+    o28.a;
+}
+[-6.568975937209441,1.0,-Infinity];
+let v32 = [0.6730197545704021,2.220446049250313e-16,5.387745681974783,-7.304740854736329,89425.84876466752,1000000000.0,-1.785661314585028e+308];
+const v33 = [13,9,-12559,-8,-4294967297];
+[65535,-1139741600];
+new gc(v33, "string", "string", gc);
+let v38 = v32++;
+let v39 = --v38;
+function f40() {
+    return f40;
+}
+([767.1915968408571,0.11014756072250531,1000000000.0,1000000000.0,0.6567602777911519,1000.0,-2.2250738585072014e-308]).flatMap(TypeError);
+--v39 * ("-62351" << 0);

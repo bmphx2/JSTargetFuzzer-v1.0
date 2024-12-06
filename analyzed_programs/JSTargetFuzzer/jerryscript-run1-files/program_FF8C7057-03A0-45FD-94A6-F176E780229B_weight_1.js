@@ -1,0 +1,10 @@
+[-926751.3373890059,0.6478603223914301,3.385914688665842,0.0];
+[-3.0];
+[0.0,-2.220446049250313e-16,-1.7976931348623157e+308,1.7976931348623157e+308];
+new Float32Array(6);
+new BigUint64Array(BigUint64Array);
+new Uint32Array(2795);
+new Uint32Array(2795);
+new Uint16Array(6);
+new Uint32Array(1);
+/sa\Sc?/gisu;

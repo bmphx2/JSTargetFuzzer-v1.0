@@ -1,0 +1,96 @@
+let v2 = new Float64Array(9);
+new Int16Array(1024);
+const v8 = new Float64Array(135);
+function f9(a10, a11, a12) {
+    const o19 = {
+        "f": Int16Array,
+        "a": v8,
+        "h": a11,
+        "c": v2,
+        get b() {
+            const v14 = new Float64Array(this, a12, 1024);
+            try { v14.lastIndexOf(this, a10); } catch (e) {}
+            return "-13795";
+        },
+    };
+    return o19;
+}
+f9(135, v2, 9);
+const v21 = f9(1024, Int16Array, 1024);
+const v22 = f9(Float64Array, v8, 135);
+function f33() {
+    try { v22.toString(v22, Float64Array); } catch (e) {}
+    delete v8[Int16Array];
+    f33();
+    const o39 = {
+        "maxByteLength": 1998176936,
+    };
+    const v41 = new ArrayBuffer(128, o39);
+    new Uint16Array(v41);
+    return -4096;
+}
+function F47() {
+    if (!new.target) { throw 'must be called with new'; }
+    this.g = -65537;
+    this[15] = F47;
+    this.valueOf = -65537 in this;
+    for (let v51 = 0; v51 < 32; v51++) {
+        this["p" + v51] = v51;
+    }
+    this.f = -65537;
+}
+let v54 = new F47();
+const v55 = new F47();
+const v56 = new F47();
+const o60 = {
+    valueOf() {
+        f9(268435440, this, this);
+        v21[v21] = v22;
+        return -4096;
+    },
+};
+Promise.resolve(BigInt64Array);
+function f64() {
+    delete arguments["bigint"];
+    return v55;
+}
+f64();
+new Uint32Array(5);
+const v73 = new Int32Array(5);
+const v76 = new Uint8Array(150);
+function f77() {
+}
+let v78 = 0;
+do {
+    v56 / v56;
+    v78++;
+} while (v78 < 9)
+v73[v2[1]] = Float64Array;
+v2 += v2;
+f64().valueOf;
+let v94 = -21186;
+const v96 = +0;
+Math.imul(v94, v94);
+++v94;
+Math.clz32(v96);
+const v100 = v96 % -9223372036854775808;
+Math.tan(v94);
+v100 + v94;
+new Uint8Array(0);
+let v109 = RegExp.bind("2147483647", [-8,4294967295,148900462]);
+const v111 = new Int32Array(127);
+const v112 = ("2147483647")[11];
+v76 instanceof v109;
+RegExp[8] = 4.0;
+const t84 = "2147483647";
+t84.__proto__ = v56;
+Uint32Array < v112;
+v109 /= v111;
+const v116 = new WeakSet();
+const v122 = new BigInt64Array(2);
+127 instanceof Int32Array;
+function f125() {
+    return v122;
+}
+v54 = v116;
+([5]).reverse();

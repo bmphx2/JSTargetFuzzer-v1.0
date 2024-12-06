@@ -1,0 +1,10 @@
+const v0 = [7,-797];
+const v1 = [-26496,64,-2147483649,-4294967297,-8,1073741825,-1024,-10,1073741823];
+[1323098549,-2,-3,562614337,1024,-11,128];
+v1.isConcatSpreadable = v0;
+const t4 = "-65536";
+t4.valueOf = v0;
+new Int8Array(2);
+new Uint8Array(16);
+new Int8Array(7);
+Math.trunc(-1e-15);

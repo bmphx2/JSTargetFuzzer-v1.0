@@ -1,0 +1,24 @@
+[4.832247106359379,-0.0,1.0,0.8978367040172605];
+const v1 = [0.4910892933266946,-334213.39391081093,0.7343672627726806];
+const v2 = [5.0,Infinity];
+new Int8Array(1930);
+const v11 = v2[1930];
+try { v11(...v2, v11, ...v1, v11); } catch (e) {}
+v2.length <<= v11;
+const v16 = +v11;
+const v17 = v16 * -1073741824;
+Math.asin(v17);
+v16 && (-1073741824 / -1073741824);
+Math.cos(v1);
+Math.clz32(15);
+const v23 = new BigUint64Array(16, v1);
+new Int16Array(7);
+let v27 = 9223372036854775807n;
+v27 -= v27;
+[v17,Int8Array,...v23];
+let v31 = 843930351;
+Math.ceil(140526.563870308);
+const v34 = Int16Array >>> 140526.563870308;
+Math.asinh(v31);
+v31++;
+~v34;

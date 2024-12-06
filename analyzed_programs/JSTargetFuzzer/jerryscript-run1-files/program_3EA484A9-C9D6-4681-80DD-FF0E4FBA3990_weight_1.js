@@ -1,0 +1,31 @@
+const v1 = [-256,-9007199254740992,-25338];
+[-65537,-1202063700,268435440,-1073741824,65536,9007199254740991,65537,-4294967296,255,512];
+[-536870912,15,-4294967297,65535,59477];
+new BigInt64Array(138);
+new Uint8Array(1);
+const v15 = new Uint8ClampedArray(6);
+let v17 = 1.4266636170347573e+308;
+const v21 = new Uint8Array(512);
+e = v15;
+v1[3] = null;
+v17 = 886.0009926550579;
+const v24 = new Uint8Array(v1, 447, 6);
+new Int16Array(447);
+new Uint32Array(2438);
+function f35() {
+}
+v21.description <<= 2006448021;
+const v43 = [2.220446049250313e-16,-1.7976931348623157e+308,-3.4833326659982795,-1000000000000.0,0.0,2.220446049250313e-16,-4.191721618721404,1.4104645033139904e+308];
+("1073741824").match(v43.copyWithin(v43, v43));
+new Uint8Array(0);
+let v54 = RegExp.bind("2147483647", [-8,4294967295,148900462]);
+const v56 = new Int32Array(127);
+v54 /= v56;
+f35();
+const v58 = new Int16Array(v24, 2438, 138);
+("description")["repeat"]();
+const v63 = Symbol.toStringTag;
+v58[v63] = v63;
+new WeakSet();
+new BigInt64Array(2);
+([5]).reverse();

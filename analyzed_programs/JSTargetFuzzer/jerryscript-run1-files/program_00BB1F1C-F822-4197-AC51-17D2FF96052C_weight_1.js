@@ -1,0 +1,43 @@
+const v0 = [-58891,255,-65535,64];
+[9007199254740990,-4294967296,-1,-9007199254740991,2147483649,-2147483648,9744];
+[-121145520,268435456,599397126];
+[11,536870887,3,-51594];
+[41504,11,1024,-10599245,0];
+[536870912,4,4294967297,55836,256,4096];
+const v6 = [-19068,-2,63444,-10301,9007199254740992,1,-4294967297,-1910543648];
+const v7 = [5,-6,1073741824,-2147483648,3];
+const v8 = [2147483648];
+[v0,-9007199254740992];
+[v7,[v6,-1073741824,v6,v8,-1073741824],v0,v0];
+new Uint16Array(9);
+const v20 = new Float64Array(256);
+Math.sinh(v7);
+Math.acosh(4096);
+Math.trunc(65536);
+const v28 = v7 | v7;
+-v7;
+4096 - v28;
+Float32Array - Float32Array;
+const v36 = new Int8Array(1896);
+v36[9] = Float32Array;
+const v38 = new Int8Array(4096);
+[9,v20,Uint16Array,Uint16Array,[256,9,4096,[v38,Float64Array,256]]];
+new Array(127);
+const v47 = new Uint32Array(181);
+let v49 = BigUint64Array;
+let v50 = new v49(1);
+let v51 = 253;
+[v51,,v49,v50] = v47;
+try { v49["abs"](181, v51, v49); } catch (e) {}
+new Uint16Array(v51);
+for (let i64 = 0; i64 < 2; i64++) {
+    const v71 = new ArrayBuffer(ArrayBuffer, ArrayBuffer);
+    new BigUint64Array(v71, v71);
+    const v74 = new Function("x");
+    v74.name;
+}
+638046528 + "x";
+new Uint8ClampedArray(9);
+new Int32Array(16);
+new Int8Array(255);
+Function();

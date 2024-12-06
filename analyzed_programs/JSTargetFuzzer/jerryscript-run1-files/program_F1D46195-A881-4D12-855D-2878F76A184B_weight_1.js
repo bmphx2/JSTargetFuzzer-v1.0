@@ -1,0 +1,16 @@
+new BigInt64Array(5);
+let v11 = new Uint8Array(5);
+new Uint8Array(16);
+const v18 = -65537;
+v18 >>> v18;
+let v20 = ++v11;
+++v20;
+const v22 = new Uint8ClampedArray();
+const v24 = [v22];
+new Uint16Array(7);
+new Int16Array(1000);
+new Int32Array(255);
+-4294967295n | 268435439n;
+(5).constructor;
+const v39 = [v22,v24];
+v39.splice(v22, ...v39, 3);

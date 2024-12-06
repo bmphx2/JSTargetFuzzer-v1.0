@@ -1,0 +1,10 @@
+new Float64Array(8);
+const v5 = new Uint8ClampedArray(8);
+const v8 = new Float64Array(2);
+new WeakMap();
+const v12 = [-4.0,-828.5431934340852,-1000000.0,346.0653538265881];
+const v13 = [-314.51570379042937,2.65527411782465,-1e-15,-5.0,1000000000000.0,5.856735713146336e+307,0.4701091285172452];
+let v15 = v13.lastIndexOf(v12, 987924842) > Float64Array;
+v8[v15] *= 512;
+v12.__proto__ = v5;
+v15 = delete v13[8];

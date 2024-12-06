@@ -1,0 +1,14 @@
+new Set();
+let v3 = Int8Array;
+new v3(4);
+const v7 = new Uint16Array(3169);
+new Uint8Array(1098);
+const v15 = [];
+Reflect.apply(v7.entries, v7, v15);
+const v21 = -v3;
+Math.sign(-5.0);
+v21 ^ v3;
+Math.cosh(-128);
+Math.sinh(v21);
+-128 || v21;
+++v3;
