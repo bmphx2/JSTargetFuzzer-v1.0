@@ -1,0 +1,707 @@
+{
+  "": {
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/master.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Base/Component.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Component.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Component.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Component~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Component.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Base/Contributor.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Contributor.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Contributor.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Contributor~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Contributor.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Base/Events.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Events.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Events.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Events~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Events.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Base/Logging.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Logging.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Logging.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Logging~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Logging.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Base/ProgramBuilder.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/ProgramBuilder.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/ProgramBuilder.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/ProgramBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/ProgramBuilder.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Base/ProgramOrigin.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/ProgramOrigin.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/ProgramOrigin.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/ProgramOrigin~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/ProgramOrigin.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Base/Timers.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Timers.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Timers.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Timers~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Base/Timers.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/CodeGen/CodeGenerator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/CodeGenerator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/CodeGenerator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/CodeGenerator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/CodeGenerator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/CodeGen/CodeGeneratorWeights.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/CodeGeneratorWeights.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/CodeGeneratorWeights.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/CodeGeneratorWeights~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/CodeGeneratorWeights.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/CodeGen/CodeGenerators.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/CodeGenerators.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/CodeGenerators.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/CodeGenerators~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/CodeGenerators.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/CodeGen/ProgramTemplate.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/ProgramTemplate.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/ProgramTemplate.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/ProgramTemplate~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/ProgramTemplate.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/CodeGen/ProgramTemplateWeights.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/ProgramTemplateWeights.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/ProgramTemplateWeights.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/ProgramTemplateWeights~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/ProgramTemplateWeights.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/CodeGen/ProgramTemplates.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/ProgramTemplates.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/ProgramTemplates.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/ProgramTemplates~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/CodeGen/ProgramTemplates.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Compiler/Compiler.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Compiler/Compiler.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Compiler/Compiler.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Compiler/Compiler~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Compiler/Compiler.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Compiler/JavaScriptParser.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Compiler/JavaScriptParser.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Compiler/JavaScriptParser.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Compiler/JavaScriptParser~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Compiler/JavaScriptParser.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Configuration.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Configuration.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Configuration.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Configuration~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Configuration.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Corpus/BasicCorpus.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Corpus/BasicCorpus.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Corpus/BasicCorpus.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Corpus/BasicCorpus~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Corpus/BasicCorpus.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Corpus/Corpus.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Corpus/Corpus.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Corpus/Corpus.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Corpus/Corpus~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Corpus/Corpus.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Corpus/MarkovCorpus.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Corpus/MarkovCorpus.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Corpus/MarkovCorpus.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Corpus/MarkovCorpus~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Corpus/MarkovCorpus.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Engines/FuzzEngine.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/FuzzEngine.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/FuzzEngine.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/FuzzEngine~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/FuzzEngine.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Engines/GenerativeEngine.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/GenerativeEngine.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/GenerativeEngine.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/GenerativeEngine~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/GenerativeEngine.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Engines/HybridEngine.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/HybridEngine.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/HybridEngine.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/HybridEngine~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/HybridEngine.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Engines/MultiEngine.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/MultiEngine.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/MultiEngine.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/MultiEngine~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/MultiEngine.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Engines/MutationEngine.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/MutationEngine.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/MutationEngine.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/MutationEngine~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Engines/MutationEngine.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Environment/Environment.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Environment/Environment.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Environment/Environment.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Environment/Environment~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Environment/Environment.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Environment/JavaScriptEnvironment.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Environment/JavaScriptEnvironment.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Environment/JavaScriptEnvironment.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Environment/JavaScriptEnvironment~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Environment/JavaScriptEnvironment.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Evaluation/ProgramAspects.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Evaluation/ProgramAspects.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Evaluation/ProgramAspects.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Evaluation/ProgramAspects~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Evaluation/ProgramAspects.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Evaluation/ProgramCoverageEvaluator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Evaluation/ProgramCoverageEvaluator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Evaluation/ProgramCoverageEvaluator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Evaluation/ProgramCoverageEvaluator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Evaluation/ProgramCoverageEvaluator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Evaluation/ProgramEvaluator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Evaluation/ProgramEvaluator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Evaluation/ProgramEvaluator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Evaluation/ProgramEvaluator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Evaluation/ProgramEvaluator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Execution/Execution.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Execution/Execution.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Execution/Execution.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Execution/Execution~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Execution/Execution.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Execution/REPRL.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Execution/REPRL.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Execution/REPRL.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Execution/REPRL~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Execution/REPRL.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Execution/ScriptRunner.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Execution/ScriptRunner.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Execution/ScriptRunner.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Execution/ScriptRunner~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Execution/ScriptRunner.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/Analyzer.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Analyzer.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Analyzer.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Analyzer~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Analyzer.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/Blocks.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Blocks.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Blocks.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Blocks~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Blocks.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/Code.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Code.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Code.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Code~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Code.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/Context.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Context.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Context.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Context~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Context.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/Instruction.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Instruction.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Instruction.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Instruction~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Instruction.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/JSTyper.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/JSTyper.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/JSTyper.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/JSTyper~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/JSTyper.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/JsOperations.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/JsOperations.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/JsOperations.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/JsOperations~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/JsOperations.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/Opcodes.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Opcodes.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Opcodes.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Opcodes~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Opcodes.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/Operation.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Operation.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Operation.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Operation~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Operation.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/Program.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Program.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Program.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Program~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Program.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/ProgramComments.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/ProgramComments.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/ProgramComments.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/ProgramComments~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/ProgramComments.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/Semantics.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Semantics.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Semantics.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Semantics~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Semantics.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/TypeSystem.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/TypeSystem.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/TypeSystem.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/TypeSystem~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/TypeSystem.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/Variable.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Variable.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Variable.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Variable~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/Variable.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/FuzzIL/WasmOperations.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/WasmOperations.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/WasmOperations.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/WasmOperations~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/FuzzIL/WasmOperations.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Fuzzer.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Fuzzer.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Fuzzer.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Fuzzer~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Fuzzer.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Lifting/Expression.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/Expression.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/Expression.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/Expression~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/Expression.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Lifting/FuzzILLifter.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/FuzzILLifter.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/FuzzILLifter.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/FuzzILLifter~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/FuzzILLifter.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Lifting/JSExpressions.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JSExpressions.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JSExpressions.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JSExpressions~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JSExpressions.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Lifting/JavaScriptExploreLifting.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptExploreLifting.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptExploreLifting.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptExploreLifting~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptExploreLifting.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Lifting/JavaScriptFixupLifting.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptFixupLifting.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptFixupLifting.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptFixupLifting~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptFixupLifting.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Lifting/JavaScriptLifter.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptLifter.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptLifter.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptLifter~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptLifter.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Lifting/JavaScriptProbeLifting.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptProbeLifting.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptProbeLifting.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptProbeLifting~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptProbeLifting.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Lifting/JavaScriptRuntimeAssistedMutatorLifting.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptRuntimeAssistedMutatorLifting.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptRuntimeAssistedMutatorLifting.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptRuntimeAssistedMutatorLifting~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/JavaScriptRuntimeAssistedMutatorLifting.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Lifting/Lifter.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/Lifter.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/Lifter.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/Lifter~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/Lifter.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Lifting/ScriptWriter.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/ScriptWriter.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/ScriptWriter.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/ScriptWriter~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Lifting/ScriptWriter.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Minimization/BlockReducer.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/BlockReducer.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/BlockReducer.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/BlockReducer~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/BlockReducer.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Minimization/DeduplicatingReducer.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/DeduplicatingReducer.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/DeduplicatingReducer.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/DeduplicatingReducer~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/DeduplicatingReducer.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Minimization/GenericInstructionReducer.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/GenericInstructionReducer.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/GenericInstructionReducer.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/GenericInstructionReducer~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/GenericInstructionReducer.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Minimization/InliningReducer.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/InliningReducer.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/InliningReducer.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/InliningReducer~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/InliningReducer.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Minimization/LoopReducer.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/LoopReducer.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/LoopReducer.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/LoopReducer~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/LoopReducer.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Minimization/MinimizationHelper.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/MinimizationHelper.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/MinimizationHelper.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/MinimizationHelper~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/MinimizationHelper.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Minimization/Minimizer.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/Minimizer.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/Minimizer.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/Minimizer~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/Minimizer.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Minimization/PostProcessor.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/PostProcessor.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/PostProcessor.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/PostProcessor~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/PostProcessor.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Minimization/ReassignReducer.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/ReassignReducer.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/ReassignReducer.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/ReassignReducer~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/ReassignReducer.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Minimization/SimplifyingReducer.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/SimplifyingReducer.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/SimplifyingReducer.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/SimplifyingReducer~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/SimplifyingReducer.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Minimization/VariadicInputReducer.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/VariadicInputReducer.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/VariadicInputReducer.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/VariadicInputReducer~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Minimization/VariadicInputReducer.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Modules/Module.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Module.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Module.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Module~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Module.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Modules/NetworkSync.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/NetworkSync.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/NetworkSync.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/NetworkSync~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/NetworkSync.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Modules/Statistics.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Statistics.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Statistics.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Statistics~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Statistics.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Modules/Storage.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Storage.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Storage.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Storage~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Storage.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Modules/Sync.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Sync.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Sync.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Sync~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/Sync.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Modules/ThreadSync.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/ThreadSync.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/ThreadSync.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/ThreadSync~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Modules/ThreadSync.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Mutators/BaseInstructionMutator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/BaseInstructionMutator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/BaseInstructionMutator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/BaseInstructionMutator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/BaseInstructionMutator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Mutators/CodeGenMutator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/CodeGenMutator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/CodeGenMutator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/CodeGenMutator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/CodeGenMutator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Mutators/CombineMutator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/CombineMutator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/CombineMutator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/CombineMutator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/CombineMutator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Mutators/ConcatMutator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/ConcatMutator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/ConcatMutator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/ConcatMutator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/ConcatMutator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Mutators/ExplorationMutator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/ExplorationMutator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/ExplorationMutator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/ExplorationMutator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/ExplorationMutator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Mutators/FixupMutator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/FixupMutator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/FixupMutator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/FixupMutator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/FixupMutator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Mutators/InputMutator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/InputMutator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/InputMutator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/InputMutator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/InputMutator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Mutators/Mutator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/Mutator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/Mutator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/Mutator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/Mutator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Mutators/MutatorSettings.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/MutatorSettings.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/MutatorSettings.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/MutatorSettings~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/MutatorSettings.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Mutators/OperationMutator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/OperationMutator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/OperationMutator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/OperationMutator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/OperationMutator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Mutators/ProbingMutator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/ProbingMutator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/ProbingMutator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/ProbingMutator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/ProbingMutator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Mutators/RuntimeAssistedMutator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/RuntimeAssistedMutator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/RuntimeAssistedMutator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/RuntimeAssistedMutator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/RuntimeAssistedMutator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Mutators/SpliceMutator.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/SpliceMutator.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/SpliceMutator.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/SpliceMutator~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Mutators/SpliceMutator.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Protobuf/ProtoUtils.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/ProtoUtils.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/ProtoUtils.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/ProtoUtils~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/ProtoUtils.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Protobuf/ast.pb.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/ast.pb.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/ast.pb.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/ast.pb~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/ast.pb.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Protobuf/operations.pb.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/operations.pb.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/operations.pb.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/operations.pb~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/operations.pb.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Protobuf/program.pb.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/program.pb.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/program.pb.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/program.pb~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/program.pb.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Protobuf/sync.pb.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/sync.pb.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/sync.pb.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/sync.pb~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Protobuf/sync.pb.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/Arguments.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Arguments.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Arguments.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Arguments~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Arguments.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/CInterop.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/CInterop.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/CInterop.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/CInterop~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/CInterop.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/Error.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Error.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Error.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Error~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Error.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/Misc.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Misc.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Misc.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Misc~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Misc.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/MockFuzzer.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/MockFuzzer.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/MockFuzzer.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/MockFuzzer~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/MockFuzzer.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/MovingAverage.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/MovingAverage.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/MovingAverage.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/MovingAverage~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/MovingAverage.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/NodeJS.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/NodeJS.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/NodeJS.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/NodeJS~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/NodeJS.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/Random.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Random.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Random.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Random~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Random.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/RingBuffer.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/RingBuffer.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/RingBuffer.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/RingBuffer~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/RingBuffer.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/SecCoverageHandler.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/SecCoverageHandler.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/SecCoverageHandler.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/SecCoverageHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/SecCoverageHandler.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/Stack.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Stack.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Stack.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Stack~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/Stack.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/StatisticsLogger.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/StatisticsLogger.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/StatisticsLogger.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/StatisticsLogger~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/StatisticsLogger.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/VariableMap.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/VariableMap.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/VariableMap.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/VariableMap~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/VariableMap.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/VariableSet.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/VariableSet.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/VariableSet.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/VariableSet~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/VariableSet.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/WeightedList.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/WeightedList.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/WeightedList.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/WeightedList~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/WeightedList.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/logs/CSVDataManager.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/CSVDataManager.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/CSVDataManager.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/CSVDataManager~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/CSVDataManager.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/logs/CSVEntries.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/CSVEntries.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/CSVEntries.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/CSVEntries~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/CSVEntries.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/logs/CSVManager.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/CSVManager.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/CSVManager.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/CSVManager~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/CSVManager.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/logs/ConfigManager.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/ConfigManager.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/ConfigManager.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/ConfigManager~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/ConfigManager.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/logs/LogManager.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/LogManager.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/LogManager.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/LogManager~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/LogManager.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/logs/LogMessages.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/LogMessages.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/LogMessages.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/LogMessages~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/LogMessages.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/logs/ProgramFileManager.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/ProgramFileManager.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/ProgramFileManager.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/ProgramFileManager~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/ProgramFileManager.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/Fuzzilli/Util/logs/StatisticsService.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/StatisticsService.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/StatisticsService.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/StatisticsService~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/Util/logs/StatisticsService.swiftdeps"
+  },
+  "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/resource_bundle_accessor.d",
+    "object": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/home/kali/PhD/JSTargetFuzzer-Dev/.build/x86_64-unknown-linux-gnu/debug/Fuzzilli.build/resource_bundle_accessor.swiftdeps"
+  }
+}

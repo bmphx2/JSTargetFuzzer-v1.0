@@ -1,0 +1,3466 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Fuzzilli",
+      "printedName": "Fuzzilli",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli"
+    },
+    {
+      "kind": "Var",
+      "name": "args",
+      "printedName": "args",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Arguments",
+          "printedName": "Fuzzilli.Arguments",
+          "usr": "s:8Fuzzilli9ArgumentsC"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli4args0A09ArgumentsCvp",
+      "mangledName": "$s11FuzzilliCli4args0A09ArgumentsCvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Function",
+      "name": "configError",
+      "printedName": "configError(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Never",
+          "printedName": "Swift.Never",
+          "usr": "s:s5NeverO"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:11FuzzilliCli11configErrorys5NeverOSSF",
+      "mangledName": "$s11FuzzilliCli11configErrorys5NeverOSSF",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ],
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Var",
+      "name": "jsShellPath",
+      "printedName": "jsShellPath",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli11jsShellPathSSvp",
+      "mangledName": "$s11FuzzilliCli11jsShellPathSSvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "profile",
+      "printedName": "profile",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "ImplicitlyUnwrappedOptional",
+          "printedName": "FuzzilliCli.Profile?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Profile",
+              "printedName": "FuzzilliCli.Profile",
+              "usr": "s:11FuzzilliCli7ProfileV"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli7profileAA7ProfileVSgvp",
+      "mangledName": "$s11FuzzilliCli7profileAA7ProfileVSgvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "numJobs",
+      "printedName": "numJobs",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli7numJobsSivp",
+      "mangledName": "$s11FuzzilliCli7numJobsSivp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "logLevelName",
+      "printedName": "logLevelName",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli12logLevelNameSSvp",
+      "mangledName": "$s11FuzzilliCli12logLevelNameSSvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "engineName",
+      "printedName": "engineName",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli10engineNameSSvp",
+      "mangledName": "$s11FuzzilliCli10engineNameSSvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "corpusName",
+      "printedName": "corpusName",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli10corpusNameSSvp",
+      "mangledName": "$s11FuzzilliCli10corpusNameSSvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "maxIterations",
+      "printedName": "maxIterations",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli13maxIterationsSivp",
+      "mangledName": "$s11FuzzilliCli13maxIterationsSivp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "maxRuntimeInHours",
+      "printedName": "maxRuntimeInHours",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli17maxRuntimeInHoursSivp",
+      "mangledName": "$s11FuzzilliCli17maxRuntimeInHoursSivp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "timeout",
+      "printedName": "timeout",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli7timeoutSivp",
+      "mangledName": "$s11FuzzilliCli7timeoutSivp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "minMutationsPerSample",
+      "printedName": "minMutationsPerSample",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli21minMutationsPerSampleSivp",
+      "mangledName": "$s11FuzzilliCli21minMutationsPerSampleSivp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "minCorpusSize",
+      "printedName": "minCorpusSize",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli13minCorpusSizeSivp",
+      "mangledName": "$s11FuzzilliCli13minCorpusSizeSivp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "maxCorpusSize",
+      "printedName": "maxCorpusSize",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli13maxCorpusSizeSivp",
+      "mangledName": "$s11FuzzilliCli13maxCorpusSizeSivp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "markovDropoutRate",
+      "printedName": "markovDropoutRate",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Double",
+          "printedName": "Swift.Double",
+          "usr": "s:Sd"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli17markovDropoutRateSdvp",
+      "mangledName": "$s11FuzzilliCli17markovDropoutRateSdvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "consecutiveMutations",
+      "printedName": "consecutiveMutations",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli20consecutiveMutationsSivp",
+      "mangledName": "$s11FuzzilliCli20consecutiveMutationsSivp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "minimizationLimit",
+      "printedName": "minimizationLimit",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Double",
+          "printedName": "Swift.Double",
+          "usr": "s:Sd"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli17minimizationLimitSdvp",
+      "mangledName": "$s11FuzzilliCli17minimizationLimitSdvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "storagePath",
+      "printedName": "storagePath",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.String?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli11storagePathSSSgvp",
+      "mangledName": "$s11FuzzilliCli11storagePathSSSgvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "resume",
+      "printedName": "resume",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli6resumeSbvp",
+      "mangledName": "$s11FuzzilliCli6resumeSbvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "overwrite",
+      "printedName": "overwrite",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli9overwriteSbvp",
+      "mangledName": "$s11FuzzilliCli9overwriteSbvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "staticCorpus",
+      "printedName": "staticCorpus",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli12staticCorpusSbvp",
+      "mangledName": "$s11FuzzilliCli12staticCorpusSbvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "exportStatistics",
+      "printedName": "exportStatistics",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli16exportStatisticsSbvp",
+      "mangledName": "$s11FuzzilliCli16exportStatisticsSbvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "statisticsExportInterval",
+      "printedName": "statisticsExportInterval",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "UInt",
+          "printedName": "Swift.UInt",
+          "usr": "s:Su"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli24statisticsExportIntervalSuvp",
+      "mangledName": "$s11FuzzilliCli24statisticsExportIntervalSuvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "corpusImportPath",
+      "printedName": "corpusImportPath",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.String?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli16corpusImportPathSSSgvp",
+      "mangledName": "$s11FuzzilliCli16corpusImportPathSSSgvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "corpusImportModeName",
+      "printedName": "corpusImportModeName",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli20corpusImportModeNameSSvp",
+      "mangledName": "$s11FuzzilliCli20corpusImportModeNameSSvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "instanceType",
+      "printedName": "instanceType",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli12instanceTypeSSvp",
+      "mangledName": "$s11FuzzilliCli12instanceTypeSSvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "corpusSyncMode",
+      "printedName": "corpusSyncMode",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli14corpusSyncModeSSvp",
+      "mangledName": "$s11FuzzilliCli14corpusSyncModeSSvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "diagnostics",
+      "printedName": "diagnostics",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli11diagnosticsSbvp",
+      "mangledName": "$s11FuzzilliCli11diagnosticsSbvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "inspect",
+      "printedName": "inspect",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli7inspectSbvp",
+      "mangledName": "$s11FuzzilliCli7inspectSbvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "swarmTesting",
+      "printedName": "swarmTesting",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli12swarmTestingSbvp",
+      "mangledName": "$s11FuzzilliCli12swarmTestingSbvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "argumentRandomization",
+      "printedName": "argumentRandomization",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli21argumentRandomizationSbvp",
+      "mangledName": "$s11FuzzilliCli21argumentRandomizationSbvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "additionalArguments",
+      "printedName": "additionalArguments",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli19additionalArgumentsSSvp",
+      "mangledName": "$s11FuzzilliCli19additionalArgumentsSSvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "tag",
+      "printedName": "tag",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Swift.String?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli3tagSSSgvp",
+      "mangledName": "$s11FuzzilliCli3tagSSSgvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "exitCondition",
+      "printedName": "exitCondition",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "ExitCondition",
+          "printedName": "Fuzzilli.Fuzzer.ExitCondition",
+          "usr": "s:8Fuzzilli6FuzzerC13ExitConditionO"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli13exitCondition0A06FuzzerC04ExitD0Ovp",
+      "mangledName": "$s11FuzzilliCli13exitCondition0A06FuzzerC04ExitD0Ovp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "logLevelByName",
+      "printedName": "logLevelByName",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Fuzzilli.LogLevel]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "LogLevel",
+              "printedName": "Fuzzilli.LogLevel",
+              "usr": "s:8Fuzzilli8LogLevelO"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli14logLevelByNameSDySS0A003LogD0OGvp",
+      "mangledName": "$s11FuzzilliCli14logLevelByNameSDySS0A003LogD0OGvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "validEngines",
+      "printedName": "validEngines",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.String]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli12validEnginesSaySSGvp",
+      "mangledName": "$s11FuzzilliCli12validEnginesSaySSGvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "validCorpora",
+      "printedName": "validCorpora",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.String]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli12validCorporaSaySSGvp",
+      "mangledName": "$s11FuzzilliCli12validCorporaSaySSGvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "corpusImportModeByName",
+      "printedName": "corpusImportModeByName",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Fuzzilli.CorpusImportMode]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "CorpusImportMode",
+              "printedName": "Fuzzilli.CorpusImportMode",
+              "usr": "s:8Fuzzilli16CorpusImportModeO"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli22corpusImportModeByNameSDySS0A006CorpusdE0OGvp",
+      "mangledName": "$s11FuzzilliCli22corpusImportModeByNameSDySS0A006CorpusdE0OGvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "validInstanceTypes",
+      "printedName": "validInstanceTypes",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.String]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli18validInstanceTypesSaySSGvp",
+      "mangledName": "$s11FuzzilliCli18validInstanceTypesSaySSGvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "isNetworkParentNode",
+      "printedName": "isNetworkParentNode",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli19isNetworkParentNodeSbvp",
+      "mangledName": "$s11FuzzilliCli19isNetworkParentNodeSbvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "isNetworkChildNode",
+      "printedName": "isNetworkChildNode",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli18isNetworkChildNodeSbvp",
+      "mangledName": "$s11FuzzilliCli18isNetworkChildNodeSbvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Function",
+      "name": "parseAddress",
+      "printedName": "parseAddress(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Tuple",
+          "printedName": "(Swift.String, Swift.UInt16)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UInt16",
+              "printedName": "Swift.UInt16",
+              "usr": "s:s6UInt16V"
+            }
+          ]
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:11FuzzilliCli12parseAddressySS_s6UInt16VtSSF",
+      "mangledName": "$s11FuzzilliCli12parseAddressySS_s6UInt16VtSSF",
+      "moduleName": "FuzzilliCli",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Var",
+      "name": "addressToBindTo",
+      "printedName": "addressToBindTo",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Tuple",
+          "printedName": "(ip: Swift.String, port: Swift.UInt16)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UInt16",
+              "printedName": "Swift.UInt16",
+              "usr": "s:s6UInt16V"
+            }
+          ]
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli013addressToBindD0SS2ip_s6UInt16V4porttvp",
+      "mangledName": "$s11FuzzilliCli013addressToBindD0SS2ip_s6UInt16V4porttvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "addressToConnectTo",
+      "printedName": "addressToConnectTo",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Tuple",
+          "printedName": "(ip: Swift.String, port: Swift.UInt16)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UInt16",
+              "printedName": "Swift.UInt16",
+              "usr": "s:s6UInt16V"
+            }
+          ]
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli016addressToConnectD0SS2ip_s6UInt16V4porttvp",
+      "mangledName": "$s11FuzzilliCli016addressToConnectD0SS2ip_s6UInt16V4porttvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "corpusSyncModeByName",
+      "printedName": "corpusSyncModeByName",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Fuzzilli.CorpusSynchronizationMode]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "CorpusSynchronizationMode",
+              "printedName": "Fuzzilli.CorpusSynchronizationMode",
+              "usr": "s:8Fuzzilli25CorpusSynchronizationModeO"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli20corpusSyncModeByNameSDySS0A0021CorpusSynchronizationE0OGvp",
+      "mangledName": "$s11FuzzilliCli20corpusSyncModeByNameSDySS0A0021CorpusSynchronizationE0OGvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "logger",
+      "printedName": "logger",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Logger",
+          "printedName": "Fuzzilli.Logger",
+          "usr": "s:8Fuzzilli6LoggerC"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli6logger0A06LoggerCvp",
+      "mangledName": "$s11FuzzilliCli6logger0A06LoggerCvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "disabledGenerators",
+      "printedName": "disabledGenerators",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Set",
+          "printedName": "Swift.Set<Swift.String>",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sh"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli18disabledGeneratorsShySSGvp",
+      "mangledName": "$s11FuzzilliCli18disabledGeneratorsShySSGvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "additionalCodeGenerators",
+      "printedName": "additionalCodeGenerators",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[(Fuzzilli.CodeGenerator, Swift.Int)]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Tuple",
+              "printedName": "(Fuzzilli.CodeGenerator, Swift.Int)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "CodeGenerator",
+                  "printedName": "Fuzzilli.CodeGenerator",
+                  "usr": "s:8Fuzzilli13CodeGeneratorC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ]
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli24additionalCodeGeneratorsSay0A00D9GeneratorC_SitGvp",
+      "mangledName": "$s11FuzzilliCli24additionalCodeGeneratorsSay0A00D9GeneratorC_SitGvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "regularCodeGenerators",
+      "printedName": "regularCodeGenerators",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[(Fuzzilli.CodeGenerator, Swift.Int)]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Tuple",
+              "printedName": "(Fuzzilli.CodeGenerator, Swift.Int)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "CodeGenerator",
+                  "printedName": "Fuzzilli.CodeGenerator",
+                  "usr": "s:8Fuzzilli13CodeGeneratorC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ]
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli21regularCodeGeneratorsSay0A00D9GeneratorC_SitGvp",
+      "mangledName": "$s11FuzzilliCli21regularCodeGeneratorsSay0A00D9GeneratorC_SitGvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "codeGenerators",
+      "printedName": "codeGenerators",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "WeightedList",
+          "printedName": "Fuzzilli.WeightedList<Fuzzilli.CodeGenerator>",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "CodeGenerator",
+              "printedName": "Fuzzilli.CodeGenerator",
+              "usr": "s:8Fuzzilli13CodeGeneratorC"
+            }
+          ],
+          "usr": "s:8Fuzzilli12WeightedListV"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli14codeGenerators0A012WeightedListVyAC13CodeGeneratorCGvp",
+      "mangledName": "$s11FuzzilliCli14codeGenerators0A012WeightedListVyAC13CodeGeneratorCGvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Function",
+      "name": "loadCorpus",
+      "printedName": "loadCorpus(from:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Fuzzilli.Program]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Program",
+              "printedName": "Fuzzilli.Program",
+              "usr": "s:8Fuzzilli7ProgramC"
+            }
+          ],
+          "usr": "s:Sa"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:11FuzzilliCli10loadCorpus4fromSay0A07ProgramCGSS_tF",
+      "mangledName": "$s11FuzzilliCli10loadCorpus4fromSay0A07ProgramCGSS_tF",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ],
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Var",
+      "name": "jsShellArguments",
+      "printedName": "jsShellArguments",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.String]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli16jsShellArgumentsSaySSGvp",
+      "mangledName": "$s11FuzzilliCli16jsShellArgumentsSaySSGvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Function",
+      "name": "makeFuzzer",
+      "printedName": "makeFuzzer(with:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Fuzzer",
+          "printedName": "Fuzzilli.Fuzzer",
+          "usr": "s:8Fuzzilli6FuzzerC"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Configuration",
+          "printedName": "Fuzzilli.Configuration",
+          "usr": "s:8Fuzzilli13ConfigurationV"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:11FuzzilliCli10makeFuzzer4with0A00D0CAD13ConfigurationV_tF",
+      "mangledName": "$s11FuzzilliCli10makeFuzzer4with0A00D0CAD13ConfigurationV_tF",
+      "moduleName": "FuzzilliCli",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Var",
+      "name": "mainConfig",
+      "printedName": "mainConfig",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Configuration",
+          "printedName": "Fuzzilli.Configuration",
+          "usr": "s:8Fuzzilli13ConfigurationV"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli10mainConfig0A013ConfigurationVvp",
+      "mangledName": "$s11FuzzilliCli10mainConfig0A013ConfigurationVvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "fuzzer",
+      "printedName": "fuzzer",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Fuzzer",
+          "printedName": "Fuzzilli.Fuzzer",
+          "usr": "s:8Fuzzilli6FuzzerC"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli6fuzzer0A06FuzzerCvp",
+      "mangledName": "$s11FuzzilliCli6fuzzer0A06FuzzerCvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "ui",
+      "printedName": "ui",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "TerminalUI",
+          "printedName": "FuzzilliCli.TerminalUI",
+          "usr": "s:11FuzzilliCli10TerminalUIC"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli2uiAA10TerminalUICvp",
+      "mangledName": "$s11FuzzilliCli2uiAA10TerminalUICvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "signalSources",
+      "printedName": "signalSources",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Dispatch.DispatchSourceSignal]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "DispatchSourceSignal",
+              "printedName": "Dispatch.DispatchSourceSignal",
+              "usr": "s:8Dispatch0A12SourceSignalP"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli13signalSourcesSay8Dispatch0E12SourceSignal_pGvp",
+      "mangledName": "$s11FuzzilliCli13signalSourcesSay8Dispatch0E12SourceSignal_pGvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "workerConfig",
+      "printedName": "workerConfig",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Configuration",
+          "printedName": "Fuzzilli.Configuration",
+          "usr": "s:8Fuzzilli13ConfigurationV"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli12workerConfig0A013ConfigurationVvp",
+      "mangledName": "$s11FuzzilliCli12workerConfig0A013ConfigurationVvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Import",
+      "name": "Fuzzilli",
+      "printedName": "Fuzzilli",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Var",
+      "name": "chakraProfile",
+      "printedName": "chakraProfile",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Profile",
+          "printedName": "FuzzilliCli.Profile",
+          "usr": "s:11FuzzilliCli7ProfileV"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli13chakraProfileAA0D0Vvp",
+      "mangledName": "$s11FuzzilliCli13chakraProfileAA0D0Vvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Import",
+      "name": "Fuzzilli",
+      "printedName": "Fuzzilli",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Var",
+      "name": "duktapeProfile",
+      "printedName": "duktapeProfile",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Profile",
+          "printedName": "FuzzilliCli.Profile",
+          "usr": "s:11FuzzilliCli7ProfileV"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli14duktapeProfileAA0D0Vvp",
+      "mangledName": "$s11FuzzilliCli14duktapeProfileAA0D0Vvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Import",
+      "name": "Fuzzilli",
+      "printedName": "Fuzzilli",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Var",
+      "name": "hermesProfile",
+      "printedName": "hermesProfile",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Profile",
+          "printedName": "FuzzilliCli.Profile",
+          "usr": "s:11FuzzilliCli7ProfileV"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli13hermesProfileAA0D0Vvp",
+      "mangledName": "$s11FuzzilliCli13hermesProfileAA0D0Vvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Import",
+      "name": "Fuzzilli",
+      "printedName": "Fuzzilli",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Var",
+      "name": "jscProfile",
+      "printedName": "jscProfile",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Profile",
+          "printedName": "FuzzilliCli.Profile",
+          "usr": "s:11FuzzilliCli7ProfileV"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli10jscProfileAA0D0Vvp",
+      "mangledName": "$s11FuzzilliCli10jscProfileAA0D0Vvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Import",
+      "name": "Fuzzilli",
+      "printedName": "Fuzzilli",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Var",
+      "name": "jerryscriptProfile",
+      "printedName": "jerryscriptProfile",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Profile",
+          "printedName": "FuzzilliCli.Profile",
+          "usr": "s:11FuzzilliCli7ProfileV"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli18jerryscriptProfileAA0D0Vvp",
+      "mangledName": "$s11FuzzilliCli18jerryscriptProfileAA0D0Vvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Import",
+      "name": "Fuzzilli",
+      "printedName": "Fuzzilli",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Profile",
+      "printedName": "Profile",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "processArgs",
+          "printedName": "processArgs",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Swift.Bool) -> [Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ]
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli7ProfileV11processArgsySaySSGSbcvp",
+          "mangledName": "$s11FuzzilliCli7ProfileV11processArgsySaySSGSbcvp",
+          "moduleName": "FuzzilliCli",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeFunc",
+                  "name": "Function",
+                  "printedName": "(Swift.Bool) -> [Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Array",
+                      "printedName": "[Swift.String]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "String",
+                          "printedName": "Swift.String",
+                          "usr": "s:SS"
+                        }
+                      ],
+                      "usr": "s:Sa"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Bool",
+                      "printedName": "Swift.Bool",
+                      "usr": "s:Sb"
+                    }
+                  ]
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli7ProfileV11processArgsySaySSGSbcvg",
+              "mangledName": "$s11FuzzilliCli7ProfileV11processArgsySaySSGSbcvg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "processEnv",
+          "printedName": "processEnv",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli7ProfileV10processEnvSDyS2SGvp",
+          "mangledName": "$s11FuzzilliCli7ProfileV10processEnvSDyS2SGvp",
+          "moduleName": "FuzzilliCli",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[Swift.String : Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli7ProfileV10processEnvSDyS2SGvg",
+              "mangledName": "$s11FuzzilliCli7ProfileV10processEnvSDyS2SGvg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "maxExecsBeforeRespawn",
+          "printedName": "maxExecsBeforeRespawn",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli7ProfileV21maxExecsBeforeRespawnSivp",
+          "mangledName": "$s11FuzzilliCli7ProfileV21maxExecsBeforeRespawnSivp",
+          "moduleName": "FuzzilliCli",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli7ProfileV21maxExecsBeforeRespawnSivg",
+              "mangledName": "$s11FuzzilliCli7ProfileV21maxExecsBeforeRespawnSivg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "timeout",
+          "printedName": "timeout",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli7ProfileV7timeoutSivp",
+          "mangledName": "$s11FuzzilliCli7ProfileV7timeoutSivp",
+          "moduleName": "FuzzilliCli",
+          "declAttributes": [
+            "HasStorage",
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 3,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli7ProfileV7timeoutSivg",
+              "mangledName": "$s11FuzzilliCli7ProfileV7timeoutSivg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "codePrefix",
+          "printedName": "codePrefix",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli7ProfileV10codePrefixSSvp",
+          "mangledName": "$s11FuzzilliCli7ProfileV10codePrefixSSvp",
+          "moduleName": "FuzzilliCli",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 4,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli7ProfileV10codePrefixSSvg",
+              "mangledName": "$s11FuzzilliCli7ProfileV10codePrefixSSvg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "codeSuffix",
+          "printedName": "codeSuffix",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli7ProfileV10codeSuffixSSvp",
+          "mangledName": "$s11FuzzilliCli7ProfileV10codeSuffixSSvp",
+          "moduleName": "FuzzilliCli",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 5,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli7ProfileV10codeSuffixSSvg",
+              "mangledName": "$s11FuzzilliCli7ProfileV10codeSuffixSSvg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "ecmaVersion",
+          "printedName": "ecmaVersion",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ECMAScriptVersion",
+              "printedName": "Fuzzilli.ECMAScriptVersion",
+              "usr": "s:8Fuzzilli17ECMAScriptVersionO"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli7ProfileV11ecmaVersion0A0010ECMAScriptE0Ovp",
+          "mangledName": "$s11FuzzilliCli7ProfileV11ecmaVersion0A0010ECMAScriptE0Ovp",
+          "moduleName": "FuzzilliCli",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 6,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ECMAScriptVersion",
+                  "printedName": "Fuzzilli.ECMAScriptVersion",
+                  "usr": "s:8Fuzzilli17ECMAScriptVersionO"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli7ProfileV11ecmaVersion0A0010ECMAScriptE0Ovg",
+              "mangledName": "$s11FuzzilliCli7ProfileV11ecmaVersion0A0010ECMAScriptE0Ovg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "crashTests",
+          "printedName": "crashTests",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli7ProfileV10crashTestsSaySSGvp",
+          "mangledName": "$s11FuzzilliCli7ProfileV10crashTestsSaySSGvp",
+          "moduleName": "FuzzilliCli",
+          "declAttributes": [
+            "HasStorage",
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 7,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli7ProfileV10crashTestsSaySSGvg",
+              "mangledName": "$s11FuzzilliCli7ProfileV10crashTestsSaySSGvg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "additionalCodeGenerators",
+          "printedName": "additionalCodeGenerators",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[(Fuzzilli.CodeGenerator, Swift.Int)]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Tuple",
+                  "printedName": "(Fuzzilli.CodeGenerator, Swift.Int)",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "CodeGenerator",
+                      "printedName": "Fuzzilli.CodeGenerator",
+                      "usr": "s:8Fuzzilli13CodeGeneratorC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Int",
+                      "printedName": "Swift.Int",
+                      "usr": "s:Si"
+                    }
+                  ]
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli7ProfileV24additionalCodeGeneratorsSay0A00E9GeneratorC_SitGvp",
+          "mangledName": "$s11FuzzilliCli7ProfileV24additionalCodeGeneratorsSay0A00E9GeneratorC_SitGvp",
+          "moduleName": "FuzzilliCli",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 8,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[(Fuzzilli.CodeGenerator, Swift.Int)]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Tuple",
+                      "printedName": "(Fuzzilli.CodeGenerator, Swift.Int)",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "CodeGenerator",
+                          "printedName": "Fuzzilli.CodeGenerator",
+                          "usr": "s:8Fuzzilli13CodeGeneratorC"
+                        },
+                        {
+                          "kind": "TypeNominal",
+                          "name": "Int",
+                          "printedName": "Swift.Int",
+                          "usr": "s:Si"
+                        }
+                      ]
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli7ProfileV24additionalCodeGeneratorsSay0A00E9GeneratorC_SitGvg",
+              "mangledName": "$s11FuzzilliCli7ProfileV24additionalCodeGeneratorsSay0A00E9GeneratorC_SitGvg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "additionalProgramTemplates",
+          "printedName": "additionalProgramTemplates",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeightedList",
+              "printedName": "Fuzzilli.WeightedList<Fuzzilli.ProgramTemplate>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProgramTemplate",
+                  "printedName": "Fuzzilli.ProgramTemplate",
+                  "usr": "s:8Fuzzilli15ProgramTemplateC"
+                }
+              ],
+              "usr": "s:8Fuzzilli12WeightedListV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli7ProfileV26additionalProgramTemplates0A012WeightedListVyAE0E8TemplateCGvp",
+          "mangledName": "$s11FuzzilliCli7ProfileV26additionalProgramTemplates0A012WeightedListVyAE0E8TemplateCGvp",
+          "moduleName": "FuzzilliCli",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 9,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "WeightedList",
+                  "printedName": "Fuzzilli.WeightedList<Fuzzilli.ProgramTemplate>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProgramTemplate",
+                      "printedName": "Fuzzilli.ProgramTemplate",
+                      "usr": "s:8Fuzzilli15ProgramTemplateC"
+                    }
+                  ],
+                  "usr": "s:8Fuzzilli12WeightedListV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli7ProfileV26additionalProgramTemplates0A012WeightedListVyAE0E8TemplateCGvg",
+              "mangledName": "$s11FuzzilliCli7ProfileV26additionalProgramTemplates0A012WeightedListVyAE0E8TemplateCGvg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "disabledCodeGenerators",
+          "printedName": "disabledCodeGenerators",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli7ProfileV22disabledCodeGeneratorsSaySSGvp",
+          "mangledName": "$s11FuzzilliCli7ProfileV22disabledCodeGeneratorsSaySSGvp",
+          "moduleName": "FuzzilliCli",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 10,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli7ProfileV22disabledCodeGeneratorsSaySSGvg",
+              "mangledName": "$s11FuzzilliCli7ProfileV22disabledCodeGeneratorsSaySSGvg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "additionalBuiltins",
+          "printedName": "additionalBuiltins",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Fuzzilli.JSType]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "JSType",
+                  "printedName": "Fuzzilli.JSType",
+                  "usr": "s:8Fuzzilli6JSTypeV"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli7ProfileV18additionalBuiltinsSDySS0A06JSTypeVGvp",
+          "mangledName": "$s11FuzzilliCli7ProfileV18additionalBuiltinsSDySS0A06JSTypeVGvp",
+          "moduleName": "FuzzilliCli",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 11,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[Swift.String : Fuzzilli.JSType]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "JSType",
+                      "printedName": "Fuzzilli.JSType",
+                      "usr": "s:8Fuzzilli6JSTypeV"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli7ProfileV18additionalBuiltinsSDySS0A06JSTypeVGvg",
+              "mangledName": "$s11FuzzilliCli7ProfileV18additionalBuiltinsSDySS0A06JSTypeVGvg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(processArgs:processEnv:maxExecsBeforeRespawn:timeout:codePrefix:codeSuffix:ecmaVersion:crashTests:additionalCodeGenerators:additionalProgramTemplates:disabledCodeGenerators:additionalBuiltins:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Profile",
+              "printedName": "FuzzilliCli.Profile",
+              "usr": "s:11FuzzilliCli7ProfileV"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Swift.Bool) -> [Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ]
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:SD"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ECMAScriptVersion",
+              "printedName": "Fuzzilli.ECMAScriptVersion",
+              "usr": "s:8Fuzzilli17ECMAScriptVersionO"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sa"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[(Fuzzilli.CodeGenerator, Swift.Int)]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Tuple",
+                  "printedName": "(Fuzzilli.CodeGenerator, Swift.Int)",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "CodeGenerator",
+                      "printedName": "Fuzzilli.CodeGenerator",
+                      "usr": "s:8Fuzzilli13CodeGeneratorC"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Int",
+                      "printedName": "Swift.Int",
+                      "usr": "s:Si"
+                    }
+                  ]
+                }
+              ],
+              "usr": "s:Sa"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "WeightedList",
+              "printedName": "Fuzzilli.WeightedList<Fuzzilli.ProgramTemplate>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProgramTemplate",
+                  "printedName": "Fuzzilli.ProgramTemplate",
+                  "usr": "s:8Fuzzilli15ProgramTemplateC"
+                }
+              ],
+              "usr": "s:8Fuzzilli12WeightedListV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sa"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Fuzzilli.JSType]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "JSType",
+                  "printedName": "Fuzzilli.JSType",
+                  "usr": "s:8Fuzzilli6JSTypeV"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11FuzzilliCli7ProfileV11processArgs0D3Env21maxExecsBeforeRespawn7timeout10codePrefix0L6Suffix11ecmaVersion10crashTests24additionalCodeGenerators0S16ProgramTemplates08disabledtU00S8BuiltinsACSaySSGSbc_SDyS2SGS2iS2S0A0010ECMAScriptP0OAPSayAR0T9GeneratorC_SitGAR12WeightedListVyAR0V8TemplateCGAPSDySSAR6JSTypeVGtcfc",
+          "mangledName": "$s11FuzzilliCli7ProfileV11processArgs0D3Env21maxExecsBeforeRespawn7timeout10codePrefix0L6Suffix11ecmaVersion10crashTests24additionalCodeGenerators0S16ProgramTemplates08disabledtU00S8BuiltinsACSaySSGSbc_SDyS2SGS2iS2S0A0010ECMAScriptP0OAPSayAR0T9GeneratorC_SitGAR12WeightedListVyAR0V8TemplateCGAPSDySSAR6JSTypeVGtcfc",
+          "moduleName": "FuzzilliCli",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:11FuzzilliCli7ProfileV",
+      "mangledName": "$s11FuzzilliCli7ProfileV",
+      "moduleName": "FuzzilliCli",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Var",
+      "name": "profiles",
+      "printedName": "profiles",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : FuzzilliCli.Profile]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Profile",
+              "printedName": "FuzzilliCli.Profile",
+              "usr": "s:11FuzzilliCli7ProfileV"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli8profilesSDySSAA7ProfileVGvp",
+      "mangledName": "$s11FuzzilliCli8profilesSDySSAA7ProfileVGvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Import",
+      "name": "Fuzzilli",
+      "printedName": "Fuzzilli",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Var",
+      "name": "qjsProfile",
+      "printedName": "qjsProfile",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Profile",
+          "printedName": "FuzzilliCli.Profile",
+          "usr": "s:11FuzzilliCli7ProfileV"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli10qjsProfileAA0D0Vvp",
+      "mangledName": "$s11FuzzilliCli10qjsProfileAA0D0Vvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Import",
+      "name": "Fuzzilli",
+      "printedName": "Fuzzilli",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Var",
+      "name": "qtjsProfile",
+      "printedName": "qtjsProfile",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Profile",
+          "printedName": "FuzzilliCli.Profile",
+          "usr": "s:11FuzzilliCli7ProfileV"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli11qtjsProfileAA0D0Vvp",
+      "mangledName": "$s11FuzzilliCli11qtjsProfileAA0D0Vvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Import",
+      "name": "Fuzzilli",
+      "printedName": "Fuzzilli",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Var",
+      "name": "spidermonkeyProfile",
+      "printedName": "spidermonkeyProfile",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Profile",
+          "printedName": "FuzzilliCli.Profile",
+          "usr": "s:11FuzzilliCli7ProfileV"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli19spidermonkeyProfileAA0D0Vvp",
+      "mangledName": "$s11FuzzilliCli19spidermonkeyProfileAA0D0Vvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Import",
+      "name": "Fuzzilli",
+      "printedName": "Fuzzilli",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Var",
+      "name": "v8Profile",
+      "printedName": "v8Profile",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Profile",
+          "printedName": "FuzzilliCli.Profile",
+          "usr": "s:11FuzzilliCli7ProfileV"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli9v8ProfileAA0D0Vvp",
+      "mangledName": "$s11FuzzilliCli9v8ProfileAA0D0Vvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Import",
+      "name": "Fuzzilli",
+      "printedName": "Fuzzilli",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Var",
+      "name": "xsProfile",
+      "printedName": "xsProfile",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Profile",
+          "printedName": "FuzzilliCli.Profile",
+          "usr": "s:11FuzzilliCli7ProfileV"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli9xsProfileAA0D0Vvp",
+      "mangledName": "$s11FuzzilliCli9xsProfileAA0D0Vvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Fuzzilli",
+      "printedName": "Fuzzilli",
+      "declKind": "Import",
+      "moduleName": "FuzzilliCli"
+    },
+    {
+      "kind": "Var",
+      "name": "Seconds",
+      "printedName": "Seconds",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Double",
+          "printedName": "Swift.Double",
+          "usr": "s:Sd"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli7SecondsSdvp",
+      "mangledName": "$s11FuzzilliCli7SecondsSdvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "Minutes",
+      "printedName": "Minutes",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Double",
+          "printedName": "Swift.Double",
+          "usr": "s:Sd"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli7MinutesSdvp",
+      "mangledName": "$s11FuzzilliCli7MinutesSdvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "Hours",
+      "printedName": "Hours",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Double",
+          "printedName": "Swift.Double",
+          "usr": "s:Sd"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli5HoursSdvp",
+      "mangledName": "$s11FuzzilliCli5HoursSdvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "Days",
+      "printedName": "Days",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Double",
+          "printedName": "Swift.Double",
+          "usr": "s:Sd"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:11FuzzilliCli4DaysSdvp",
+      "mangledName": "$s11FuzzilliCli4DaysSdvp",
+      "moduleName": "FuzzilliCli",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "TerminalUI",
+      "printedName": "TerminalUI",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "printNextGeneratedProgram",
+          "printedName": "printNextGeneratedProgram",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli10TerminalUIC25printNextGeneratedProgramSbvp",
+          "mangledName": "$s11FuzzilliCli10TerminalUIC25printNextGeneratedProgramSbvp",
+          "moduleName": "FuzzilliCli",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage",
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli10TerminalUIC25printNextGeneratedProgramSbvg",
+              "mangledName": "$s11FuzzilliCli10TerminalUIC25printNextGeneratedProgramSbvg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli10TerminalUIC25printNextGeneratedProgramSbvs",
+              "mangledName": "$s11FuzzilliCli10TerminalUIC25printNextGeneratedProgramSbvs",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli10TerminalUIC25printNextGeneratedProgramSbvM",
+              "mangledName": "$s11FuzzilliCli10TerminalUIC25printNextGeneratedProgramSbvM",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "printNextInterestingProgram",
+          "printedName": "printNextInterestingProgram",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli10TerminalUIC27printNextInterestingProgramSbvp",
+          "mangledName": "$s11FuzzilliCli10TerminalUIC27printNextInterestingProgramSbvp",
+          "moduleName": "FuzzilliCli",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage",
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli10TerminalUIC27printNextInterestingProgramSbvg",
+              "mangledName": "$s11FuzzilliCli10TerminalUIC27printNextInterestingProgramSbvg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli10TerminalUIC27printNextInterestingProgramSbvs",
+              "mangledName": "$s11FuzzilliCli10TerminalUIC27printNextInterestingProgramSbvs",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli10TerminalUIC27printNextInterestingProgramSbvM",
+              "mangledName": "$s11FuzzilliCli10TerminalUIC27printNextInterestingProgramSbvM",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "lastInterestingProgramFound",
+          "printedName": "lastInterestingProgramFound",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Date",
+              "printedName": "Foundation.Date",
+              "usr": "s:10Foundation4DateV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli10TerminalUIC27lastInterestingProgramFound10Foundation4DateVvp",
+          "mangledName": "$s11FuzzilliCli10TerminalUIC27lastInterestingProgramFound10Foundation4DateVvp",
+          "moduleName": "FuzzilliCli",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage",
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 2,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Date",
+                  "printedName": "Foundation.Date",
+                  "usr": "s:10Foundation4DateV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli10TerminalUIC27lastInterestingProgramFound10Foundation4DateVvg",
+              "mangledName": "$s11FuzzilliCli10TerminalUIC27lastInterestingProgramFound10Foundation4DateVvg",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Date",
+                  "printedName": "Foundation.Date",
+                  "usr": "s:10Foundation4DateV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli10TerminalUIC27lastInterestingProgramFound10Foundation4DateVvs",
+              "mangledName": "$s11FuzzilliCli10TerminalUIC27lastInterestingProgramFound10Foundation4DateVvs",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:11FuzzilliCli10TerminalUIC27lastInterestingProgramFound10Foundation4DateVvM",
+              "mangledName": "$s11FuzzilliCli10TerminalUIC27lastInterestingProgramFound10Foundation4DateVvM",
+              "moduleName": "FuzzilliCli",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(for:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "TerminalUI",
+              "printedName": "FuzzilliCli.TerminalUI",
+              "usr": "s:11FuzzilliCli10TerminalUIC"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Fuzzer",
+              "printedName": "Fuzzilli.Fuzzer",
+              "usr": "s:8Fuzzilli6FuzzerC"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:11FuzzilliCli10TerminalUIC3forAC0A06FuzzerC_tcfc",
+          "mangledName": "$s11FuzzilliCli10TerminalUIC3forAC0A06FuzzerC_tcfc",
+          "moduleName": "FuzzilliCli",
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Function",
+          "name": "initOnFuzzerQueue",
+          "printedName": "initOnFuzzerQueue(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Fuzzer",
+              "printedName": "Fuzzilli.Fuzzer",
+              "usr": "s:8Fuzzilli6FuzzerC"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:11FuzzilliCli10TerminalUIC17initOnFuzzerQueueyy0A00G0CF",
+          "mangledName": "$s11FuzzilliCli10TerminalUIC17initOnFuzzerQueueyy0A00G0CF",
+          "moduleName": "FuzzilliCli",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "printStats",
+          "printedName": "printStats(_:of:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Fuzzilli_Protobuf_Statistics",
+              "printedName": "Fuzzilli.Fuzzilli_Protobuf_Statistics",
+              "usr": "s:8Fuzzilli0A20_Protobuf_StatisticsV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Fuzzer",
+              "printedName": "Fuzzilli.Fuzzer",
+              "usr": "s:8Fuzzilli6FuzzerC"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:11FuzzilliCli10TerminalUIC10printStats_2ofy0A00A20_Protobuf_StatisticsV_AF6FuzzerCtF",
+          "mangledName": "$s11FuzzilliCli10TerminalUIC10printStats_2ofy0A00A20_Protobuf_StatisticsV_AF6FuzzerCtF",
+          "moduleName": "FuzzilliCli",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Var",
+          "name": "colorForLevel",
+          "printedName": "colorForLevel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Fuzzilli.LogLevel : FuzzilliCli.TerminalUI.Color]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "LogLevel",
+                  "printedName": "Fuzzilli.LogLevel",
+                  "usr": "s:8Fuzzilli8LogLevelO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Color",
+                  "printedName": "FuzzilliCli.TerminalUI.Color",
+                  "usr": "s:11FuzzilliCli10TerminalUIC5Color33_9127A8516F8E72D839677E5D3A90AFB4LLO"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:11FuzzilliCli10TerminalUIC13colorForLevel33_9127A8516F8E72D839677E5D3A90AFB4LLSDy0A003LogG0OAC5ColorAELLOGvp",
+          "mangledName": "$s11FuzzilliCli10TerminalUIC13colorForLevel33_9127A8516F8E72D839677E5D3A90AFB4LLSDy0A003LogG0OAC5ColorAELLOGvp",
+          "moduleName": "FuzzilliCli",
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage",
+            "AccessControl",
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 3,
+          "isLet": true,
+          "hasStorage": true
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:11FuzzilliCli10TerminalUIC",
+      "mangledName": "$s11FuzzilliCli10TerminalUIC",
+      "moduleName": "FuzzilliCli",
+      "isOpen": true,
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    }
+  ],
+  "json_format_version": 6
+}

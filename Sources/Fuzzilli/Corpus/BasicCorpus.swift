@@ -137,7 +137,7 @@ public class BasicCorpus: ComponentBase, Collection, Corpus {
 
 
 
-    public func randomElementForSplicing() -> Program {
+    public func randomElementForSplicing_test() -> Program {
             let idx = Int.random(in: 0..<programs.count)
             let program = programs[idx]
             assert(!program.isEmpty)
@@ -145,48 +145,26 @@ public class BasicCorpus: ComponentBase, Collection, Corpus {
     }
 
 
-        public func randomElementForSplicing_test() -> Program {
-        // Mensagem inicial
-        //var logDetails = "[JST] Splicing based on weight!\n"
+        public func randomElementForSplicing() -> Program {
+        // Calculate the total weight of all programs
+        let totalWeight = programs.reduce(0) { $0 + $1.weight }
 
-        // Calcula o peso total dos programas
-        let totalWeight = programs.reduce(0.0) { $0 + $1.weight }
-        //logDetails += "[JST] Total weight of all programs for splicing: \(totalWeight)\n"
-        
-        // Gera um número aleatório entre 0 e o peso total
-        let randomNumber = Double.random(in: 0..<totalWeight)
-        //logDetails += "[JST] Random number generated for splicing: \(randomNumber)\n"
+        // Generate a random number between 0 and the total weight
+        let randomValue = Double.random(in: 0..<totalWeight)
 
-        // Inicializa o peso cumulativo
-        var cumulativeWeight = 0.0
-        
-        // Itera pelos programas e calcula o peso cumulativo
-        for (index, program) in programs.enumerated() {
+        // Iterate through the programs and pick based on the weight
+        var cumulativeWeight: Double = 0.0
+        for program in programs {
             cumulativeWeight += program.weight
-            // Loga cada programa detalhadamente
-            //logDetails += "Program(index: \(index), id: \(program.id), weight: \(program.weight), numSeccov: \(program.numSeccov), size: \(program.size), isEmpty: \(program.isEmpty))\n"
-            //logDetails += "[JST] Program index: \(index), Program weight: \(program.weight), Cumulative weight: \(cumulativeWeight)\n"
-
-            // Verifica se o número aleatório é menor que o peso cumulativo
-            if randomNumber < cumulativeWeight {
-                // Incrementa a idade apenas se o peso não for 200.0
-                if program.weight == 1.0 {
-                    ages[index] += 1
-                    //logDetails += "[JST] Incrementing age for program at index \(index). New age: \(ages[index])\n"
-                }
-                //logDetails += "[JST] Choosing program with weight \(program.weight) for splicing at index \(index)\n"
-
-                //writeLogToFile(logDetails: logDetails, fileName: "splicing.log")
+            if randomValue < cumulativeWeight {
+                assert(!program.isEmpty)
                 return program
             }
         }
 
-        // Se nenhum programa for selecionado, lança um erro fatal
-        //let errorLog = "[JST] Failed to select a program based on weights for splicing.\n"
-        //logDetails += errorLog
-        //writeLogToFile(logDetails: logDetails, fileName: "splicing.log")
-        fatalError("[JST] no program to be selected")
-    }
+        // Fallback in case something goes wrong (this shouldn't be reached)
+        return programs.first!
+        }
 
 
 

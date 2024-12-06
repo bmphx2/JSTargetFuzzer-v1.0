@@ -1,0 +1,11 @@
+{
+  "object" : {
+    "repositories" : {
+      "https://github.com/apple/swift-protobuf.git" : {
+        "repositoryURL" : "https://github.com/apple/swift-protobuf.git",
+        "subpath" : "swift-protobuf-9f1e4ec4"
+      }
+    }
+  },
+  "version" : 1
+}

@@ -1,0 +1,4 @@
+module libreprl {
+    umbrella header "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/libreprl/include/libreprl.h"
+    export *
+}

@@ -1,0 +1,4 @@
+module libsocket {
+    umbrella header "/home/kali/PhD/JSTargetFuzzer-Dev/Sources/libsocket/include/libsocket.h"
+    export *
+}
