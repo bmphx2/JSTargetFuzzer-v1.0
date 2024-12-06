@@ -33,7 +33,7 @@ Instrumentation examples are found in [TargetsJST](TargetsJST/) folder.
 
 ### RQ1
 The results for RQ1 are saved in CSV files within the programs/data folder. For analysis, utilize the `streamlet` client.
-The statistics for this experimental are saved in [statistics](stastitics/) folder.
+The statistics for this experimental are saved in [statistics](stats/) folder.
 * Install StreamLit
 ```bash
 pip install streamlit
@@ -56,7 +56,7 @@ All the programs for RQ2 are saved in IL (Intermediate Language) files within th
 swift-run FuzzILTool --liftCorpusToJS /programs/files/
 ```  
 Programs with weight 1 are saved with _weight1 suffix and with weight 1000 are saved with _weight1000.
-The programs analyzed during the experiment are compressed in ZIP files and saved in [Analyzed Programs](analyzed_programs/) folder.
+The programs analyzed during the experiment are compressed in ZIP files and saved in [Analyzed Programs](analyzed-programs/) folder.
 The script used to calculate the metrics for the JavaScript files is in the same folder, [program_metrics.py](analyzed_programs/program_metrics.py).
 
 ### RQ3
