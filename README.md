@@ -27,13 +27,13 @@ If everything is working properly, you can run JSTargetFuzzer using the command-
 ### Targets & Instrumentation
 
 JSTargetFuzzer utilizes the JavaScript engine's instrumentation to target security-relevant address space and redirect the fuzzing campaings towards it.
-Instrumentation examples are found in [TargetsJST](TargetsJST/) folder.
+Instrumentation examples are found in [TargetsJST](./TargetsJST/) folder.
 
 ## Experimental Package
 
 ### RQ1
 The results for RQ1 are saved in CSV files within the programs/data folder. For analysis, utilize the `streamlet` client.
-The statistics for this experimental are saved in [statistics](stats/) folder.
+The statistics for this experimental are saved in [statistics](./stats/) folder.
 * Install StreamLit
 ```bash
 pip install streamlit
@@ -47,20 +47,22 @@ streamlit run app.py
   Local URL: http://localhost:8501
   Network URL: http://172.27.114.46:8501
 ```
-All the statistics during fuzzing campaigns are saved in the same folder.
+All the statistics during fuzzing campaigns are saved in the `programs/data` folder.
 
 ### RQ2
-All the programs for RQ2 are saved in IL (Intermediate Language) files within the program/files folder during execution. For program analysis, utilize the `streamlet` client.
+All the programs for RQ2 are saved in IL (Intermediate Language) files within the `program/files` folder during execution. Programs with weight 1 are saved with _weight1 suffix and with weight 1000 are saved with _weight1000.
+
+For program analysis, utilize the `streamlet` client.
 * To convert the IL to JavaScript:
 ```bash
 swift-run FuzzILTool --liftCorpusToJS /programs/files/
 ```  
-Programs with weight 1 are saved with _weight1 suffix and with weight 1000 are saved with _weight1000.
-The programs analyzed during the experiment are compressed in ZIP files and saved in [Analyzed Programs](analyzed-programs/) folder.
-The script used to calculate the metrics for the JavaScript files is in the same folder, [program_metrics.py](analyzed_programs/program_metrics.py).
+
+The programs analyzed during the experiment are compressed in ZIP files and saved in [Analyzed Programs](./analyzed-programs/) folder.
+The script used to calculate the metrics for the JavaScript files is in the same folder, [program_metrics.py](./analyzed_programs/program_metrics.py).
 
 ### RQ3
-The vulnerability found during our experiment is located in the [Crashes](crashes/) folder.
+The vulnerability found during our experiment is located in the [Crashes](./crashes/) folder.
 
 The JavaScript files that caused  the crashes are saved in a directory determined by the command-line, for example
 ```bash
