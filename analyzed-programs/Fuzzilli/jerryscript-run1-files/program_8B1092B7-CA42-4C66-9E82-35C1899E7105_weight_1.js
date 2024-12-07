@@ -1,9 +1,0 @@
-new Int32Array(1059);
-new BigUint64Array(393);
-const v8 = new Float32Array(3409);
-let v10 = -465.2135967499702;
-v8[8.163097838604739e+307];
-Math.clz32(BigUint64Array);
-Math.exp(0.046645638662840994);
-0.046645638662840994 && --v10;
-!0.046645638662840994;

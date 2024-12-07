@@ -1,9 +1,0 @@
-[3.78914152474935e+307,1.4681211226101342e+308,2.9679237404104376e+307,NaN,-1000000000.0];
-[2.2250738585072014e-308,4.76401694924514e+307,-301671.0326653655];
-[1.992239022588601e+307,0.033918291147394086,-3.0];
-new Uint8ClampedArray(4096);
-new BigInt64Array(4096);
-new BigUint64Array(6);
-const v13 = new Uint16Array(Uint16Array, Uint16Array, Uint16Array);
-const v15 = new Float32Array(v13, Float32Array, v13);
-v13.copyWithin(197, v15.length);

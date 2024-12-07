@@ -1,6 +1,0 @@
-const v1 = new Uint32Array(Uint32Array);
-const v3 = new WeakMap();
-[v3,Uint32Array,v1,-9223372036854775808,v3,-9223372036854775808,-48986929,Uint32Array];
-[[-48986929,-1865784241,v1,v1],v3,-48986929];
-let v13 = 9007199254740992n;
-++v13;

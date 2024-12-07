@@ -1,7 +1,0 @@
-[-4.92667436705662];
-[6.956885485505275e+307,-5.659410640183177e+307];
-const v5 = [0.0,-710.4734408429518,NaN,-Infinity,3.665959916690916,217.04063422443824,-1.0];
-new Int16Array(Int16Array);
-new BigInt64Array(9);
-new Float32Array(512);
-Array(v5).includes(false, 257);

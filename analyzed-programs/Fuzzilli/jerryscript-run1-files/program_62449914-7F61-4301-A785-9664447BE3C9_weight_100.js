@@ -1,4 +1,0 @@
-new Int32Array(16);
-new Float64Array(9);
-new Int16Array(10);
-9223372036854775807n >= 9223372036854775807n;

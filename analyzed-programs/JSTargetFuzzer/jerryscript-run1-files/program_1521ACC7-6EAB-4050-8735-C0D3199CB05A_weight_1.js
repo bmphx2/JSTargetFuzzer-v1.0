@@ -1,2 +1,0 @@
-new WeakMap();
-typeof null;

@@ -1,2 +1,0 @@
-new Date();
-typeof null;

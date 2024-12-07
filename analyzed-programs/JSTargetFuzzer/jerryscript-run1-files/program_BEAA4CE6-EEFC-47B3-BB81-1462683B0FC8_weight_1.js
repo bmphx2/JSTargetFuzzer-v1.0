@@ -1,5 +1,0 @@
-const v5 = new Uint8ClampedArray(4);
-new Uint32Array(829);
-new Float64Array(512);
-const v12 = [-1000000.0,535179.2230165782,-2.2250738585072014e-308,-730.4166423777232,-0.0,1000000.0];
-v12.includes(v12, v5);

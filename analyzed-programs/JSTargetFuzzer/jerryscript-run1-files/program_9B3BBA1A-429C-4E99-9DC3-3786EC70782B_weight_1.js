@@ -1,4 +1,0 @@
-switch ("getOwnPropertyDescriptor") {
-    default:
-        break;
-}
