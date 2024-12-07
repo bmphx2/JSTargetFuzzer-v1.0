@@ -50,7 +50,7 @@ streamlit run app.py
 All the statistics during fuzzing campaigns are saved in the `programs/data` folder.
 
 ### RQ2
-All the programs for RQ2 are saved in IL (Intermediate Language) files within the `program/files` folder during execution. Programs with weight 1 are saved with _weight1 suffix and with weight 1000 are saved with _weight1000.
+All the programs for RQ2 are saved in IL (Intermediate Language) files within the `programs/files` folder during execution. Programs with weight 1 are saved with _weight1 suffix and with weight 1000 are saved with _weight1000.
 
 For program analysis, utilize the `streamlet` client.
 * To convert the IL to JavaScript:
